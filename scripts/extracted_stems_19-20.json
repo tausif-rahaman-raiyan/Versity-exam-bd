@@ -1,0 +1,943 @@
+[
+  {
+    "idx": 1,
+    "subject": "Physics",
+    "stem": "1. দুইটি ভেক্টর $\\vec{A}=3 \\hat{i}-3 \\hat{j}$ এবং $\\vec{B}=5 \\hat{i}+5 \\hat{k}$ এর মধ্যবর্তী কোণ কত?",
+    "opts": [
+      "60°",
+      "30°",
+      "45°",
+      "90°"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "Physics",
+    "stem": "2. স্থির অবস্থায় থাকা একটি বস্তু বিস্ফোরিত হয়ে m1 ও m2 ভরের দুইটি বস্তুতে পরিণত হয়ে যথাক্রমে v1 ও v2 বেগে বিপরীত দিকে চলমান। এর অনুপাত কত?",
+    "opts": [
+      "$\\frac{m_{1}}{m_{2}}$",
+      "$-\\frac{m_{2}}{m_{1}}$",
+      "$\\frac{m_{2}}{m_{1}}$",
+      "$\\sqrt{\\frac{m_{2}}{m_{1}}}$"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "Physics",
+    "stem": "3. নিচের কোনটি ভরের একক নয়?",
+    "opts": [
+      "amu",
+      "Nm-1s2",
+      "MeV",
+      "$\\frac{\\mathrm{MeV}}{c^{2}}$"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "Physics",
+    "stem": "4. সরল ছন্দিত গতিতে স্পন্দনরত দুটি কণার সরণ x1 = Asinωt এবং x2 = Acosωt, যে কোন সময়ে এদের মধ্যে দশা পার্থক্য কত হবে?",
+    "opts": [
+      "2π",
+      "π",
+      "π/2",
+      "π/4"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "Physics",
+    "stem": "5. ব্যতিচারের ক্ষেত্রে উজ্জ্বল বা গঠনমূলক ঝালরের শর্ত কোনটি?",
+    "opts": [
+      "$a \\sin \\theta=(2 n+1) \\frac{\\lambda}{2}$",
+      "$a \\sin \\theta=n \\lambda$",
+      "$a \\sin \\theta=n \\frac{\\lambda}{2}$",
+      "$a \\sin \\theta=(2 n+1) \\lambda$"
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Physics",
+    "stem": "6. নিচের বর্তনীতে তড়িৎপ্রবাহ $I_1$ এর মান কত?",
+    "opts": [
+      "0.2A",
+      "0.4A",
+      "0.6A",
+      "1.2A"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "Physics",
+    "stem": "7. একটি কার্নো ইঞ্জিন 500 K এবং 250 K তাপমাত্রার দুইটি আধারের মাধ্যমে পরিচালিত হয়। প্রতােক চক্রে ইঞ্জিন যদি উৎস থেকে 1kcal তাপ গ্রহণ করে তাহলে প্রত্যেক চক্রে তাপ প্রাহকে তাপ বর্জন করার পরিমাণ কত?",
+    "opts": [
+      "500 kcal",
+      "1000 kcal",
+      "500 cal",
+      "10 kcal"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "Physics",
+    "stem": "8. একটি বস্তু π m ব্যাসার্ধের বৃত্তাকার পথে 4.0m/s সমদ্রুতিতে ঘুরছে। একবার খুরে আসতে বস্তুটির কত সময় লাগবে।",
+    "opts": [
+      "2/π² s",
+      "π2/2 s",
+      "π/2 s",
+      "π²/4 s"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "Physics",
+    "stem": "9. 10 cm লম্বা ও 0.5 cm ব্যাসার্ধ বিশিষ্ট একটি তামা ও একটি লোহার তারকে জোড়া লাগিয়ে মোট দৈর্ঘ্য 20 cm করা হলো। জোড়া লাগানো তারটিকে বল প্রয়োগ করে লম্বা করা হলো। লোহার ইয়ং-এর গুণাঙ্ক তামার ইং-এর গুণাঙ্কের দ্বিগুণ হলে, লোহার দৈর্ঘ্য বৃদ্ধি ও তামার দৈর্ঘ্য বৃদ্ধির অনুপাত কত?",
+    "opts": [
+      "1:8",
+      "1:6",
+      "1:4",
+      "1:2"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "Physics",
+    "stem": "10. অ্যালুমিনিয়াম, হিলিয়াম এবং সিলিকনের পারমাণবিক সংখ্যা যথাক্রমে 13, 2 এবং 14 হলে,$_{13}^{27}\\ Al\\ +\\ _2^4\\ He\\ \\to_{14}^{30}\\ Si\\ +()$ নিউক্লিয়ার বিক্রিয়াতে অনুপস্থিত কণা কোনটি?",
+    "opts": [
+      "an α particle",
+      "an election",
+      "a positron",
+      "a proton"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "Physics",
+    "stem": "11. একটি গাড়ি স্থির অবস্থা (P বিন্দু) হতে সােজা রাস্তায় যাত্রা শুরু করল। কিছু সময় পরে গাড়িটি মন্দনের ফলে থেমে গেল এবং একই ভাবে (প্রথমে গতি বাড়িয়ে এবং পরে গতি কমিয়ে) আবার যাত্রা শুরু করে P বিন্দুতে ফিরে আসলাে। নীচের কোন লেখচিত্রটি গাড়ির গতিকে প্রকাশ করে?",
+    "opts": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Physics",
+    "stem": "12. q পরিমাণ আধান একটি চৌম্বক ক্ষেত্র $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{v}$ বেগে গতিশীল। উক্ত স্থানে একটি তড়িতক্ষেত্র E থাকলে আধানের উপর ক্রিয়াশীল বল কত হবে?",
+    "opts": [
+      "$q(\\vec{E}+\\vec{v} \\times \\vec{B})$",
+      "$q(\\vec{E}+\\vec{v} \\cdot \\vec{B})$",
+      "$q \\vec{E}$",
+      "$q(\\vec{E}+\\vec{B})$"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "Physics",
+    "stem": "13. কাগজের ভার হিসাবে ব্যবহৃত একটি পুরু কাঁচ (প্রতিসরাঙ্ক 1.5) খণ্ডের উপর থেকে খাড়া নিচের দিকে তাকালে কাগজের উপর একটি দাগ কাঁচের উপর প্রাপ্ত থেকে 6 cm নিচে দেখা যায়। কাচ খণ্ডটির পুরুত্ব কত?",
+    "opts": [
+      "4cm",
+      "6cm",
+      "9cm",
+      "12cm"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "Physics",
+    "stem": "14. 5m উচ্চতা হতে একটি বলকে 20 m/s বেগে অনুভূমিকের সাথে 30° কোণে উপরের দিকে নিক্ষেপ করা হলাে। তাহলে বলটির বিচরণ কাল কত?",
+    "opts": [
+      "$\\frac{10+\\sqrt{198}}{9.8} s$",
+      "$\\frac{10 \\sqrt{198}}{9.8} s$",
+      "$\\frac{10 \\pm \\sqrt{198}}{9.8} s$",
+      "$\\frac{10 \\pm \\sqrt{2}}{9.8} s$"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "Chemistry",
+    "stem": "15. একটি স্থির তরঙ্গে, পরপর দুটি নিস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব 1 m, এর তরঙ্গ দৈর্ঘ্য কত?",
+    "opts": [
+      "25cm",
+      "50cm",
+      "100cm",
+      "200cm"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "Chemistry",
+    "stem": "1. Fe(s)|Fe2+(aq)||Br2(l); Br-(aq)|Pt(s) তড়িৎ রাসায়নিক কোষের সঠিক কোষ-বিক্রিয়া কোনটি?",
+    "opts": [
+      "Fe + Br2 → Fe2+ + 2Br-",
+      "Fe+ + 2Br- → Fe2+ + Br2",
+      "Fe2++ + Br2 → Fe + 2Br-",
+      "Fe+ + Br2 → Fe3+ + 2Br-"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Chemistry",
+    "stem": "2. কোনগুলো লিপিডের বৈশিষ্ট্য? (i) পানির চেয়ে হালকা (ii) হাড়ের সন্ধিস্থানে লুব্রিকেন্ট হিসেবে কাজ করে (iii) ফ্যাটি এসিড ও গ্লিসারল দ্বারা গঠিত",
+    "opts": [
+      "i, ii",
+      "i, iii",
+      "ii, iii",
+      "i, ii, iii"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "Chemistry",
+    "stem": "3. নিচের কোনটিকে সাধারণত তরল-তরল ক্রোমাটোগ্ৰাফি বলে?",
+    "opts": [
+      "কলাম ক্রোমাটোগ্ৰাফি",
+      "কাগজ ক্রোমাটোগ্ৰাফি",
+      "গ‍্যাস ক্রোমাটোগ্ৰাফি",
+      "পাতলা স্তর ক্রোমাটোগ্ৰাফি"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Chemistry",
+    "stem": "4. MRI যন্ত্রের সাহায্যে মানবদেহের রােগ নির্ণয়ে কোন মৌলটির ভূমিকা রয়েছে?",
+    "opts": [
+      "Neon",
+      "Oxygen",
+      "Hydrogen",
+      "Silicon"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "Chemistry",
+    "stem": "5. আর্দ্র বাতাসের সংস্পর্শে ক্যালসিয়াম কার্বাইড নিম্নের কোন যৌগটি উৎপন্ন করে?",
+    "opts": [
+      "Ethanal",
+      "Ethane",
+      "Ethyne",
+      "Ethene"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "Chemistry",
+    "stem": "6. উত্তেজিত অবস্থায় হাইড্রোজেন পরমাণুর কোয়ান্টাম সংখ্যা n = 4,I = 1 বিশিষ্ট অরবিটালটি কি?",
+    "opts": [
+      "s orbital",
+      "p orbital",
+      "dz2 orbital",
+      "dx²-y² orbital"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "Chemistry",
+    "stem": "7. কার্বন মৌল হীরা ও গ্রাফাইট-এ ভিন্নরূপ। এদের ক্ষেত্রে কোন উক্তিটি সত্য নয়?",
+    "opts": [
+      "উভয়েই কার্বন মৌল দ্বারা গঠিত",
+      "হীরা ও গ্রাফাইটে কার্বন পরমাণুর সংকরায়ন হলাে যথাক্রমে sp3 ও sp2",
+      "উভয়ের বিদ্যুৎ পরিবাহিতা ভিন্ন",
+      "উভয়ের দহন তাপ একই"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "Chemistry",
+    "stem": "8. নিম্নের কোন পরীক্ষাটি সালফিউরিক এসিড ও নাইট্রিক এসিডের মধ্যে পার্থক্য করতে ব্যবহার করা যায়?",
+    "opts": [
+      "সার্বজনীন নির্দেশক দিয়ে পরীক্ষা",
+      "সােডিয়াম কার্বনেট গুড়া যােগে",
+      "ম্যাগনেশিয়াম ফিতা যােগে",
+      "বেরিয়াম নাইট্রেট দ্রবণ যােগে"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "Chemistry",
+    "stem": "9. নাইট্রেট অ্যানায়নে কয়টি ইলেকট্রন রয়েছে?",
+    "opts": [
+      "19",
+      "32",
+      "31",
+      "23"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Chemistry",
+    "stem": "10. BaMnF4 এবং Li2MgFeF6 যৌগদ্বয়ে Mn ও Fe এর জারণ সংখ্যা যথাক্রমে____,_____।",
+    "opts": [
+      "+2, +2",
+      "+5, +2",
+      "+4, +3",
+      "+5, +3"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "Chemistry",
+    "stem": "11. কোনটি অম্লীয় জলীয় দ্রবণ তৈরি করে?",
+    "opts": [
+      "Na2O",
+      "ZnO",
+      "Al2O3",
+      "CO2"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "Chemistry",
+    "stem": "12. 50 mL তরল পদার্থ পরিমাপ করতে নিচের কোনটির ব্যবহার যথার্থ-",
+    "opts": [
+      "পিপেট",
+      "মাপন সিলিন্ডার",
+      "ব্যুরেট",
+      "আয়তনিক ফ্লাক্স"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "Chemistry",
+    "stem": "13. নিম্নের কোন যৌগটি জ্যামিতিক সমাণুতা প্রর্দশন করে?",
+    "opts": [
+      "(CH3)3N",
+      "CH3CH = CH2",
+      "(CH3)2NH",
+      "CH3CH = CHCH3"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "Chemistry",
+    "stem": "14. CH3 - CH(C2H5) - CH2 — CHBr — CHCI – CH3 যৌগটির IUPAC নাম হলো-",
+    "opts": [
+      "2 - ক্লোরো- 3 -ব্রোমো - 5 - ইথাইলহেক্সেন",
+      "2 - ক্লোরো -3- ব্রোমো - 5 - মিথাইলহেপটেন",
+      "3 - ব্রোমো- 2 - ক্লোরো - 5 - ইথাইলহেক্সেন",
+      "3- ব্রোমো -2- ক্লোরো - 5 - মিথাইলহেপটেন"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Mathematics",
+    "stem": "15. 0.98 g H₂SO4 ব্যবহার করে 1.0 L জলীয় দ্রবণ তৈরি করা হল। দ্রবণটির ঘনমাত্রা কত?",
+    "opts": [
+      "0.1 M",
+      "0.1 m",
+      "0.01 M",
+      "0.01 m"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "Mathematics",
+    "stem": "1. [0,2] ব্যবধিতে y=x-1 এবং y=0 রেখা দ্বারা আবদ্ধ অঞ্চলের মোট ক্ষেত্রফল কত?",
+    "opts": [
+      "$\\int_{0}^{2}(x-1) d x$",
+      "$\\int_{0}^{2}|x-1| d x$",
+      "$2 \\int_{0}^{2}(1-x) d x$",
+      "$2 \\int_{0}^{2}(x-1) d x$"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "Mathematics",
+    "stem": "2. যদি f(x) = x2 - 2 |x| এবং g(x) = x2 +1 হয় তাহলে g(f(-2)) এর মান কত?",
+    "opts": [
+      "0",
+      "-1",
+      "5",
+      "1"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "Mathematics",
+    "stem": "3. $\\vec{b}=6 \\hat{i}+7 \\hat{j}-6 \\hat{k}$ ভেক্টর বরাবর $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ ভেক্টরের উপাংশ হল-",
+    "opts": [
+      "$\\frac{8}{121} \\vec{b}$",
+      "$-\\frac{8}{121} \\vec{b}$",
+      "$\\frac{8}{121} \\vec{a}$",
+      "$-\\frac{8}{121} \\vec{a}$"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "Mathematics",
+    "stem": "4. 'Geometry' শব্দটির বর্ণগুলির সবগুলো নিয়ে কত প্রকারে সাজানো যায় যেন প্রথম ও শেষ অক্ষর 'e' থাকে?",
+    "opts": [
+      "360",
+      "20160",
+      "720",
+      "30"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "Mathematics",
+    "stem": "5. $\\frac{1}{|3 x-1|}>1$ এর সমাধান হল-",
+    "opts": [
+      "$\\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty)$",
+      "$x>\\frac{1}{3}$",
+      "\\(0",
+      "$\\left(0, \\frac{1}{3}\\right) \\cup\\left(\\frac{1}{3}, \\frac{2}{3}\\right)$"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Mathematics",
+    "stem": "6. A = $\\begin{pmatrix} 3 & -4 \\\\ 2 & -3 \\end{pmatrix}$ হলে det($2A^{-1}$) এর মান হলো -",
+    "opts": [
+      "$\\frac{1}{4}$",
+      "-4",
+      "4",
+      "$-\\frac{1}{4}$"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "Mathematics",
+    "stem": "7. $\\frac{1+i}{1-i}$ এর পরম মান হলো-",
+    "opts": [
+      "0",
+      "1",
+      "$\\sqrt{2}$",
+      "i"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "Mathematics",
+    "stem": "8. $\\lim_{x \\to -\\infty} \\frac{\\sqrt{x^2+2x}}{-x}$ এর মান হলো-",
+    "opts": [
+      "1",
+      "$\\infty$",
+      "-$\\infty$",
+      "-1"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "Mathematics",
+    "stem": "9. (4,3) কেন্দ্র বিশিষ্ট এবং 5x - 12y +3 = 0 সরলরেখাকে স্পর্শ করে এমন বৃত্তের সমীকরণ কোনটি?",
+    "opts": [
+      "x² + y2 +8x - 6y + 24= 0",
+      "x² +y2 - 8x - 6y +24 =0",
+      "x² + y² + 8x + 6y + 24 = 0",
+      "x²+y2 - 8х - 6у -24=0"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "Mathematics",
+    "stem": "10. $(2x + \\frac{1}{8x})^8$ এর বিস্তৃতিতে x বর্জিত পদের মান হলো -",
+    "opts": [
+      "$\\frac{70}{81}$",
+      "520",
+      "$\\frac{35}{128}$",
+      "$\\frac{7}{512}$"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "Mathematics",
+    "stem": "11. 25x2+ 16y2= 400 উপবৃত্তের উৎকেন্দ্রিকতা কত?",
+    "opts": [
+      "$\\frac{2}{3}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{3}{5}$"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "Mathematics",
+    "stem": "12. $\\cot \\left( \\sin^{-1} \\frac{1}{2} \\right) = ?$",
+    "opts": [
+      "$\\frac{1}{\\sqrt{3}}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$\\sqrt{3}$",
+      "$\\frac{2}{\\sqrt{3}}$"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Mathematics",
+    "stem": "13. $\\int \\frac{dx}{(e^x+e^{-x})^2} = ?$",
+    "opts": [
+      "$\\frac{1}{2(e^{2x}+1)} + c$",
+      "$\\frac{-1}{2(e^{2x}+1)} + c$",
+      "$\\frac{1}{2e^{2x}} + c$",
+      "$\\frac{-1}{2e^{2x}} + c$"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "Mathematics",
+    "stem": "14. $f(x) = \\sqrt{2 - \\sqrt{2 - x}}$ এর ডোমেইন হলো -",
+    "opts": [
+      "(-∞, 2)",
+      "(-∞, ∞)",
+      "(-2, ∞)",
+      "[-2,2]"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Biology",
+    "stem": "15. কোন একটি বিন্দুতে ক্রিয়ারত $\\vec{P}$ ও $2\\vec{P}$ বলদ্বয়ের লব্ধি $\\sqrt{7}\\vec{P}$ হলে তাদের মধ্যবর্তী কোণ কত?",
+    "opts": [
+      "30°",
+      "90°",
+      "60°",
+      "180°"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "Biology",
+    "stem": "1. শিখাকোষ যে পর্বের বৈশিষ্ট্য-",
+    "opts": [
+      "আর্থ্রোপোডা",
+      "অ্যানিলিডা",
+      "মলাস্কা",
+      "প্লাটিহেলমিনথেস"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Biology",
+    "stem": "2. পনির তৈরিতে ব্যবহৃত এনজাইমের নাম-",
+    "opts": [
+      "পেপেইন",
+      "রেনিন",
+      "ক্যাটালেজ",
+      "পেকটিন"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "Biology",
+    "stem": "3. মানব জিনােমে ক্ষারক-যুগলের সংখ্যা-",
+    "opts": [
+      "৩ মিলিয়ন",
+      "৩০ মিলিয়ন",
+      "৩০০ মিলিয়ন",
+      "৩০০০ মিলিয়ন"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Biology",
+    "stem": "4. কোন অঙ্গাণুতে অক্সিসোম দেখা যায়?",
+    "opts": [
+      "মাটোকন্ড্রিয়া",
+      "নিউক্লিয়াস",
+      "রাইবােসােম",
+      "লাইসােসােম"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "Biology",
+    "stem": "5. Poaceae গােত্রের উদ্ভিদের ফলকে বলা হয়-",
+    "opts": [
+      "বেরি",
+      "ক্যারিওপসিস",
+      "পড",
+      "ক্যাপসুল"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "Biology",
+    "stem": "6. কোন প্রাণীতে প্ল্যাকয়েড আঁইশ রয়েছে?",
+    "opts": [
+      "হাঙর",
+      "তারামাছ",
+      "কইমাছ",
+      "কাতল মাছ"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "Biology",
+    "stem": "7. পলিজিন এর প্রভাব-",
+    "opts": [
+      "সমপ্রকট",
+      "প্রকট",
+      "প্রচ্ছন্ন",
+      "পুঞ্জিভূত"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "Biology",
+    "stem": "8. মানবদেহে মােট ইম্যুনোগ্লোবিউলিনের কত ভাগ IgG?",
+    "opts": [
+      "75%",
+      "15%",
+      "10%",
+      "5%"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "Biology",
+    "stem": "9. কোনটি পত্রঝরা উদ্ভিদ?",
+    "opts": [
+      "Pongamia pinnata",
+      "Heritiera fomes",
+      "Shorea robusta",
+      "Ceriops decandra"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "Biology",
+    "stem": "10. কোন হরমােনের উৎস পিটুইটারি গ্রন্থি নয়?",
+    "opts": [
+      "ভ্যাসােপ্রেসিন",
+      "প্রােজেস্টেরন",
+      "প্রোলাক্টিন",
+      "অক্সিটসিন"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "Biology",
+    "stem": "11. কোন অ্যামাইনো এসিডের জন্য ৪ টি কোড রয়েছে?",
+    "opts": [
+      "লিউসিন",
+      "আরজিনিন",
+      "ভ্যালিন",
+      "ট্রিপটোফেন"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "Biology",
+    "stem": "12. মানুষের মস্তিষ্ক ও সুষুম্নাকান্ডের আবরণ কোনটি?",
+    "opts": [
+      "মেনিনজেস",
+      "পেরিটোনিয়াম",
+      "পেরিকার্ডিয়াম",
+      "নিউরােকার্ডিয়াম"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "Biology",
+    "stem": "13. কোনটির পরিবহনতন্ত্র আছে, কিন্তু ফুল হয় না?",
+    "opts": [
+      "থ্যালােফাইটা",
+      "ব্রায়ােফাইটা",
+      "টেরিডােফাইটা",
+      "স্পার্মোফাইটা"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Bangla",
+    "stem": "14. কোন উদ্ভিদটি বাংলাদেশে বিলুপ্ত প্রায়?",
+    "opts": [
+      "Pteris vittata",
+      "Podocarpus nerifolia",
+      "Cycas revoluta",
+      "Nerium indicum"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "Bangla",
+    "stem": "15. এড্রেনাল গ্রন্থি থেকে কোন হরমোন নিঃসৃত হয়?",
+    "opts": [
+      "গ্লুকোকরটিকয়েড",
+      "গোনাডোট্রপিন",
+      "প্যারাথরমোন",
+      "ক্যালসিটোনিন"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "Bangla",
+    "stem": "1. 'আজব' শব্দটি কোন বিদেশি শব্দ?",
+    "opts": [
+      "আরবি",
+      "ফরাসি",
+      "হিন্দি",
+      "উর্দু"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "Bangla",
+    "stem": "2. ণ-ত্ব বিধান অনুযায়ী কোনটি অশুদ্ধ?",
+    "opts": [
+      "দুর্ণীতি",
+      "দারুণ",
+      "মূল্যায়ন",
+      "বর্ণ"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "Bangla",
+    "stem": "3. 'সমুদ্র' শব্দটির প্রতিশব্দ-",
+    "opts": [
+      "রত্নাকর",
+      "অম্বুজ",
+      "জলদ",
+      "বরুণ"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "Bangla",
+    "stem": "4. 'নৈয়ায়িক' কাকে বলা হয়?",
+    "opts": [
+      "নীতিবানকে",
+      "যিনি ন্যায়শাস্ত্র জানেন",
+      "পন্ডিতকে",
+      "তার্কিককে"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "Bangla",
+    "stem": "5. কোন শব্দগুচ্ছ শুদ্ধ?",
+    "opts": [
+      "সমীচীন, কণ্ঠ, মাষ্টার",
+      "অঞ্জুলি, দন্ডনীয়, কিংকর্তব্যবিমুঢ়",
+      "প্রতিযোগিতা, স্বাদেশীক, সন্তরণ",
+      "সহযোগী, শিরশ্ছেদ, গুঞ্জরণ"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "Bangla",
+    "stem": "6. 'বৈশিষ্ট্য' শব্দটি গঠিত হয়েছে-",
+    "opts": [
+      "সন্ধিযােগে",
+      "সমাসযােগে",
+      "প্রত্যয়যােগে",
+      "উপসর্গযােগে"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "Bangla",
+    "stem": "7. কোনটি ধ্বন্যাত্মক শব্দের উদাহরণ?",
+    "opts": [
+      "শীত-শীত",
+      "ঘুম-ঘুম",
+      "জ্বর-জ্বর",
+      "টুপ-টাপ"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "Bangla",
+    "stem": "8. কোন উপসর্গটি ভিন্নার্থে প্রযুক্ত?",
+    "opts": [
+      "প্রতিপক্ষ",
+      "প্রতিদন্দ্বী",
+      "প্রতিবিম্ব",
+      "প্রতিবাদ"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "Bangla",
+    "stem": "9. ‘আমার পথ’ প্রবন্ধে পথপ্রদর্শক কে?",
+    "opts": [
+      "ধর্ম",
+      "সত্য",
+      "দেশ",
+      "নেতা"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "Bangla",
+    "stem": "10. 'বিভীষণের প্রতি মেঘনাদ' কবিতায় কাকে বাসবত্রাস বলা হয়েছে?",
+    "opts": [
+      "বিভীষণকে",
+      "রামকে",
+      "রাবণকে",
+      "মেঘনাদকে"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Bangla",
+    "stem": "11. কারমাইকেলের অনুসন্ধানে রেশমি রুমাল তৈরির ক্ষেত্র হিসেবে কোন এলাকা আবিষ্কৃত হয়েছে?",
+    "opts": [
+      "বীরভূম",
+      "বর্ধমান",
+      "রাজশাহী",
+      "মুর্শিদাবাদ"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "Bangla",
+    "stem": "12. 'মাসি-পিসি' গল্পে আহ্লাদির মুখে কে দেখতে পায় নিজ মেয়ের মুখের ছাপ?",
+    "opts": [
+      "কৈলেশ",
+      "জগু",
+      "রহমান",
+      "কানাই"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Bangla",
+    "stem": "13. 'আঠারো বছর বয়স' কবিতার মূলসুর-",
+    "opts": [
+      "নৈতিকতা",
+      "বিবেকবোধ",
+      "অদম্য তারুণ্যশক্তি",
+      "ভীরুতা"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "Bangla",
+    "stem": "14. 'তোমার কথাগুলি ভারি সোশিয়ালিস্টিক' - এ উক্তি কার উদ্দেশ্যে উচ্চারিত হয়েছে?",
+    "opts": [
+      "কমলাকান্ত",
+      "বঙ্কিমচন্দ্র",
+      "মার্জার",
+      "প্রসন্ন"
+    ]
+  },
+  {
+    "idx": 75,
+    "subject": "English",
+    "stem": "15. কোনটি অপপ্রয়োগের দৃষ্টান্ত?",
+    "opts": [
+      "পুনঃপুন",
+      "ভৌগলিক",
+      "গ্রথিত",
+      "প্রোথিত"
+    ]
+  },
+  {
+    "idx": 76,
+    "subject": "English",
+    "stem": "1. Nutritionists still do not understand the nutritional _____ of jackfruits.",
+    "opts": [
+      "favours",
+      "helps",
+      "goods",
+      "benefits"
+    ]
+  },
+  {
+    "idx": 77,
+    "subject": "English",
+    "stem": "2. A synonym for 'compassion' is-",
+    "opts": [
+      "indifference",
+      "cruelty",
+      "yearning",
+      "heartlessness"
+    ]
+  },
+  {
+    "idx": 78,
+    "subject": "English",
+    "stem": "3. As for ____, I prefer to let people make up ____ minds.",
+    "opts": [
+      "myself, each other's",
+      "me, their own",
+      "my, theirs",
+      "mine, one another"
+    ]
+  },
+  {
+    "idx": 79,
+    "subject": "English",
+    "stem": "4. The noun of 'excite' is-",
+    "opts": [
+      "excitable",
+      "exciting",
+      "excited",
+      "excitement"
+    ]
+  },
+  {
+    "idx": 80,
+    "subject": "English",
+    "stem": "5. Kalam found it hard to get up form bed after the alarm clock at six a.m.",
+    "opts": [
+      "sent out",
+      "threw out",
+      "went off",
+      "took out"
+    ]
+  },
+  {
+    "idx": 81,
+    "subject": "English",
+    "stem": "6. What is the antonym of 'latent'?",
+    "opts": [
+      "lurking",
+      "hidden",
+      "obvious",
+      "concealed"
+    ]
+  },
+  {
+    "idx": 82,
+    "subject": "English",
+    "stem": "7. Monir is sitting the desk front of the door.",
+    "opts": [
+      "at, in",
+      "in, on",
+      "on, on",
+      "at, at"
+    ]
+  },
+  {
+    "idx": 83,
+    "subject": "English",
+    "stem": "8. Sleeplessness causes problems with our ___ clock.",
+    "opts": [
+      "botanical",
+      "biological",
+      "natural",
+      "rhythmical"
+    ]
+  },
+  {
+    "idx": 84,
+    "subject": "English",
+    "stem": "9. A man who has committed such an.......... crime must get the most severe punishment.",
+    "opts": [
+      "injurious",
+      "unworthy",
+      "uncharitable",
+      "abominable"
+    ]
+  },
+  {
+    "idx": 85,
+    "subject": "English",
+    "stem": "10. Read the following passage and answer the questions:'Bacteria' is the common name of a very large group of one-celled microscopic organisms that, we believe, may be the smallest, simplest and perhaps even the very first form of cellular life that evolved on earth. That is why they are observable only under a microscope. There are three main types of bacteria, which are classified according to their shape.The bacilli are a group of bacteria that occur in the soil and air. They are shaped like rods. If we look at them under a microscope, we find them in motion, they always seem to be rolling or tumbling under the microscope. These bacilli are largely responsible for food spoilage. There is another group of bacteria who tend to grow in chains. They are referred to as the cocci group. A common example of this type is streptococci that causes strep throat. Finally, there is the spiral shaped bacteria called spirilla. They look a little like corkscrews, and they are responsible for a number of diseases in humans. Some species of bacteria cause diseases, but mostly bacteria live harmlessly on the skin, in mouth, and intestines. In fact bacteria are very helpful to researchers. Bacterial cells resemble the cells of other life forms in many ways, and may be studied to give us insights.",
+    "opts": []
+  },
+  {
+    "idx": 86,
+    "subject": "English",
+    "stem": "11. Which one is the incorrect spelling?",
+    "opts": [
+      "deportation",
+      "depriciation",
+      "denunciation",
+      "denomination"
+    ]
+  }
+]

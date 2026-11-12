@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for syncing Explanation Font Size across ব্যাখ্যা ও সমাধান and AI Tutor Admission Coach, requiring a user API key before AI Tutor runs (with a notification toast + Setup API Key action), replacing the default static answer badge in AI Tutor with the AI-determined answer + compact 3-part MCQ explanation powered by gemini-3.8-flash (ThinkingLevel.LOW), and fixing DU Written exam 4-of-6 subject selection and modal summary.",
+  "updatedAt":  "2026-11-11T11:53:30.706709453Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

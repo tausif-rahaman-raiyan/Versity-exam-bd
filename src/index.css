@@ -1,0 +1,188 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --breakpoint-xs: 480px;
+}
+
+@layer base {
+  :root {
+    --bg-main: #060913;
+    --card-surface: #0e1628;
+    --border-subtle: #1e293b;
+    --accent-blue: #38bdf8;
+    --accent-indigo: #6366f1;
+  }
+
+  html {
+    overflow-x: clip;
+    scroll-behavior: smooth;
+  }
+
+  html.dark body {
+    background-color: #060913;
+    color: #f1f5f9;
+  }
+
+  html.light-mode body {
+    background-color: #ffffff;
+    color: #0f172a;
+  }
+
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+}
+
+/* Bryndan Write handwritten font style (English + Bengali Atma handwritten script) */
+.font-bryndan,
+.font-bryndan body,
+.font-bryndan p,
+.font-bryndan span:not(.katex):not(.katex *),
+.font-bryndan div:not(.katex):not(.katex *),
+.font-bryndan button,
+.font-bryndan h1,
+.font-bryndan h2,
+.font-bryndan h3,
+.font-bryndan h4 {
+  font-family: 'Bryndan Write', 'Patrick Hand', 'Caveat', 'Atma', 'Segoe Print', 'Bradley Hand', 'Comic Sans MS', cursive, sans-serif;
+  letter-spacing: 0.01em;
+}
+
+/* Serif book font style with Bengali serif support */
+.font-serif {
+  font-family: Georgia, Cambria, 'Times New Roman', Times, 'Noto Serif Bengali', serif;
+}
+
+/* Utility for hiding scrollbars on horizontal filter strips while keeping scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Bold KaTeX Math, Fractions & Scientific Laws Styling (Zero Scrollbars) */
+.katex,
+.katex *,
+.katex .mathnormal,
+.katex .mathit,
+.katex .mord,
+.katex .mbin,
+.katex .mrel,
+.katex .mop,
+.katex .mopen,
+.katex .mclose,
+.katex .mpunct,
+.katex .minner {
+  font-weight: 700 !important;
+}
+
+/* Make fractions (\frac / \dfrac) slightly larger, bolder, and clearer */
+.katex .mfrac {
+  font-weight: 800 !important;
+}
+
+.katex .mfrac .vlist-t {
+  font-size: 1.08em !important;
+  font-weight: 800 !important;
+}
+
+.katex .mfrac .frac-line {
+  border-bottom-width: 2.2px !important;
+}
+
+/* Chemical reaction arrows, equations, and relational symbols: bold with generous spacing */
+.katex .mrel {
+  margin-left: 0.45em !important;
+  margin-right: 0.5em !important;
+  font-weight: 800 !important;
+}
+
+/* Space around chemical reactions and display formulas */
+.katex-display {
+  margin: 0.65em 0 !important;
+  padding: 0.35em 0.45em;
+  font-weight: 700 !important;
+}
+
+/* KaTeX Math Styling for Dark Mode */
+html.dark .katex {
+  font-size: 1.08em;
+  font-weight: 700 !important;
+  color: #e0f2fe;
+}
+
+html.dark .katex .frac-line {
+  border-bottom-color: #38bdf8 !important;
+  border-bottom-width: 2px !important;
+}
+
+html.dark .inline-math .katex {
+  font-size: 1.05em;
+  font-weight: 700 !important;
+  color: #bae6fd;
+}
+
+/* KaTeX Math Styling for Light Mode */
+html.light-mode .katex {
+  font-size: 1.08em;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+}
+
+html.light-mode .katex * {
+  font-weight: 700 !important;
+  color: #0f172a !important;
+}
+
+html.light-mode .katex .frac-line {
+  border-bottom-color: #0f172a !important;
+  border-bottom-width: 2px !important;
+}
+
+html.light-mode .inline-math .katex {
+  font-size: 1.05em;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+}
+
+/* Never show scrollbars on inline math or display math */
+.inline-math,
+.katex,
+.katex-display,
+.katex-html {
+  overflow: visible !important;
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+.inline-math::-webkit-scrollbar,
+.katex::-webkit-scrollbar,
+.katex-display::-webkit-scrollbar,
+.katex-html::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.inline-math {
+  display: inline;
+  vertical-align: baseline;
+}
+
+.katex .katex-html {
+  white-space: normal;
+}
+
+.katex-display {
+  margin: 0.5em 0 !important;
+  max-width: 100%;
+  padding: 0.25em 0.35em;
+}

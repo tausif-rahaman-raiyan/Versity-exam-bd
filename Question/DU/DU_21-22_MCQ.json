@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "du_21_22_mcq_1",
+    "number": 1,
+    "question_number": 1,
+    "subject": "Bangla",
+    "question": "“ইতিমধ্যে আর্দালি-সমেত ইউনিফর্ম-পরা সাহেব দ্বারের কাছে আসিয়া দাঁড়াইয়াছে”অপরিচিতা গল্পের এই বাক্য বিদেশি শব্দের সংখ্যা-",
+    "question_text": "“ইতিমধ্যে আর্দালি-সমেত ইউনিফর্ম-পরা সাহেব দ্বারের কাছে আসিয়া দাঁড়াইয়াছে”অপরিচিতা গল্পের এই বাক্য বিদেশি শব্দের সংখ্যা-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "দুই",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "তিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "চার",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "পাঁচ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "তিন"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বাক্যটিতে মোট ৩টি বিদেশি শব্দ রয়েছে:\n১. 'আর্দালি' – পর্তুগিজ শব্দ (Orderly থেকে পর্তুগিজ হয়ে বাংলায় আগত)।\n২. 'ইউনিফর্ম' – ইংরেজি শব্দ (Uniform)।\n৩. 'সাহেব' – আরবি শব্দ (সাহেব / ছাহেব)।\nবাক্যের বাকি শব্দগুলো ('তার', 'পরা', 'লোকটি') খাঁটি বাংলা বা তদ্ভব শব্দ। অতএব সঠিক উত্তর হলো [খ] ৩টি।\n||EN|| The sentence contains 3 loanwords: 'আর্দালি' (Portuguese), 'ইউনিফর্ম' (English), and 'সাহেব' (Arabic).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_2",
+    "number": 2,
+    "question_number": 2,
+    "subject": "Bangla",
+    "question": "'চলনসই' শব্দের 'সই' -",
+    "question_text": "'চলনসই' শব্দের 'সই' -",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "বাংলা কৃৎ প্রত্যয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "বাংলা তদ্ধিত প্রত্যয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "সংস্কৃত কৃৎ প্রত্যয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "বিদেশি তদ্ধিত প্রত্যয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "বিদেশি তদ্ধিত প্রত্যয়"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'চলনসই' শব্দের 'সই' হলো ফারসি ভাষার তদ্ধিত প্রত্যয়। এটি মূলত 'অনুরূপ', 'উপযুক্ত' বা 'যোগ্য' অর্থে ব্যবহৃত হয় (যেমন: টেকসই, মানানসই, চলনসই)। অতএব সঠিক উত্তর হলো [ঘ] বিদেশি তদ্ধিত প্রত্যয়।\n||EN|| In the word 'চলনসই', 'সই' is a Persian (foreign) nominal suffix (তদ্ধিত প্রত্যয়) meaning suitable or acceptable.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_3",
+    "number": 3,
+    "question_number": 3,
+    "subject": "Bangla",
+    "question": "'annex' শব্দের বাংলা পরিভাষা -",
+    "question_text": "'annex' শব্দের বাংলা পরিভাষা -",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "পরিশিষ্ট",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "অধ্যায়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "সূচিপত্র",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "পাদটীকা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "পরিশিষ্ট"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ইংরেজি শব্দ 'annex' (বা annexation) এর যথাযথ প্রশাসনিক ও পারিভাষিক বাংলা অর্থ হলো 'পরিশিষ্ট' বা 'সংযোজন'। চুক্তি বা দলিলের শেষে অতিরিক্ত অংশ হিসেবে যা যুক্ত থাকে তাকে Annex বা পরিশিষ্ট বলে। অতএব সঠিক উত্তর হলো [ক] পরিশিষ্ট।\n||EN|| The standard Bengali administrative term for 'annex' is 'পরিশিষ্ট' (Appendix / Addendum).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_4",
+    "number": 4,
+    "question_number": 4,
+    "subject": "Bangla",
+    "question": "নিত্য মূর্ধন্য-ণ বাচক শব্দ -",
+    "question_text": "নিত্য মূর্ধন্য-ণ বাচক শব্দ -",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "গৃহিণী",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "উষ্ণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "সমর্পণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "কঙ্কণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "কঙ্কণ"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'কঙ্কণ' শব্দটিতে কোনো ব্যাকরণিক ন-ত্ব বিধানের নিয়ম ছাড়া স্বভাবতই মূর্ধন্য-ণ (নিত্য মূর্ধন্য-ণ) বসে (\"চাণক্য মাণিক্য গণ্য বাণিজ্য লবণ মণ... কঙ্কণ... নিত্য মূর্ধন্য-ণ এর গান\")। বাকি অপশনগুলোতে (যেমন কারণ, ঋণ, বর্ণ) ঋ, র, বা ষ-এর পর ন-ত্ব বিধানের সাধারণ নিয়মে 'ণ' বসেছে। অতএব সঠিক উত্তর হলো [ঘ] কঙ্কণ।\n||EN|| In 'কঙ্কণ', the letter 'ণ' appears naturally by intrinsic rule (নিত্য মূর্ধন্য-ণ), not by standard preceding r/s sound sandhi rules.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_5",
+    "number": 5,
+    "question_number": 5,
+    "subject": "Bangla",
+    "question": "'আদম-শুমারি' শব্দের উৎস -",
+    "question_text": "'আদম-শুমারি' শব্দের উৎস -",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "আরবি-ফারসি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "ফারসি- তুর্কি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "আরবি- হিন্দি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "আরবি- বাংলা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "আরবি-ফারসি"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'আদমশুমারি' শব্দটি দুটি ভিন্ন ভাষার শব্দের সংমিশ্রণে গঠিত একটি মিশ্র শব্দ:\n১. 'আদম' – আরবি শব্দ (অর্থ: মানুষ বা মানবজাতি)।\n২. 'শুমারি' – ফারসি শব্দ (অর্থ: গণনা বা পরিমাপ)।\nঅতএব এটি একটি 'আরবি-ফারসি' মিশ্র শব্দ। সঠিক উত্তর হলো [ক]।\n||EN|| 'আদমশুমারি' (census) is a compound word formed from Arabic 'আদম' (human) and Persian 'শুমারি' (counting).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_6",
+    "number": 6,
+    "question_number": 6,
+    "subject": "Bangla",
+    "question": "কোন গুচ্ছটি শুদ্ধ?",
+    "question_text": "কোন গুচ্ছটি শুদ্ধ?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "ত্রিকোন,উনবিংশ।",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "অদ্যপি, যদ্যপি।",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "উষা, কোনা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "মুহূর্মুহু মুহূর্ত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "মুহূর্মুহু মুহূর্ত"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'মুহূর্মুহু' ও 'মুহূর্ত' শব্দজোড়ের দুটো বানানই সম্পূর্ণ প্রমিত ও নির্ভুল:\n• 'মুহূর্মুহু' – ম-এ হ্রস্ব উ, হ-এ দীর্ঘ ঊ, রেফ, ম-এ হ্রস্ব উ, হ-এ হ্রস্ব উ (মুহূর্মুহু)।\n• 'মুহূর্ত' – ম-এ হ্রস্ব উ, হ-এ দীর্ঘ ঊ, রেফ ত (মুহূর্ত)।\nঅতএব সঠিক উত্তর হলো [ঘ]।\n||EN|| Both spellings 'মুহূর্মুহু' and 'মুহূর্ত' are orthographically correct according to standard Bangla Academy norms.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_7",
+    "number": 7,
+    "question_number": 7,
+    "subject": "Bangla",
+    "question": "সংস্কৃতিকে বলা যায় লাবন্য; কখনো ব্যাক্তির, কখনো নিদ্রিষ্ট জাতীর। এই বাক্যে ভুল শব্দের সংখ্যা-",
+    "question_text": "সংস্কৃতিকে বলা যায় লাবন্য; কখনো ব্যাক্তির, কখনো নিদ্রিষ্ট জাতীর। এই বাক্যে ভুল শব্দের সংখ্যা-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "তিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "চার",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "পাঁচ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "ছয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "চার"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত বাক্যে মোট ৪টি বানান ভুল ছিল:\n১. 'লাবন্য' $\\rightarrow$ শুদ্ধ বানান: **লাবণ্য** (স্বভাবতই মূর্ধন্য-ণ)।\n২. 'ব্যাক্তির' $\\rightarrow$ শুদ্ধ বানান: **ব্যক্তির** (য-ফলা আকার হবে না)।\n৩. 'নিদ্রিষ্ট' $\\rightarrow$ শুদ্ধ বানান: **নির্দিষ্ট** (রেফ 'দ'-এর উপরে নয়, 'দি' এর পর 'ষ্ট')।\n৪. 'জাতীর' $\\rightarrow$ শুদ্ধ বানান: **জাতির** (হ্রস্ব ই-কার হবে)।\nসুতরাং বাক্যটিতে ভুলের সংখ্যা মোট ৪টি। সঠিক উত্তর হলো [খ] ৪টি।\n||EN|| There are 4 misspelled words in the sentence: লাবণ্য, ব্যক্তির, নির্দিষ্ট, and জাতির.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_8",
+    "number": 8,
+    "question_number": 8,
+    "subject": "Bangla",
+    "question": "সালামের মুখ আজ........শূন্যস্থানে হবে-",
+    "question_text": "সালামের মুখ আজ........শূন্যস্থানে হবে-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "আলোচিত ঢাকা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "তরুন শ্যামল পূর্ব বাংলা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "অবিনাশী বর্ণমালা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "রক্তাক্ত জনপদ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "তরুন শ্যামল পূর্ব বাংলা"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "শামসুর রাহমানের বিখ্যাত 'ফেব্রুয়ারি ১৯৬৯' কবিতার চরণ:\n\"সালামের চোখ আজ আলোচিত ঢাকা,\nসালামের মুখ আজ তরুণ শ্যামল পূর্ব বাংলা।\"\nঅতএব কবির দৃষ্টিতে সালামের মুখ হলো 'তরুণ শ্যামল পূর্ব বাংলা'। সঠিক উত্তর হলো [খ]।\n||EN|| In the poem 'February 1969' by Shamsur Rahman, Salam's face symbolizes 'তরুণ শ্যামল পূর্ব বাংলা' (youthful green East Bengal).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_9",
+    "number": 9,
+    "question_number": 9,
+    "subject": "Bangla",
+    "question": "No fire can burn without air- এর বাংলায় সঠিক অনুবাদ কোনটি?",
+    "question_text": "No fire can burn without air- এর বাংলায় সঠিক অনুবাদ কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "আগুন জ্বলতে বাতাসের প্রয়োজন হয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "তাস ছাড়া আগুন নিভে না",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "বাতাস ছাড়া আগুন জ্বালাতে পারেনা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "বাতাস ছাড়া আগুন জ্বলে না",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "বাতাস ছাড়া আগুন জ্বলে না"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "\"No fire can burn without air\" বাক্যটির সবচেয়ে যথাযথ ভাবানুবাদ হলো: \"বাতাস ছাড়া আগুন জ্বলে না।\" দহনের জন্য বাতাসের অক্সিজেন অপরিহার্য, যা বাক্যটিতে সরাসরি প্রতিফলিত। সঠিক উত্তর হলো [ঘ]।\n||EN|| The idiomatic Bengali translation of \"No fire can burn without air\" is \"বাতাস ছাড়া আগুন জ্বলে না।\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_10",
+    "number": 10,
+    "question_number": 10,
+    "subject": "Bangla",
+    "question": "কোনটিতে ব -ফলার উচ্চারণ বহাল রয়েছে?",
+    "question_text": "কোনটিতে ব -ফলার উচ্চারণ বহাল রয়েছে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "বিধ্বস্ত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "উদ্বেগ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "স্বত্ব",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "দ্বন্দ্ব",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "উদ্বেগ"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বাংলা উচ্চারণরীতি অনুসারে 'দ্' বা 'ধ্'-এর সাথে 'ব'-ফলা যুক্ত হলে ব-এর উচ্চারণ বিলুপ্ত বা দ্বিত্ব না হয়ে অবিকৃতভাবে বজায় থাকে। যেমন: 'উদ্বেগ' [উদ্-বেগ্], 'উদ্ভিদ' [উদ্-ভিদ্], 'দ্বাদশ' [দা-দশ্]। সুতরাং 'উদ্বেগ' শব্দে ব-ফলার উচ্চারণ বজায় থাকে। সঠিক উত্তর হলো [খ]।\n||EN|| In 'উদ্বেগ' [ud-beg], the 'ব'-phala retains its distinct phonetic pronunciation after the consonant 'দ্'.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_11",
+    "number": 11,
+    "question_number": 11,
+    "subject": "Bangla",
+    "question": "কোন বানান টি শুদ্ধ নয়?",
+    "question_text": "কোন বানান টি শুদ্ধ নয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "রূপায়ণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "গৃহায়ণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "নবায়ণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "নগরায়ণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "নবায়ণ"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বাংলা একাডেমির প্রমিত বানানরীতি অনুসারে তদ্ভব ও আধুনিক পারিভাষিক শব্দে ন-ত্ব বিধান খাটে না। 'নবায়ন' (Renewal) শব্দে দন্ত্য-ন বসবে; 'নবায়ণ' বানানটি অশুদ্ধ। বাকি বানানগুলো প্রমিত। অতএব সঠিক উত্তর হলো [গ] নবায়ণ।\n||EN|| 'নবায়ণ' is incorrect; the correct standard spelling is 'নবায়ন' (with dental 'ন').",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_12",
+    "number": 12,
+    "question_number": 12,
+    "subject": "Bangla",
+    "question": "ভার্যা' এর বিপরীত শব্দ কোনটি?",
+    "question_text": "ভার্যা' এর বিপরীত শব্দ কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "দার",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "দয়িত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "বনিতা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "জায়া",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "দয়িত"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'ভার্যা' শব্দের অর্থ স্ত্রী, পত্নী বা জায়া। এর সরাসরি বিপরীতার্থক শব্দ হলো স্বামী, পতি বা 'দয়িত' (প্রিয়তম/স্বামী)। অন্য অপশনগুলো—'দার', 'বনিতা', 'জায়া'—সবগুলোই 'ভার্যা' শব্দের সমার্থক। অতএব সঠিক বিপরীত শব্দ হলো [খ] দয়িত।\n||EN|| 'ভার্যা' means wife. Its antonym is 'দয়িত' (husband/beloved). The words 'দার', 'বনিতা', and 'জায়া' are synonyms.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_13",
+    "number": 13,
+    "question_number": 13,
+    "subject": "Bangla",
+    "question": "সারমর্ম লেখার ক্ষেত্রে কোনটি বর্জন করতে হবে?",
+    "question_text": "সারমর্ম লেখার ক্ষেত্রে কোনটি বর্জন করতে হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "মূল ভাব সন্ধান",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "গুরুত্বপূর্ণ অংশ চিহ্নিতকরণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "শুদ্ধ বানান",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "প্রাসঙ্গিক গুরুত্বপূর্ণ উদবৃতি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "প্রাসঙ্গিক গুরুত্বপূর্ণ উদবৃতি"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "সারমর্ম বা সারাংশ রচনার প্রধান নীতি হলো মূল ভাবটিকে সংক্ষিপ্ত, সাবলীল ও নিজস্ব ভাষায় ফুটিয়ে তোলা। এতে কোনো প্রত্যক্ষ উক্তি, উদ্ধৃতি (Quotation), রূপক বা অলঙ্কার ব্যবহার করা সম্পূর্ণ অনুচিত। তাই বক্তব্য উদ্ধৃতি বর্জন করতে হয়। সঠিক উত্তর হলো [ঘ]।\n||EN|| In précis/summary writing (সারমর্ম), quotations and direct speeches must be strictly avoided.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_14",
+    "number": 14,
+    "question_number": 14,
+    "subject": "Bangla",
+    "question": "বাংলা একাডেমিরবানানরীতিতে 'খ্রিষ্ট' শব্দটি গৃহীত হয়েছেযে- হিসেবে-",
+    "question_text": "বাংলা একাডেমিরবানানরীতিতে 'খ্রিষ্ট' শব্দটি গৃহীত হয়েছেযে- হিসেবে-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "বিদেশী",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "আত্তীকৃত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "বাংলা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "সংস্কৃত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "আত্তীকৃত"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বাংলা একাডেমির প্রমিত বাংলা বানানের নিয়ম অনুযায়ী বিদেশি উৎস থেকে বাংলায় আত্তীকৃত শব্দে সর্বদা হ্রস্ব-ই কার (ি) এবং দন্ত্য-স (স) যুক্ত ক্ষ-যোজ্য হিসেবে 'খ্রিষ্ট' লেখা হয় (খ্রিষ্টাব্দ, খ্রিস্টান নয়)। এটি আত্তীকৃত শব্দ হিসেবে স্বীকৃত। সঠিক উত্তর হলো [খ]।\n||EN|| 'খ্রিষ্ট' is recognized by the Bangla Academy as an assimilated foreign loanword spelled with short 'ই'.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_15",
+    "number": 15,
+    "question_number": 15,
+    "subject": "Bangla",
+    "question": "'মানুষের যখন পতন আসে তখন পদে পদে ভুল হতে থাকে।' কার উক্তি?",
+    "question_text": "'মানুষের যখন পতন আসে তখন পদে পদে ভুল হতে থাকে।' কার উক্তি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "মহাত্মা গান্ধী",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "জাতীয় কবি কাজী নজরুল ইসলাম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "বিশ্বকবি রবীন্দ্রনাথ ঠাকুর",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "বঙ্গবন্ধু শেখ মুজিবুর রহমান"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "\"মানুষের যখন পতন আসে তখন পদে পদে ভুল হতে থাকে\"-এই দার্শনিক সত্যোক্তিটি জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের 'অসমাপ্ত আত্মজীবনী' থেকে সংকলিত এইচএসসি পাঠ্য 'বায়ান্নর দিনগুলো' স্মৃতিকথার। সঠিক উত্তর হলো [খ] বায়ান্নর দিনগুলো।\n||EN|| The quote \"মানুষের যখন পতন আসে তখন পদে পদে ভুল হতে থাকে\" is from Bangabandhu Sheikh Mujibur Rahman's memoir 'বায়ান্নর দিনগুলো'.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_16",
+    "number": 16,
+    "question_number": 16,
+    "subject": "Mathematics",
+    "question": "$\\frac{1}{x}+a-bx=0$ সমীকরণের মুলদ্বয় সমান হলে কোনটি সঠিক?",
+    "question_text": "$\\frac{1}{x}+a-bx=0$ সমীকরণের মুলদ্বয় সমান হলে কোনটি সঠিক?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$b^2-4a=0$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$b^2+4a=0$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$a^2-4b=0$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$a^2+4b=0$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "$a^2+4b=0$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত ভগ্নাংশযুক্ত সমীকরণ: $\\dfrac{1}{x} + a - bx = 0$।\nউভয়পক্ষকে $x$ দ্বারা গুণ করে দ্বিঘাত সমীকরণের আদর্শ আকারে প্রকাশ করি:\n$1 + ax - bx^2 = 0 \\implies bx^2 - ax - 1 = 0$।\nএখানে $A = b, B = -a, C = -1$।\nদ্বিঘাত সমীকরণের মূলদ্বয় বাস্তব ও সমান হওয়ার শর্ত হলো পৃথায়ক (Discriminant) $D = B^2 - 4AC = 0$।\nমান বসিয়ে পাই:\n$(-a)^2 - 4(b)(-1) = 0 \\implies a^2 + 4b = 0$।\nঅতএব সঠিক উত্তর হলো [ঘ] $a^2 + 4b = 0$।\n||EN|| Multiplying $\\dfrac{1}{x} + a - bx = 0$ by $x$ gives $bx^2 - ax - 1 = 0$. For equal roots, $D = (-a)^2 - 4(b)(-1) = 0 \\implies a^2 + 4b = 0$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_17",
+    "number": 17,
+    "question_number": 17,
+    "subject": "Mathematics",
+    "question": "কোন ব্যবধিতে $f(x)=\\frac{x}{x^{2}+1}$ ক্রমবর্ধমান?",
+    "question_text": "কোন ব্যবধিতে $f(x)=\\frac{x}{x^{2}+1}$ ক্রমবর্ধমান?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$(0,-∞)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$(-1,∞)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$(-1,1)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$(-∞,0)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "$(-1,1)$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত ফাংশন: $f(x) = \\dfrac{x}{x^2+1}$।\nভাগফলের অন্তরীকরণ সূত্রানুসারে:\n$f'(x) = \\dfrac{(x^2+1)\\cdot \\frac{d}{dx}(x) - x\\cdot \\frac{d}{dx}(x^2+1)}{(x^2+1)^2} = \\dfrac{(x^2+1)(1) - x(2x)}{(x^2+1)^2} = \\dfrac{1-x^2}{(x^2+1)^2}$।\nফাংশনটি ক্রমবর্ধমান (strictly increasing) হওয়ার শর্ত হলো $f'(x) > 0$।\nযেহেতু হর $(x^2+1)^2 > 0$ সর্বদা ধনাত্মক, তাই লব ধনাত্মক হতে হবে:\n$1 - x^2 > 0 \\implies x^2 < 1 \\implies -1 < x < 1$ অর্থাৎ ব্যবধি $(-1, 1)$।\nঅতএব সঠিক উত্তর হলো [গ] $(-1, 1)$।\n||EN|| For $f(x) = \\dfrac{x}{x^2+1}$, $f'(x) = \\dfrac{1-x^2}{(x^2+1)^2}$. Increasing condition $f'(x) > 0 \\implies 1-x^2 > 0 \\implies x \\in (-1, 1)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_18",
+    "number": 18,
+    "question_number": 18,
+    "subject": "Mathematics",
+    "question": "কোন বিন্দুর পোলার স্থানাঙ্ক ($c,\\pi$) হলে বিন্দুটির কার্তেসীয় স্থানাঙ্ক কত?",
+    "question_text": "কোন বিন্দুর পোলার স্থানাঙ্ক ($c,\\pi$) হলে বিন্দুটির কার্তেসীয় স্থানাঙ্ক কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$(c,-c)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$(-c,0)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$(-c,c)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$(-1,0)$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$(-c,0)$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "পোলার স্থানাঙ্ক $(r, \\theta) = (c, \\pi)$ হলে কার্তেসীয় স্থানাঙ্ক রূপান্তরের সূত্র:\n$x = r\\cos\\theta = c\\cos\\pi = c(-1) = -c$\n$y = r\\sin\\theta = c\\sin\\pi = c(0) = 0$\nঅতএব বিন্দুটির কার্তেসীয় স্থানাঙ্ক হলো $(-c, 0)$।\nসঠিক উত্তর হলো [খ] $(-c, 0)$।\n||EN|| Polar to Cartesian: $x = c\\cos\\pi = -c$, $y = c\\sin\\pi = 0$. The Cartesian coordinate is $(-c, 0)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_19",
+    "number": 19,
+    "question_number": 19,
+    "subject": "Mathematics",
+    "question": "কোন ফাংশনটির জন্য $\\left(1-x^{2}\\right) \\frac{d^{2} y}{d x^{2}}-x \\frac{d y}{d x}=2$ সত্য?",
+    "question_text": "কোন ফাংশনটির জন্য $\\left(1-x^{2}\\right) \\frac{d^{2} y}{d x^{2}}-x \\frac{d y}{d x}=2$ সত্য?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$y=\\cos ^{-1} x$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$y=\\left(\\cos ^{-1} x\\right)^{2}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$y=\\sin ^{-1} x$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$y=\\tan ^{-1} x$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$y=\\left(\\cos ^{-1} x\\right)^{2}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত সমীকরণ: $y = (\\cos^{-1} x)^2$।\nপ্রথম অন্তরজ নির্ণয় করি:\n$y_1 = \\dfrac{dy}{dx} = 2(\\cos^{-1} x) \\cdot \\left(-\\dfrac{1}{\\sqrt{1-x^2}}\\right) = -\\dfrac{2\\cos^{-1} x}{\\sqrt{1-x^2}}$।\nউভয়পক্ষকে বর্গ করে পাই:\n$(1-x^2) y_1^2 = 4 (\\cos^{-1} x)^2 = 4y$।\nএখন $x$ এর সাপেক্ষে পুনরায় অন্তরীকরণ করে পাই:\n$(1-x^2) \\cdot 2y_1 y_2 + y_1^2 (-2x) = 4 y_1$।\nউভয়পক্ষকে $2y_1$ ($y_1 \\ne 0$) দ্বারা ভাগ করলে পাই:\n$(1-x^2) y_2 - x y_1 = 2$ বা $(1-x^2)\\dfrac{d^2y}{dx^2} - x\\dfrac{dy}{dx} = 2$।\nঅতএব সঠিক উত্তর হলো [খ] $2$।\n||EN|| Differentiating $y = (\\cos^{-1}x)^2$ leads to $(1-x^2)y_1^2 = 4y$. Differentiating again and dividing by $2y_1$ yields $(1-x^2)y_2 - xy_1 = 2$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_20",
+    "number": 20,
+    "question_number": 20,
+    "subject": "Mathematics",
+    "question": "$y^2 = 8x + 2y - 9$ পরাবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক কত?",
+    "question_text": "$y^2 = 8x + 2y - 9$ পরাবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "(3, 1)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "(3, 0)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "(-1,1)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "(2, 0)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "(3, 1)"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত পরাবৃত্তের সমীকরণ: $y^2 = 8x + 2y - 9$।\nচলক পৃথক করে পূর্ণবর্গ আকারে সাজাই:\n$y^2 - 2y + 1 = 8x - 9 + 1$\n$\\implies (y-1)^2 = 8x - 8 = 8(x-1) = 4(2)(x-1)$।\nএটি $(y-k)^2 = 4a(x-h)$ আকারের একটি পরাবৃত্ত, যেখানে:\nশীর্ষবিন্দু $(h, k) = (1, 1)$ এবং ফোকাস দূরত্ব $a = 2$।\nপরাবৃত্তটির অক্ষ $x$-অক্ষের সমান্তরাল হওয়ায় উপকেন্দ্রের (Focus) স্থানাঙ্ক:\n$F(h+a, k) = (1+2, 1) = (3, 1)$।\nঅতএব সঠিক উত্তর হলো [ক] $(3, 1)$।\n||EN|| Standard form $(y-1)^2 = 4(2)(x-1)$ has vertex $(1, 1)$ and $a = 2$. The focus is $(1+2, 1) = (3, 1)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_21",
+    "number": 21,
+    "question_number": 21,
+    "subject": "Mathematics",
+    "question": "x² - 3y² – 2x = 8 অধিবৃত্তের শীর্ষবিন্দুদ্বয়",
+    "question_text": "x² - 3y² – 2x = 8 অধিবৃত্তের শীর্ষবিন্দুদ্বয়",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "(-4, 0), (2, 0)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "(0, 4), (0, 2)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "(0, —4), (0, -1)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "(4, 0), (-2, 0)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "(4, 0), (-2, 0)"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত অধিবৃত্তের সমীকরণ: $x^2 - 2x - 3y^2 = 8$।\nপূর্ণবর্গ গঠন করি:\n$(x^2 - 2x + 1) - 3y^2 = 8 + 1 \\implies (x-1)^2 - 3y^2 = 9$।\nউভয়পক্ষকে $9$ দ্বারা ভাগ করলে পাই:\n$\\dfrac{(x-1)^2}{3^2} - \\dfrac{y^2}{(\\sqrt{3})^2} = 1$।\nএটি $\\dfrac{X^2}{a^2} - \\dfrac{Y^2}{b^2} = 1$ আকারের একটি আদর্শ অধিবৃত্ত, যেখানে $a = 3, b = \\sqrt{3}$।\nশীর্ষবিন্দুদ্বয়ের স্থানাঙ্ক: $X = \\pm a, Y = 0$\n$\\implies x - 1 = \\pm 3 \\implies x = 1 \\pm 3$\nসুতরাং $x_1 = 1 + 3 = 4$ এবং $x_2 = 1 - 3 = -2$। এবং $y = 0$।\nঅতএব শীর্ষবিন্দুদ্বয় হলো $(4, 0)$ ও $(-2, 0)$।\nসঠিক উত্তর হলো [ঘ] $(4, 0)$ ও $(-2, 0)$।\n||EN|| Completing square gives $\\dfrac{(x-1)^2}{9} - \\dfrac{y^2}{3} = 1$. The vertices are at $x - 1 = \\pm 3 \\implies (4, 0)$ and $(-2, 0)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_22",
+    "number": 22,
+    "question_number": 22,
+    "subject": "Mathematics",
+    "question": "$A = \\begin{pmatrix} 1 & 2 \\\\ 2 & 5 \\end{pmatrix}$ হলে $\\det(AA^{-1})$ -এর মান কত?",
+    "question_text": "$A = \\begin{pmatrix} 1 & 2 \\\\ 2 & 5 \\end{pmatrix}$ হলে $\\det(AA^{-1})$ -এর মান কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "-1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$-\\frac{1}{2}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "1"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "যেকোনো বিপরীতযোগ্য বর্গাকার ম্যাট্রিক্স $A$ এর জন্য তার বিপরীত ম্যাট্রিক্স $A^{-1}$ এর গুণফল একটি অভেদক ম্যাট্রিক্স (Identity Matrix $I$) উৎপন্ন করে:\n$A A^{-1} = I$।\nউভয়পক্ষের নির্ণায়কের মান নিলে পাই:\n$\\det(A A^{-1}) = \\det(I) = 1$।\n(বিকল্পভাবে: $\\det(AA^{-1}) = \\det(A) \\cdot \\det(A^{-1}) = \\det(A) \\cdot \\dfrac{1}{\\det(A)} = 1$)।\nঅতএব সঠিক উত্তর হলো [ক] $1$।\n||EN|| For any invertible matrix $A$, $AA^{-1} = I$, which gives $\\det(AA^{-1}) = \\det(I) = 1$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_23",
+    "number": 23,
+    "question_number": 23,
+    "subject": "Mathematics",
+    "question": "x-3y – 2 = 0 রেখার ওপর অবস্থিত P বিন্দুটি (2, 3) এবং (6,-5) হতে সমদূরবর্তী হলে P বিন্দুর স্থানাঙ্ক কত?",
+    "question_text": "x-3y – 2 = 0 রেখার ওপর অবস্থিত P বিন্দুটি (2, 3) এবং (6,-5) হতে সমদূরবর্তী হলে P বিন্দুর স্থানাঙ্ক কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "(4, 14)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "(—10,4)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "(14, 4)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "(4,-10)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "(14, 4)"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ধরি $x - 3y - 2 = 0$ রেখার ওপর অবস্থিত নির্ণেয় বিন্দুটি $P(x, y)$।\nবিন্দুটি $A(2, 3)$ ও $B(6, -5)$ বিন্দুদ্বয় থেকে সমদূরবর্তী হওয়ায় $PA^2 = PB^2$:\n$(x-2)^2 + (y-3)^2 = (x-6)^2 + (y+5)^2$\n$\\implies x^2 - 4x + 4 + y^2 - 6y + 9 = x^2 - 12x + 36 + y^2 + 10y + 25$\n$\\implies -4x - 6y + 13 = -12x + 10y + 61$\n$\\implies 8x - 16y = 48 \\implies x - 2y = 6 \\implies x = 2y + 6$।\nএই মান প্রদত্ত রেখা $x - 3y = 2$ তে বসিয়ে পাই:\n$(2y + 6) - 3y = 2 \\implies -y = 2 - 6 = -4 \\implies y = 4$।\nঅতএব $x = 2(4) + 6 = 14$।\nসুতরাং নির্ণেয় বিন্দুটি হলো $(14, 4)$।\nসঠিক উত্তর হলো [গ] $(14, 4)$।\n||EN|| The perpendicular bisector of $(2,3)$ and $(6,-5)$ is $x - 2y = 6$. Its intersection with $x - 3y = 2$ gives $(14, 4)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_24",
+    "number": 24,
+    "question_number": 24,
+    "subject": "Mathematics",
+    "question": "$\\int_{-2}^{-1} (x + |x|)dx = ?$",
+    "question_text": "$\\int_{-2}^{-1} (x + |x|)dx = ?$",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "3",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "6",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "0"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "সমাকলন ব্যবধি $[-2, -1]$ তে চলক $x$ এর মান সর্বদা ঋণাত্মক ($x < 0$)।\nপরমমানের সংজ্ঞানুসারে, যখন $x < 0$, তখন $|x| = -x$।\nসুতরাং:\n$x + |x| = x + (-x) = x - x = 0$।\nফলে সমাকলনটির মান দাঁড়ায়:\n$\\int_{-2}^{-1} (x + |x|)\\,dx = \\int_{-2}^{-1} 0\\,dx = 0$।\nঅতএব সঠিক উত্তর হলো [খ] $0$।\n||EN|| On the interval $[-2, -1]$, $x < 0$ so $|x| = -x$. Thus $x + |x| = 0$, giving $\\int_{-2}^{-1} 0\\,dx = 0$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_25",
+    "number": 25,
+    "question_number": 25,
+    "subject": "Mathematics",
+    "question": "k-এর কোন মানের জন্য 2x² – kx +1 = 0 এর একটি মূল অপর মূলের বর্গের চারগুণের সমান হবে?",
+    "question_text": "k-এর কোন মানের জন্য 2x² – kx +1 = 0 এর একটি মূল অপর মূলের বর্গের চারগুণের সমান হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$\\frac{1}{2}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "3",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "-3",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "3"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত দ্বিঘাত সমীকরণ: $2x^2 - kx + 1 = 0$।\nধরি একটি মূল $\\alpha$, তবে প্রশ্নমতে অপর মূলটি তার বর্গের চারগুণ অর্থাৎ $4\\alpha^2$।\nমূলদ্বয়ের গুণফল:\n$\\alpha \\cdot (4\\alpha^2) = \\dfrac{c}{a} = \\dfrac{1}{2}$\n$\\implies 4\\alpha^3 = \\dfrac{1}{2} \\implies \\alpha^3 = \\dfrac{1}{8} = \\left(\\dfrac{1}{2}\\right)^3 \\implies \\alpha = \\dfrac{1}{2}$।\nতাহলে অপর মূলটি $= 4\\alpha^2 = 4\\left(\\dfrac{1}{2}\\right)^2 = 4\\left(\\dfrac{1}{4}\\right) = 1$।\nএখন মূলদ্বয়ের যোগফল:\n$\\alpha + 4\\alpha^2 = \\dfrac{k}{2} \\implies \\dfrac{1}{2} + 1 = \\dfrac{k}{2} \\implies \\dfrac{3}{2} = \\dfrac{k}{2} \\implies k = 3$।\nঅতএব সঠিক উত্তর হলো [খ] $3$।\n||EN|| Roots are $\\alpha$ and $4\\alpha^2$. Product $\\alpha(4\\alpha^2) = 1/2 \\implies \\alpha = 1/2$. Sum $\\frac{1}{2} + 1 = k/2 \\implies k = 3$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_26",
+    "number": 26,
+    "question_number": 26,
+    "subject": "Mathematics",
+    "question": "$\\text{cosec}^2 \\left( \\text{tan}^{-1} \\frac{1}{2} \\right) - 3 \\text{sec}^2 (\\text{cot}^{-1} \\sqrt{3}) = ?$",
+    "question_text": "$\\text{cosec}^2 \\left( \\text{tan}^{-1} \\frac{1}{2} \\right) - 3 \\text{sec}^2 (\\text{cot}^{-1} \\sqrt{3}) = ?$",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "15",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\frac{2}{9}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "25",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "1"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত রাশি: $\\csc^2(\\tan^{-1}(1/2)) - 3\\sec^2(\\cot^{-1}(\\sqrt{3}))$।\nধাপ ১: ধরি $\\theta = \\tan^{-1}(1/2) \\implies \\tan\\theta = 1/2 \\implies \\cot\\theta = 2$।\nআমরা জানি, $\\csc^2\\theta = 1 + \\cot^2\\theta = 1 + 2^2 = 1 + 4 = 5$।\nধাপ ২: ধরি $\\phi = \\cot^{-1}(\\sqrt{3}) \\implies \\cot\\phi = \\sqrt{3} \\implies \\tan\\phi = 1/\\sqrt{3}$।\nআমরা জানি, $\\sec^2\\phi = 1 + \\tan^2\\phi = 1 + (1/\\sqrt{3})^2 = 1 + 1/3 = 4/3$।\nধাপ ৩: মান বসিয়ে পাই:\n$5 - 3\\left(\\dfrac{4}{3}\\right) = 5 - 4 = 1$।\nঅতএব সঠিক উত্তর হলো [গ] $1$।\n||EN|| $\\csc^2(\\tan^{-1}(1/2)) = 1 + \\cot^2\\theta = 1+4 = 5$. Also $\\sec^2(\\cot^{-1}\\sqrt{3}) = 1 + (1/\\sqrt{3})^2 = 4/3$. Thus $5 - 3(4/3) = 1$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_27",
+    "number": 27,
+    "question_number": 27,
+    "subject": "Mathematics",
+    "question": "একটি উপবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য বৃহদাক্ষের দৈর্ঘ্যের অর্ধেক, উপবৃত্তটির উৎকেন্দ্রিকতা কত?",
+    "question_text": "একটি উপবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য বৃহদাক্ষের দৈর্ঘ্যের অর্ধেক, উপবৃত্তটির উৎকেন্দ্রিকতা কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$\\frac{1}{\\sqrt{3}}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\frac{1}{\\sqrt{2}}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$\\frac{2}{\\sqrt{3}}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\frac{2}{3}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$\\frac{1}{\\sqrt{2}}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "উপবৃত্তের সমীকরণ $\\dfrac{x^2}{a^2} + \\dfrac{y^2}{b^2} = 1$ ($a > b$) হলে:\nবৃহদাক্ষের দৈর্ঘ্য $= 2a$ এবং উপকেন্দ্রিক লম্বের দৈর্ঘ্য $= \\dfrac{2b^2}{a}$।\nশর্তানুসারে, উপকেন্দ্রিক লম্ব বৃহদাক্ষের অর্ধেকের সমান:\n$\\dfrac{2b^2}{a} = \\dfrac{1}{2}(2a) = a \\implies 2b^2 = a^2 \\implies \\dfrac{b^2}{a^2} = \\dfrac{1}{2}$।\nউপবৃত্তের উৎকেন্দ্রিকতার সূত্র:\n$e = \\sqrt{1 - \\dfrac{b^2}{a^2}} = \\sqrt{1 - \\dfrac{1}{2}} = \\sqrt{\\dfrac{1}{2}} = \\dfrac{1}{\\sqrt{2}}$।\nঅতএব সঠিক উত্তর হলো [খ] $\\dfrac{1}{\\sqrt{2}}$।\n||EN|| Latus rectum equals half of major axis: $\\dfrac{2b^2}{a} = a \\implies \\dfrac{b^2}{a^2} = \\dfrac{1}{2}$. Eccentricity $e = \\sqrt{1 - 1/2} = \\dfrac{1}{\\sqrt{2}}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_28",
+    "number": 28,
+    "question_number": 28,
+    "subject": "Mathematics",
+    "question": "k এর কোন মানের জন্য $x = 1$ বিন্দুতে $f(x) = x^2 + \\frac{k}{x}$ এর লঘুমান পাওয়া যাবে?",
+    "question_text": "k এর কোন মানের জন্য $x = 1$ বিন্দুতে $f(x) = x^2 + \\frac{k}{x}$ এর লঘুমান পাওয়া যাবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "-1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "2",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "2"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত ফাংশন: $f(x) = x^2 + \\dfrac{k}{x} = x^2 + k x^{-1}$।\nচরম মানের জন্য প্রথম অন্তরজ শূন্য হতে হয় ($f'(x) = 0$):\n$f'(x) = 2x - k x^{-2} = 2x - \\dfrac{k}{x^2}$।\nপ্রশ্নমতে, $x = 1$ বিন্দুতে ফাংশনটির লঘুমান বিদ্যমান। সুতরাং $f'(1) = 0$:\n$2(1) - \\dfrac{k}{1^2} = 0 \\implies 2 - k = 0 \\implies k = 2$।\n(যাচাই: $f''(x) = 2 + \\dfrac{2k}{x^3} \\implies f''(1) = 2 + 2(2) = 6 > 0$, যা নিশ্চিত করে যে $x=1$ এ লঘুমান রয়েছে)।\nঅতএব সঠিক উত্তর হলো [গ] $2$।\n||EN|| For a local minimum at $x=1$, $f'(1) = 2(1) - k/(1)^2 = 0 \\implies k = 2$. Secondary test $f''(1) = 6 > 0$ confirms minimum.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_29",
+    "number": 29,
+    "question_number": 29,
+    "subject": "Mathematics",
+    "question": "কোনো একটি বিন্দুতে ক্রিয়ারত $2N$ ও $2\\sqrt{2}N$ বলদ্বয়ের লব্ধি $2\\sqrt{5}N$ হলে তাদের মধ্যবর্তী কোণ-",
+    "question_text": "কোনো একটি বিন্দুতে ক্রিয়ারত $2N$ ও $2\\sqrt{2}N$ বলদ্বয়ের লব্ধি $2\\sqrt{5}N$ হলে তাদের মধ্যবর্তী কোণ-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "135°",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "45°",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "225°",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "90°",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "45°"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ধরি বল দুটি $P = 2\\text{ N}$ এবং $Q = 2\\sqrt{2}\\text{ N}$, এবং এদের মধ্যবর্তী কোণ $\\alpha$। লব্ধি $R = 2\\sqrt{5}\\text{ N}$।\nবল ত্রিভুজের সামান্তরিক সূত্রানুসারে:\n$R^2 = P^2 + Q^2 + 2PQ\\cos\\alpha$\nমান বসিয়ে পাই:\n$(2\\sqrt{5})^2 = (2)^2 + (2\\sqrt{2})^2 + 2(2)(2\\sqrt{2})\\cos\\alpha$\n$\\implies 20 = 4 + 8 + 8\\sqrt{2}\\cos\\alpha$\n$\\implies 20 = 12 + 8\\sqrt{2}\\cos\\alpha$\n$\\implies 8\\sqrt{2}\\cos\\alpha = 20 - 12 = 8$\n$\\implies \\cos\\alpha = \\dfrac{8}{8\\sqrt{2}} = \\dfrac{1}{\\sqrt{2}} = \\cos 45^\\circ$\n$\\implies \\alpha = 45^\\circ$।\nঅতএব বলদ্বয়ের মধ্যবর্তী কোণ হলো $45^\\circ$ (সঠিক উত্তর [খ])।\n||EN|| Resultant equation $R^2 = P^2 + Q^2 + 2PQ\\cos\\alpha$: $(2\\sqrt{5})^2 = 4 + 8 + 8\\sqrt{2}\\cos\\alpha \\implies 20 = 12 + 8\\sqrt{2}\\cos\\alpha \\implies \\cos\\alpha = 1/\\sqrt{2} \\implies \\alpha = 45^\\circ$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_30",
+    "number": 30,
+    "question_number": 30,
+    "subject": "Mathematics",
+    "question": "$\\frac{1}{x} + a - bx = 0$ সমীকরণের মূলদ্বয় সমান হলে কোনটি সঠিক?",
+    "question_text": "$\\frac{1}{x} + a - bx = 0$ সমীকরণের মূলদ্বয় সমান হলে কোনটি সঠিক?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "a2 - 4b = 0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "b² - 4a = 0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "b2 + 4a = 0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "a² + 4b = 0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "a² + 4b = 0"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "সমীকরণ: $\\dfrac{1}{x} + a - bx = 0 \\implies bx^2 - ax - 1 = 0$।\nমূলদ্বয় বাস্তব ও সমান হওয়ার শর্ত হলো পৃথায়ক শূন্য হওয়া:\n$D = (-a)^2 - 4(b)(-1) = a^2 + 4b = 0$।\nঅতএব সঠিক উত্তর হলো [ঘ] $a^2 + 4b = 0$।\n||EN|| Discriminant condition for equal roots of $bx^2 - ax - 1 = 0$ is $a^2 + 4b = 0$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_31",
+    "number": 31,
+    "question_number": 31,
+    "subject": "Biology",
+    "question": "নিষিক্ত ডিম্বাণু কিসে পরিণত হয়?",
+    "question_text": "নিষিক্ত ডিম্বাণু কিসে পরিণত হয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "ফলে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "বীজে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "এন্ডোস্পর্মে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "None",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "বীজে"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "সপুষ্পক উদ্ভিদের নিষেকের (Fertilization) পর ফুলের বিভিন্ন অংশের রূপান্তর ঘটে:\n১. ডিম্বক (Ovule) $\\rightarrow$ **বীজ (Seed)**-এ রূপান্তরিত হয়।\n২. ডিম্বাশয় (Ovary) $\\rightarrow$ ফল (Fruit)-এ রূপান্তরিত হয়।\n৩. ডিম্বাশয় প্রাচীর $\\rightarrow$ ফলত্বক (Pericarp)-এ পরিণত হয়।\nঅতএব নিষেকের পর ডিম্বক বীজে পরিণত হয়। সঠিক উত্তর হলো [খ] বীজ।\n||EN|| Following double fertilization in angiosperms, the ovule develops into a **seed** (বীজ) while the ovary matures into a fruit.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_32",
+    "number": 32,
+    "question_number": 32,
+    "subject": "Biology",
+    "question": "ATP synthases কোষের কোথায় থাকে?",
+    "question_text": "ATP synthases কোষের কোথায় থাকে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "গলজি বডি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "রাইবোসোম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "নিউক্লিয়াস",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "মাইটোকন্ড্রিয়া",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "মাইটোকন্ড্রিয়া"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "মাইটোকন্ড্রিয়ার অন্তর্বর্তী পর্দায় (Inner mitochondrial membrane) আঙুলের মতো ভাঁজগুলোকে ক্রিস্টি (Cristae) বলে। অক্সিডেটিভ ফসফোরাইলেশনের মাধ্যমে ATP তৈরির জন্য প্রয়োজনীয় **ATP সিন্থেস (ATP synthase complex / $F_0-F_1$ দানা)** এই ক্রিস্টি বা অন্তর্বর্তী পর্দাতেই সংস্থাপিত থাকে। অতএব সঠিক উত্তর হলো [ঘ] অন্তর্বর্তী পর্দা।\n||EN|| ATP synthase complexes are embedded in the inner mitochondrial membrane (cristae), facilitating oxidative phosphorylation.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_33",
+    "number": 33,
+    "question_number": 33,
+    "subject": "Biology",
+    "question": "অবাত শ্বসনে এক অণু গ্লুকোজ থেকে কয় অণু ল্যাকটিক অ্যাসিড তৈরি হয়?",
+    "question_text": "অবাত শ্বসনে এক অণু গ্লুকোজ থেকে কয় অণু ল্যাকটিক অ্যাসিড তৈরি হয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "২ অনু",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "৪ অনু",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "৬ অনু",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "৮ অনু",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "২ অনু"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ল্যাকটিক এসিড সন্ধান বা অবাত শ্বসনে গ্লাইকোলাইসিস প্রক্রিয়ায় ১ অণু গ্লুকোজ ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) ভেঙে ২ অণু পাইরুভিক এসিড এবং পরবর্তীতে ল্যাকটেট ডিহাইড্রোজিনেজের প্রভাবে বিজারিত হয়ে **২ অণু ল্যাকটিক এসিড ($\\text{C}_3\\text{H}_6\\text{O}_3$)** উৎপন্ন করে।\nরাসায়নিক রূপ: $\\text{C}_6\\text{H}_{12}\\text{O}_6 \\rightarrow 2\\text{CH}_3\\text{CH(OH)COOH}$।\nঅতএব সঠিক উত্তর হলো [ক] ২।\n||EN|| Anaerobic lactic acid fermentation yields **2 molecules** of lactic acid per molecule of glucose.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_34",
+    "number": 34,
+    "question_number": 34,
+    "subject": "Biology",
+    "question": "অক্সিসোম কোন অঙ্গাণুর অংশ?",
+    "question_text": "অক্সিসোম কোন অঙ্গাণুর অংশ?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "রাইবোজোম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "প্লাস্টিড",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "মাইটোকন্ড্রিয়া",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "গলজি বডি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "মাইটোকন্ড্রিয়া"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "মাইটোকন্ড্রিয়ার অন্তর্বর্তী পর্দার অন্তঃপৃষ্ঠে বৃন্তযুক্ত যে অসংখ্য গোলাকার কণা থাকে সেগুলোকে অক্সিসোম (Oxysome) বা $F_0-F_1$ এটিপি সিন্থেস দানা বলা হয়। এরা কোষীয় শ্বসনের ইলেকট্রন ট্রান্সপোর্ট চেইন ও ফসফোরাইলেশনে নিয়োজিত। অতএব সঠিক উত্তর হলো [গ] মাইটোকন্ড্রিয়া।\n||EN|| Oxysomes ($F_0-F_1$ complexes) are found projecting from the inner membrane of mitochondria.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_35",
+    "number": 35,
+    "question_number": 35,
+    "subject": "Biology",
+    "question": "অঙ্কুরোদগমের সময় বীজ কোন প্রক্রিয়ায় পানি শোষণ করে?",
+    "question_text": "অঙ্কুরোদগমের সময় বীজ কোন প্রক্রিয়ায় পানি শোষণ করে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "ব্যাপন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "ইমবাইবিশন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "অভিস্রবণ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "প্রস্বেদন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "ইমবাইবিশন"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বীজ অঙ্কুরোদগমের প্রাথমিক পর্যায়ে শুষ্ক বীজের কোষপ্রাচীর ও প্রোটিন-স্টার্চ জাতীয় কলয়েডধর্মী (Hydrophilic colloid) পদার্থসমূহ পরিবেশ থেকে বিপুল পরিমাণ পানি শোষণ করে স্ফীত হয়। এই ভৌত প্রক্রিয়াকে **ইমবাইবিশন (Imbibition)** বলে। অতএব সঠিক উত্তর হলো [খ] ইমবাইবিশন।\n||EN|| Dry seeds absorb moisture during the initial phase of germination primarily via imbibition.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_36",
+    "number": 36,
+    "question_number": 36,
+    "subject": "Biology",
+    "question": "সালোকসংশ্লেষণের রঞ্জক পদার্থ গুলো কোথায় থাকে?",
+    "question_text": "সালোকসংশ্লেষণের রঞ্জক পদার্থ গুলো কোথায় থাকে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "থাইলাকয়েড",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "স্ট্রোমায়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "গ্রানায়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "সাইটোপ্লাজমে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "থাইলাকয়েড"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "উদ্ভিদের সালোকসংশ্লেষণ প্রক্রিয়ার আলোক নির্ভর পর্যায়ের জন্য প্রয়োজনীয় রঞ্জক পদার্থসমূহ (ক্লোরোফিল-এ, ক্লোরোফিল-বি, ক্যারোটিনয়েড) এবং ফটোসিস্টেম-১ ও ফটোসিস্টেম-২ ক্লোরোপ্লাস্টের **থাইলাকয়েড পর্দায় (Thylakoid membrane)** সজ্জিত থাকে। অতএব সঠিক উত্তর হলো [ক] থাইলাকয়েড পর্দা।\n||EN|| Photosynthetic pigments and reaction centers are integrated into the thylakoid membranes of chloroplasts.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_37",
+    "number": 37,
+    "question_number": 37,
+    "subject": "Biology",
+    "question": "ফ্লোয়েমের কোন উপাদানটি মৃত?",
+    "question_text": "ফ্লোয়েমের কোন উপাদানটি মৃত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "সঙ্গী কোষ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "ফ্লোয়েম ফাইবার",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "ফ্লোয়েম প্যারেনকাইম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "সিভনল",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "ফ্লোয়েম ফাইবার"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "জটিল স্থায়ী টিস্যু ফ্লোয়েম চার ধরনের উপাদান নিয়ে গঠিত: সিভনল, সঙ্গী কোষ, ফ্লোয়েম প্যারেনকাইমা এবং ফ্লোয়েম ফাইবার। এর মধ্যে প্রথম তিনটি জীবিত টিস্যু, কিন্তু **ফ্লোয়েম ফাইবার (বা বাস্ট ফাইবার)** হলো স্ক্লেরেনকাইমা প্রকৃতির মৃত উপাদান যা কাষ্ঠল দৃঢ়তা প্রদান করে (যেমন পাটের আঁশ)। অতএব সঠিক উত্তর হলো [খ] ফ্লোয়েম ফাইবার।\n||EN|| Phloem fiber (bast fiber) consists of thick-walled dead sclerenchyma cells, whereas sieve tubes, companion cells, and phloem parenchyma are living.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_38",
+    "number": 38,
+    "question_number": 38,
+    "subject": "Biology",
+    "question": "কোষ বিভাজনের কোন উপ-দশায় সমসংস্থ ক্রোমোজমের মধ্যে সিন্যাপসিস ঘটে?",
+    "question_text": "কোষ বিভাজনের কোন উপ-দশায় সমসংস্থ ক্রোমোজমের মধ্যে সিন্যাপসিস ঘটে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "জাইগোটিনে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "লেপ্টোটিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "প্যাকাইটিনে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "ডিপ্লোটিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "জাইগোটিনে"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "মায়োসিস-১ এর দীর্ঘ প্রফেজ-১ দশার পাঁচটি উপ-দশা রয়েছে (লেপ্টোটিন, জাইগোটিন, প্যাকাইটিন, ডিপ্লোটিন, ডায়াকাইনেসিস)।\n• **জাইগোটিন (Zygotene):** সমসংস্থ (Homologous) ক্রোমোজোমদ্বয় পরস্পর সমান্তরালভাবে জোড় বাঁধে, এই জোড় বাঁধার প্রক্রিয়াকে **সিন্যাপসিস (Synapsis)** এবং জোড়বাঁধা ক্রোমোজোম যুগলকে বাইভ্যালেন্ট বলে।\nঅতএব সঠিক উত্তর হলো [ক] জাইগোটিন।\n||EN|| Synapsis—the pairing of homologous chromosomes into bivalents—occurs during the Zygotene substage of Prophase I.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_39",
+    "number": 39,
+    "question_number": 39,
+    "subject": "Biology",
+    "question": "নিচের কোন পর্বের প্রাণি ইউসিলোমেট নয়?",
+    "question_text": "নিচের কোন পর্বের প্রাণি ইউসিলোমেট নয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "Annelida",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Arthropoda",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Mollusca",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "Nematoda",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "Nematoda"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রাণিজগতে সিলোমের প্রকৃতির ভিত্তিতে শ্রেণিবিন্যাস:\n১. অ্যাসিলোমেট: Porifera, Cnidaria, Platyhelminthes।\n২. অপ্রকৃত সিলোমেট / সিউডোসিলোমেট: **Nematoda** (গোলকৃমি)।\n৩. প্রকৃত সিলোমেট / ইউসিলোমেট: Annelida, Arthropoda, Mollusca, Echinodermata, Chordata।\nযেহেতু Nematoda সিউডোসিলোমেট, তাই এটি ইউসিলোমেট নয়। সঠিক উত্তর হলো [ঘ] Nematoda।\n||EN|| Nematodes possess a pseudocoelom, distinguishing them from true coelomates (eucoelomates) like Annelida and Mollusca.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_40",
+    "number": 40,
+    "question_number": 40,
+    "subject": "Biology",
+    "question": "ভ্রূণীয় মেসোডার্ম থেকে কোন অঙ্গটি গঠিত হয়?",
+    "question_text": "ভ্রূণীয় মেসোডার্ম থেকে কোন অঙ্গটি গঠিত হয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "এপিডার্মিস, স্নায়ুতন্ত্র",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "কঙ্কালতন্ত্র, রক্ত সংবহনতন্ত্র",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "পৌষ্টিকতন্ত্র, শ্বসনতন্ত্র",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "এপিডার্মিস, পেশীতন্ত্র",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "কঙ্কালতন্ত্র, রক্ত সংবহনতন্ত্র"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ভ্রূণীয় স্তর থেকে অঙ্গের উৎপত্তি:\n• এক্টোডার্ম: ত্বক, স্নায়ুতন্ত্র, চোখ।\n• **মেসোডার্ম:** কঙ্কালতন্ত্র (হাড় ও তরুণাস্থি), পেশীতন্ত্র, রক্ত ও সংবহনতন্ত্র, এবং রেচন-জননতন্ত্র।\n• এন্ডোডার্ম: পরিপাকনালির অন্তর্বর্তী আবরণী, যকৃত, অগ্ন্যাশয়, ফুসফুস।\nসুতরাং কঙ্কালতন্ত্র ও সংবহনতন্ত্র মেসোডার্ম থেকে উৎপন্ন হয়। সঠিক উত্তর হলো [খ] মেসোডার্ম।\n||EN|| Both the skeletal and cardiovascular (circulatory) systems arise from the embryonic mesoderm.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_41",
+    "number": 41,
+    "question_number": 41,
+    "subject": "Biology",
+    "question": "Kuffer's cell কোন অঙ্গে থাকে?",
+    "question_text": "Kuffer's cell কোন অঙ্গে থাকে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "প্লীহা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "মস্তিষ্ক",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "যকৃত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "অগ্ন্যাশয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "যকৃত"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "কুফার কোষ (Kupffer cells) হলো মানবদেহের **যকৃতের (Liver)** সাইনুসয়েড রক্তজালকের প্রাচীরে অবস্থিত বিশেষ ধরনের ফ্যাগোসাইটিক ম্যাক্রোফেজ কোষ। এরা রক্ত থেকে ক্ষতিকর ব্যাকটেরিয়া, পুরানো লোহিত রক্তকণিকা ও অ্যান্টিজেন ভক্ষণ করে শরীরকে বিষমুক্ত রাখে। অতএব সঠিক উত্তর হলো [গ] যকৃৎ।\n||EN|| Kupffer cells are resident specialized macrophages located within the sinusoidal lining of the liver.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_42",
+    "number": 42,
+    "question_number": 42,
+    "subject": "Biology",
+    "question": "মানবদেহে নিউক্লিয়াস বিহীন কোষ কোনটা?",
+    "question_text": "মানবদেহে নিউক্লিয়াস বিহীন কোষ কোনটা?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "লোহিত রক্ত কণিকা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "শ্বেত রক্ত কণিকা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "পেশিকোষ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "হৃদকোষ",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "লোহিত রক্ত কণিকা"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "স্তন্যপায়ী প্রাণীর (মানুষসহ) পরিণত লোহিত রক্তকণিকা (Erythrocyte / RBC) অধিক পরিমাণ হিমোগ্লোবিন ধারণ এবং অক্সিজেন পরিবহনের ক্ষেত্রফল বৃদ্ধির স্বার্থে বিকাশকালে নিউক্লিয়াস বর্জন করে দ্বি-অবতল ও নিউক্লিয়াসবিহীন হয়ে পড়ে। অতএব সঠিক উত্তর হলো [ক] লোহিত রক্তকণিকা।\n||EN|| Mature mammalian erythrocytes (RBCs) lack a nucleus to maximize space for hemoglobin and optimize oxygen carriage.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_43",
+    "number": 43,
+    "question_number": 43,
+    "subject": "Biology",
+    "question": "লোহিত রক্তকণিকার প্রধান প্রোটিন কোনটি?",
+    "question_text": "লোহিত রক্তকণিকার প্রধান প্রোটিন কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "গ্লোবিউলিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "ইনসুলিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "হিম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "অ্যালবুমিন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "গ্লোবিউলিন"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "হিমোগ্লোবিন হলো একটি কনজুগেটেড প্রোটিন, যা দুটি অংশ নিয়ে গঠিত:\n১. অপ্রোটিন অংশ (হিম / Heme): প্রায় ৪%, যা লৌহঘটিত পোরফাইরিন রিং।\n২. প্রোটিন অংশ (গ্লোবিন / Globin বা গ্লোবিউলিন): প্রায় ৯৬%, যা চারটি পলিপেপটাইড শৃঙ্খল নিয়ে গঠিত।\nঅতএব হিমোগ্লোবিনের প্রোটিন অংশটি হলো গ্লোবিউলিন বা গ্লোবিন। সঠিক উত্তর হলো [ক]।\n||EN|| Hemoglobin is a chromoprotein composed of an iron-porphyrin group (heme, ~4%) and a protein component (globin, ~96%).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_44",
+    "number": 44,
+    "question_number": 44,
+    "subject": "Biology",
+    "question": "কোনটি হাইড্রার প্রজননের পদ্ধতি নয়?",
+    "question_text": "কোনটি হাইড্রার প্রজননের পদ্ধতি নয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "মুকুলোদগম",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "বিভাজন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "স্পোরুলেশন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "যৌন জনন",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "স্পোরুলেশন"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "হাইড্রা অযৌন প্রজননের অংশ হিসেবে **মুকুলোদগম (Budding)** এবং দৈহিক **বিভাজন (Fragmentation / Fission)** প্রক্রিয়ায় বংশবৃদ্ধি করে, এবং অনুকূল ঋতুতে ডিম্বাশয় ও শুক্রাশয়ের মাধ্যমে যৌন জনন সম্পন্ন করে। কিন্তু হাইড্রার কোনো জীবনে **স্পোরুলেশন (রেণু উৎপাদন)** ঘটে না। অতএব সঠিক উত্তর হলো [গ] স্পোরুলেশন।\n||EN|| Hydra reproduces asexually by budding and regeneration/fission, and sexually by gametes; it does not form spores (sporulation).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_45",
+    "number": 45,
+    "question_number": 45,
+    "subject": "Biology",
+    "question": "ঘাসফড়িং- এর দেহের উভয় পার্শ্বে কয়টি স্পাইরাকল থাকে?",
+    "question_text": "ঘাসফড়িং- এর দেহের উভয় পার্শ্বে কয়টি স্পাইরাকল থাকে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "১০ টি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "২০ টি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "৩০ টি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "৪০ টি",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "২০ টি"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ঘাসফড়িং-এর (Poekilocerus pictus) শ্বসনতন্ত্রে বায়ুর প্রবেশ ও নির্গমনের জন্য দেহের উভয় পার্শ্বে মোট **১০ জোড়া (২০টি)** শ্বাসরন্ধ্র বা স্পাইরাকল (Spiracles) বিদ্যমান:\n• বক্ষীয় অঞ্চলে: ২ জোড়া (প্রোথোরাক্স ও মেসোথোরাক্সের মাঝে এবং মেসোথোরাক্স ও মেটাথোরাক্সের মাঝে)।\n• উদরীয় অঞ্চলে: ৮ জোড়া (১ম থেকে ৮ম উদরীয় খণ্ডকের প্রতিটিতে ১ জোড়া করে)।\nঅতএব সঠিক উত্তর হলো [খ] ১০ জোড়া।\n||EN|| The respiratory system of a grasshopper features 10 pairs (20 total) of spiracles: 2 thoracic pairs and 8 abdominal pairs.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_46",
+    "number": 46,
+    "question_number": 46,
+    "subject": "Chemistry",
+    "question": "নিচের বিক্রিয়াসমূহের মধ্যে কোনটির জন্যে Kp=Kc?",
+    "question_text": "নিচের বিক্রিয়াসমূহের মধ্যে কোনটির জন্যে Kp=Kc?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$\\mathrm{PCl}_{5(\\mathrm{~g})} \\rightleftharpoons \\mathrm{PCl}_{3(\\mathrm{~g})}+\\mathrm{Cl}_{2(\\mathrm{~g})}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\mathrm{N}_{2(\\mathrm{~g})}+\\mathrm{O}_{2(\\mathrm{~g})} \\rightleftharpoons 2 \\mathrm{NO}_{(\\mathrm{g})}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$\\mathrm{N}_{2(\\mathrm{~g})}+3 \\mathrm{H}_{2(\\mathrm{~g})} \\rightleftharpoons 2 \\mathrm{NH}_{3(\\mathrm{~g})}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$2 \\mathrm{SO}_{3(\\mathrm{~g})} \\rightleftharpoons 2 \\mathrm{SO}_{2(\\mathrm{~g})}+\\mathrm{O}_{2(\\mathrm{~g})}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$\\mathrm{N}_{2(\\mathrm{~g})}+\\mathrm{O}_{2(\\mathrm{~g})} \\rightleftharpoons 2 \\mathrm{NO}_{(\\mathrm{g})}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "গ্যাসীয় বিক্রিয়ার সাম্যধ্রুবকদ্বয়ের মধ্যকার তাপগতীয় সম্পর্ক হলো: $K_p = K_c(RT)^{\\Delta n}$।\nযেখানে $\\Delta n = \\Sigma n_{\\text{গ্যাসীয় উৎপাদ}} - \\Sigma n_{\\text{গ্যাসীয় বিক্রিয়ক}}$।\n$K_p = K_c$ হওয়ার একমাত্র শর্ত হলো $\\Delta n = 0$ (কারণ $(RT)^0 = 1$)।\nঅপশনগুলোর বিশ্লেষণ:\n• অপশন [খ]: $\\text{N}_{2(g)} + \\text{O}_{2(g)} \\rightleftharpoons 2\\text{NO}_{(g)}$ বিক্রিয়ায় $\\Delta n = 2 - (1+1) = 0$। ফলে $K_p = K_c$।\n• অপশন [ক]: $\\text{PCl}_5 \\rightleftharpoons \\text{PCl}_3 + \\text{Cl}_2 \\implies \\Delta n = 2 - 1 = +1$।\n• অপশন [গ]: $\\text{N}_2 + 3\\text{H}_2 \\rightleftharpoons 2\\text{NH}_3 \\implies \\Delta n = 2 - 4 = -2$।\nঅতএব সঠিক উত্তর হলো [খ]।\n||EN|| $K_p = K_c(RT)^{\\Delta n}$. For $\\text{N}_{2(g)} + \\text{O}_{2(g)} \\rightleftharpoons 2\\text{NO}_{(g)}$, $\\Delta n = 2 - (1+1) = 0$, so $K_p = K_c$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_47",
+    "number": 47,
+    "question_number": 47,
+    "subject": "Chemistry",
+    "question": "গ্রাফাইটে কোন ধরনের সংকরণ বিদ্যমান?",
+    "question_text": "গ্রাফাইটে কোন ধরনের সংকরণ বিদ্যমান?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$sp$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$sp^2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$sp^3$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$sp^2d$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$sp^2$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "গ্রাফাইটের স্ফটিক কাঠামোতে প্রতিটি কার্বন পরমাণু একই সমতলে অন্য তিনটি কার্বন পরমাণুর সাথে সমযোজী সিগমা বন্ধন গঠন করে ষড়ভুজীয় (Hexagonal) জালিকা তৈরি করে। এই কাঠামো গঠনের জন্য প্রতিটি কার্বন পরমাণুতে **$sp^2$** সংকরায়ন ঘটে এবং চতুর্থ ইলেকট্রনটি অসংকরিত $p$-অরবিটালে ডিলোকালাইজড $\\pi$-ইলেকট্রন হিসেবে স্তরসমূহের মধ্যে মুক্তভাবে চলাচল করে বিদ্যুৎ পরিবহন করে। অতএব সঠিক উত্তর হলো [খ] $sp^2$।\n||EN|| In graphite, each carbon atom forms 3 planar sigma bonds via **$sp^2$** hybridization, creating hexagonal sheets.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_48",
+    "number": 48,
+    "question_number": 48,
+    "subject": "Chemistry",
+    "question": "নিচের কোনটি অসামঞ্জস্যকরণ বিক্রিয়া?",
+    "question_text": "নিচের কোনটি অসামঞ্জস্যকরণ বিক্রিয়া?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$2\\text{Na} + \\text{Cl}_2 \\rightarrow 2\\text{NaCl}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\text{AgNO}_3 + \\text{NaCl} \\rightarrow \\text{NaNO}_3 + \\text{AgCl}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$3 \\mathrm{Cl}_{2}+6 \\mathrm{NaOH} \\xrightarrow{\\Delta} 5 \\mathrm{NaCl}+\\mathrm{NaClO}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\text{FeCl}_3 + \\text{SnCl}_2 \\rightarrow \\text{SnCl}_4 + \\text{FeCl}_2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "$3 \\mathrm{Cl}_{2}+6 \\mathrm{NaOH} \\xrightarrow{\\Delta} 5 \\mathrm{NaCl}+\\mathrm{NaClO}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "অসামঞ্জস্যকরণ (Disproportionation) বিক্রিয়া হলো এমন একটি রেডক্স বিক্রিয়া যেখানে একই মৌলের পরমাণু একই সাথে জারিত ও বিজারিত হয়।\nউত্তপ্ত গাঢ় ক্ষার দ্রবণে ক্লোরিনের বিক্রিয়াটি লক্ষ্য করি:\n$3\\text{Cl}_2 + 6\\text{NaOH} \\xrightarrow{\\Delta} 5\\text{NaCl} + \\text{NaClO}_3 + 3\\text{H}_2\\text{O}$\nক্লোরিনের জারণ সংখ্যার পরিবর্তন:\n• বিক্রিয়কে $\\text{Cl}_2$ এর জারণ সংখ্যা $= 0$।\n• উৎপাদ $\\text{NaCl}$ এ ক্লোরিনের জারণ সংখ্যা $= -1$ (বিজারণ)।\n• উৎপাদ $\\text{NaClO}_3$ এ ক্লোরিনের জারণ সংখ্যা $= +5$ (জারণ)।\nযেহেতু একই বিক্রিয়ায় ক্লোরিনের জারণ সংখ্যা বৃদ্ধি ও হ্রাস দুটোই ঘটেছে, তাই এটি একটি আদর্শ অসামঞ্জস্যকরণ বিক্রিয়া। সঠিক উত্তর হলো [গ]।\n||EN|| In $3\\text{Cl}_2 + 6\\text{NaOH} \\rightarrow 5\\text{NaCl} + \\text{NaClO}_3 + 3\\text{H}_2\\text{O}$, chlorine (0) is simultaneously reduced to $-1$ in $\\text{NaCl}$ and oxidized to $+5$ in $\\text{NaClO}_3$, defining a disproportionation reaction.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_49",
+    "number": 49,
+    "question_number": 49,
+    "subject": "Chemistry",
+    "question": "অনার্দ্র AlCl3 এর উপস্থিতিতে বেনজিন এর সাথে অ্যাসিটাইল ক্লোরাইড এর বিক্রিয়ায় কোন বিক্রিয়ায় কোন যৌগটি উৎপন্ন হয়?",
+    "question_text": "অনার্দ্র AlCl3 এর উপস্থিতিতে বেনজিন এর সাথে অ্যাসিটাইল ক্লোরাইড এর বিক্রিয়ায় কোন বিক্রিয়ায় কোন যৌগটি উৎপন্ন হয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "Chlorobenzene",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Acetophenone",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Toluene",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "Benzoic acid",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "Acetophenone"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ফ্রিডেল-ক্রাফটস অ্যাসাইলেশন (Friedel-Crafts Acylation) বিক্রিয়ায় অনার্দ্র লুইস এসিড $\\text{AlCl}_3$ প্রভাবকের উপস্থিতিতে বেনজিন বলয়ের সাথে অ্যাসিটাইল ক্লোরাইড ($\\text{CH}_3\\text{COCl}$) বিক্রিয়া করে ইলেকট্রনাকর্ষী প্রতিস্থাপন প্রক্রিয়ায় **অ্যাসিটোফেনোন ($\\text{C}_6\\text{H}_5\\text{COCH}_3$)** এবং $\\text{HCl}$ উৎপন্ন করে:\n$\\text{C}_6\\text{H}_6 + \\text{CH}_3\\text{COCl} \\xrightarrow{\\text{Anhydrous } \\text{AlCl}_3} \\text{C}_6\\text{H}_5\\text{COCH}_3 + \\text{HCl}$।\nঅতএব প্রধান উৎপাদটি হলো অ্যাসিটোফেনোন (সঠিক উত্তর [খ])।\n||EN|| Friedel-Crafts acylation of benzene with acetyl chloride in the presence of anhydrous $\\text{AlCl}_3$ gives **acetophenone**.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_50",
+    "number": 50,
+    "question_number": 50,
+    "subject": "Chemistry",
+    "question": "ড্যানিয়েল কোষে যে সকল ধাতু ইলেক্ট্রোড হিসেবে ব্যবহৃত হয় তা হল-",
+    "question_text": "ড্যানিয়েল কোষে যে সকল ধাতু ইলেক্ট্রোড হিসেবে ব্যবহৃত হয় তা হল-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "Cu and Mg",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Cu and Zn",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Zn and Pb",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "Pb and Cu",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "Cu and Zn"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ড্যানিয়েল কোষ (Daniell Cell) একটি ভোল্টায়িক গ্যালভানিক কোষ, যাতে:\n১. অ্যানোড (ঋণাত্মক তড়িৎদ্বার): জিংক সালফেট দ্রবণে নিমজ্জিত **জিংক (Zn)** দণ্ড, যেখানে জারণ ঘটে: $\\text{Zn} \\rightarrow \\text{Zn}^{2+} + 2e^-$।\n২. ক্যাথোড (ধনাত্মক তড়িৎদ্বার): কপার সালফেট দ্রবণে নিমজ্জিত **কপার (Cu)** দণ্ড, যেখানে বিজারণ ঘটে: $\\text{Cu}^{2+} + 2e^- \\rightarrow \\text{Cu}$।\nঅতএব ব্যবহৃত ধাতব তড়িৎদ্বার জোড় হলো Zn এবং Cu। সঠিক উত্তর হলো [খ]।\n||EN|| The classic Daniell cell employs zinc (Zn) as the anode and copper (Cu) as the cathode.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_51",
+    "number": 51,
+    "question_number": 51,
+    "subject": "Chemistry",
+    "question": "$CH_3MgX$ -এর সাথে নিচের কোন যৌগটির বিক্রিয়ায় আইসোপ্রোপানল তৈরি হয়?",
+    "question_text": "$CH_3MgX$ -এর সাথে নিচের কোন যৌগটির বিক্রিয়ায় আইসোপ্রোপানল তৈরি হয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$HCHO$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$CH_3CHO$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$CH_3COCH_3$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$CH_3OH$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$CH_3CHO$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "গ্রিগনার্ড বিকারক ($\\text{R-MgX}$) এর সাথে বিভিন্ন কার্বনিল যৌগের বিক্রিয়ায় অ্যালকোহল উৎপাদন:\n১. ফর্মালডিহাইড ($\\text{HCHO}$) $\\rightarrow$ প্রাইমারি ($1^\\circ$) অ্যালকোহল।\n২. অন্যান্য অ্যালডিহাইড যেমন অ্যাসিটালডিহাইড ($\\text{CH}_3\\text{CHO}$) $\\rightarrow$ **সেকেন্ডারি ($2^\\circ$) অ্যালকোহল**:\n$\\text{CH}_3\\text{CHO} + \\text{CH}_3\\text{MgX} \\xrightarrow{\\text{dry ether}} \\text{CH}_3\\text{-CH(OMgX)-CH}_3 \\xrightarrow{\\text{H}_3\\text{O}^+} (\\text{CH}_3)_2\\text{CHOH} + \\text{Mg(OH)X}$।\nউৎপন্ন আইসোপ্রোপাইল অ্যালকোহল একটি সেকেন্ডারি অ্যালকোহল।\nঅতএব সঠিক উত্তর হলো [খ] সেকেন্ডারি অ্যালকোহল।\n||EN|| Reaction of a Grignard reagent with acetaldehyde ($\\text{CH}_3\\text{CHO}$) followed by acid hydrolysis forms a secondary ($2^\\circ$) alcohol (isopropanol).",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_52",
+    "number": 52,
+    "question_number": 52,
+    "subject": "Chemistry",
+    "question": "একটি আদর্শ গ্যাসের জন্য PV বনাম $\\frac{1}{P}$ লেখচিত্র হবে একটি-",
+    "question_text": "একটি আদর্শ গ্যাসের জন্য PV বনাম $\\frac{1}{P}$ লেখচিত্র হবে একটি-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "ছেদকসহ সরলরেখা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "অধিবৃত্ত",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "X অক্ষের সমান্তরাল সরলরেখা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "মূলবিন্দুগামী সরলরেখা",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "X অক্ষের সমান্তরাল সরলরেখা"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বয়েলের সূত্রানুসারে স্থির তাপমাত্রায় নির্দিষ্ট ভরের আদর্শ গ্যাসের জন্য:\n$PV = k$ (ধ্রুবক)।\nএখন যদি উলম্ব অক্ষ বরাবর $PV$ এবং আনুভূমিক অক্ষ বরাবর $1/P$ স্থাপন করা হয়, তবে চাপের যেকোনো পরিবর্তনেই $PV$ এর মান অপরিবর্তিত থাকে ($PV = k$ একটি ধ্রুব রেখা)। সুতরাং লেখচিত্রটি আনুভূমিক অক্ষের (বা $1/P$ অক্ষের) সমান্তরাল একটি সরলরেখা হবে।\nঅতএব সঠিক উত্তর হলো [গ] আনুভূমিক অক্ষের সমান্তরাল সরলরেখা।\n||EN|| According to Boyle's law at constant temperature, $PV = \\text{constant}$. A plot of $PV$ versus $1/P$ yields a horizontal line parallel to the $1/P$ axis.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_53",
+    "number": 53,
+    "question_number": 53,
+    "subject": "Chemistry",
+    "question": "C5H12 যৌগের গাঠনিক সমাণু কয়টি?",
+    "question_text": "C5H12 যৌগের গাঠনিক সমাণু কয়টি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "2",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "3",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "8",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "5",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "3"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "পেনটেন ($\\text{C}_5\\text{H}_{12}$) একটি সম্পৃক্ত অ্যালকেন, যার আণবিক সংকেতের অধীনে মোট ৩টি শিকল গাঠনিক সমাণু (Chain Isomers) বিদ্যমান:\n১. $n$-পেনটেন: $\\text{CH}_3-\\text{CH}_2-\\text{CH}_2-\\text{CH}_2-\\text{CH}_3$\n২. আইসোপেনটেন (২-মিথাইলবিউটেন): $\\text{CH}_3-\\text{CH(CH}_3)-\\text{CH}_2-\\text{CH}_3$\n৩. নিওপেনটেন (২,২-ডাইমিথাইলপ্রোপেন): $\\text{C(CH}_3)_4$\nঅতএব পেনটেনের গাঠনিক সমাণু সংখ্যা ৩। সঠিক উত্তর হলো [খ] ৩টি।\n||EN|| Pentane ($\\text{C}_5\\text{H}_{12}$) possesses exactly 3 structural chain isomers: $n$-pentane, isopentane, and neopentane.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_54",
+    "number": 54,
+    "question_number": 54,
+    "subject": "Chemistry",
+    "question": "C2H5OH জারিত হয়ে Z উৎপন্ন করে। Z, C2H5OH এর সাথে বিক্রিয়া করে এস্টার তৈরি করে। Z কি?",
+    "question_text": "C2H5OH জারিত হয়ে Z উৎপন্ন করে। Z, C2H5OH এর সাথে বিক্রিয়া করে এস্টার তৈরি করে। Z কি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "HCOOH",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "CH3COOH",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "CH3CH3COOH",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "CH3COOC2H5",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "CH3COOH"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বিক্রিয়া ক্রম:\n$\\text{C}_2\\text{H}_5\\text{OH} \\xrightarrow{[O]} \\text{CH}_3\\text{CHO} \\xrightarrow{[O]} Z = \\text{CH}_3\\text{COOH}$ (ইথানয়িক এসিড)।\nউৎপন্ন জৈব এসিড $Z$ পুনরায় অ্যাসিড প্রভাবকের উপস্থিতিতে অতিরিক্ত ইথাইল অ্যালকোহলের সাথে এস্টারিফিকেশন বিক্রিয়া সম্পন্ন করে সুগন্ধযুক্ত ইথাইল ইথানয়েট এস্টার তৈরি করে:\n$\\text{CH}_3\\text{COOH} + \\text{C}_2\\text{H}_5\\text{OH} \\xrightarrow{\\text{H}^+} \\text{CH}_3\\text{COOC}_2\\text{H}_5 + \\text{H}_2\\text{O}$।\nঅতএব যৌগ $Z$ হলো ইথানয়িক এসিড ($\\text{CH}_3\\text{COOH}$)। সঠিক উত্তর হলো [খ]।\n||EN|| Complete oxidation of ethanol yields acetic acid ($Z = \\text{CH}_3\\text{COOH}$), which undergoes esterification with ethanol.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_55",
+    "number": 55,
+    "question_number": 55,
+    "subject": "Chemistry",
+    "question": "সোডিয়াম ধাতু সংরক্ষণের জন্য নিচের কোনটি উপযুক্ত?",
+    "question_text": "সোডিয়াম ধাতু সংরক্ষণের জন্য নিচের কোনটি উপযুক্ত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "NaCl(aq)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "HCl(aq)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Ethanol",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "Hexane",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "Hexane"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "সোডিয়াম ধাতু (Na) অত্যন্ত সক্রিয় ক্ষার ধাতু হওয়ায় এটি বায়ুর আর্দ্রতা ও অক্সিজেনের সংস্পর্শে দ্রুত জারিত হয় এবং পানি বা অ্যালকোহলের সাথে তীব্র বিস্ফোরণসহ হাইড্রোজেন গ্যাস উৎপন্ন করে। এজন্য এটিকে সম্পূর্ণ অক্সিজেনহীন ও নির্জল অপোলার হাইড্রোকার্বন তরল যেমন কেরোসিন তেল বা **হেক্সেন (Hexane)** এর নিচে ডুবিয়ে সংরক্ষণ করা হয়। অতএব সঠিক উত্তর হলো [ঘ] হেক্সেন।\n||EN|| Highly reactive sodium metal is stored immersed under inert non-polar hydrocarbons such as **hexane** or kerosene to prevent violent reactions with moisture and air.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_56",
+    "number": 56,
+    "question_number": 56,
+    "subject": "Chemistry",
+    "question": "কোন যৌগটি সরলরৈখিক নয়?",
+    "question_text": "কোন যৌগটি সরলরৈখিক নয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$CO_2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$H_2S$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$C_2H_2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$O_2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$H_2S$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "অণুসমূহের জ্যামিতিক আকৃতি বিশ্লেষণ:\n• $\\text{CO}_2$: $sp$ সংকরায়ন, বন্ধন কোণ $180^\\circ$, আকৃতি সরলরৈখিক।\n• $\\text{C}_2\\text{H}_2$: $sp$ সংকরায়ন, আকৃতি সরলরৈখিক।\n• $\\text{O}_2$: দ্বি-পরমাণুক অণু, সর্বদা সরলরৈখিক।\n• $\\text{H}_2\\text{S}$: কেন্দ্রীয় সালফার পরমাণুতে $sp^3$ সংকরায়ন ঘটলেও ২টি নিঃসঙ্গ ইলেকট্রন জোড় (Lone pairs) থাকার কারণে ভেসপার (VSEPR) তত্ত্ব অনুযায়ী বন্ধন জোড়সমূহে বিকর্ষণ ঘটে এবং আকৃতি কৌণিক বা ভি-আকৃতির (Bent / Angular, কোণ $\\approx 92.1^\\circ$) হয়।\nঅতএব $\\text{H}_2\\text{S}$ সরলরৈখিক নয়। সঠিক উত্তর হলো [খ] $\\text{H}_2\\text{S}$।\n||EN|| $\\text{H}_2\\text{S}$ has a bent (angular) structure due to repulsion between its two lone pairs, unlike linear $\\text{CO}_2$ and $\\text{C}_2\\text{H}_2$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_57",
+    "number": 57,
+    "question_number": 57,
+    "subject": "Chemistry",
+    "question": "হাইড্রোজেন গ্যাসের ব্যাপনের হার কোনো একটি গ্যাসের ব্যাপনের হারের ৬ গুণ। গ্যাসটির আণবিক ভর কত?",
+    "question_text": "হাইড্রোজেন গ্যাসের ব্যাপনের হার কোনো একটি গ্যাসের ব্যাপনের হারের ৬ গুণ। গ্যাসটির আণবিক ভর কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "128 g/mol",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "72 g/mol",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "32 g/mol",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "180 g/mol",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "72 g/mol"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "গ্রাহামের গ্যাস ব্যাপন সূত্রানুসারে নির্দিষ্ট তাপমাত্রা ও চাপে কোনো গ্যাসের ব্যাপন হার তার আণবিক ভরের বর্গমূলের ব্যস্তানুপাতিক:\n$\\dfrac{r_1}{r_2} = \\sqrt{\\dfrac{M_2}{M_1}}$।\nএখানে হাইড্রোজেন গ্যাসের সাপেক্ষে অজ্ঞাত গ্যাসের তুলনা করি:\n$r_{\\text{H}_2} = 6 \\times r_{\\text{gas}} \\implies \\dfrac{r_{\\text{H}_2}}{r_{\\text{gas}}} = 6$\nহাইড্রোজেনের মোলার ভর $M_1 = 2\\text{ g/mol}$।\nসূত্রে মান বসিয়ে পাই:\n$6 = \\sqrt{\\dfrac{M_2}{2}} \\implies 6^2 = \\dfrac{M_2}{2} \\implies 36 = \\dfrac{M_2}{2} \\implies M_2 = 36 \\times 2 = 72\\text{ g/mol}$।\nঅতএব অজ্ঞাত গ্যাসের আণবিক ভর হলো $72\\text{ g/mol}$। সঠিক উত্তর হলো [খ] $72$।\n||EN|| By Graham's law, $\\dfrac{r_{\\text{H}_2}}{r_{\\text{gas}}} = \\sqrt{\\dfrac{M}{2}} = 6 \\implies M = 36 \\times 2 = 72\\text{ g/mol}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_58",
+    "number": 58,
+    "question_number": 58,
+    "subject": "Chemistry",
+    "question": "C, O, N এবং F-এর তড়িৎ ঋণাত্মকতার সঠিক ক্রম কোনটি?",
+    "question_text": "C, O, N এবং F-এর তড়িৎ ঋণাত্মকতার সঠিক ক্রম কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "F>O>N>C",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "N>F>O>C",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "O>F>C>N",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "F>N>O>C",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "F>O>N>C"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "পর্যায় সারণির ২য় পর্যায়ে বাম থেকে ডানে পারমাণবিক সংখ্যা বৃদ্ধির সাথে সাথে নিউক্লীয় চার্জ বৃদ্ধি পাওয়ায় তড়িৎ ঋণাত্মকতা ক্রমাগত বৃদ্ধি পায়। পাউলিং স্কেলে মানসমূহ:\n• ফ্লুওরিন (F): $4.0$ (পর্যায় সারণির সর্বাধিক তড়িৎ ঋণাত্মক মৌল)\n• অক্সিজেন (O): $3.5$\n• নাইট্রোজেন (N): $3.0$\n• কার্বন (C): $2.5$\nসঠিক ক্রম হলো: $\\text{F} > \\text{O} > \\text{N} > \\text{C}$।\nঅতএব সঠিক উত্তর হলো [ক]।\n||EN|| Electronegativity values on the Pauling scale increase across Period 2: $\\text{F} (4.0) > \\text{O} (3.5) > \\text{N} (3.0) > \\text{C} (2.5)$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_59",
+    "number": 59,
+    "question_number": 59,
+    "subject": "Chemistry",
+    "question": "কোন উপস্তরটি সম্ভব নয়?",
+    "question_text": "কোন উপস্তরটি সম্ভব নয়?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "2d",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "3p",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "4f",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "1s",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "2d"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "কোয়ান্টাম সংখ্যার নিয়মানুসারে, প্রধান কোয়ান্টাম সংখ্যা $n$ এর জন্য সহকারী কোয়ান্টাম সংখ্যা $l$ এর অনুমোদিত মানসমূহ হলো $0$ হতে $(n-1)$ পর্যন্ত।\nএখানে $n = 2$ শক্তিস্তরে:\n$l = 0$ ($2s$ অরবিটাল) এবং $l = 1$ ($2p$ অরবিটাল) সম্ভব।\n$d$-অরবিটালের জন্য $l = 2$ প্রয়োজন, যা $n=2$ এর ক্ষেত্রে হতে পারে না ($l < n$ হতে হবে)। সুতরাং **$2d$ অরবিটাল অসম্ভব**।\nঅতএব সঠিক উত্তর হলো [ক] 2d।\n||EN|| For principal quantum level $n = 2$, orbital quantum number $l$ can only be $0$ ($2s$) or $1$ ($2p$); hence a $2d$ subshell ($l=2$) cannot exist.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_60",
+    "number": 60,
+    "question_number": 60,
+    "subject": "Chemistry",
+    "question": "কোনটি ক্ষারীয় বাফার দ্রবণ?",
+    "question_text": "কোনটি ক্ষারীয় বাফার দ্রবণ?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$\\text{HCOOH} + \\text{HCOONa}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\text{NaOH} + \\text{NaCl}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$\\text{Aq. } \\text{NH}_3 + \\text{NaOH}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\text{Aq. } \\text{NH}_3 + \\text{NH}_4\\text{Cl}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "$\\text{Aq. } \\text{NH}_3 + \\text{NH}_4\\text{Cl}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ক্ষারীয় বাফার দ্রবণ প্রস্তুত করতে একটি দুর্বল ক্ষারক এবং তার সাথে তীব্র এসিডের অনুবন্ধী লবণ প্রয়োজন:\n• দুর্বল ক্ষার: জলীয় অ্যামোনিয়া ($\\text{Aq. NH}_3$ বা $\\text{NH}_4\\text{OH}$)।\n• অনুবন্ধী লবণ: অ্যামোনিয়াম ক্লোরাইড ($\\text{NH}_4\\text{Cl}$)।\nএই দ্রবণে $\\text{NH}_4\\text{OH} \\rightleftharpoons \\text{NH}_4^+ + \\text{OH}^-$ এবং সম্পূর্ণ বিয়োজিত $\\text{NH}_4\\text{Cl} \\rightarrow \\text{NH}_4^+ + \\text{Cl}^-$ এর সাধারণ আয়ন প্রভাবের মাধ্যমে pH নিয়ন্ত্রণ বজায় থাকে।\nঅতএব সঠিক ক্ষারীয় বাফার হলো $\\text{Aq. NH}_3 + \\text{NH}_4\\text{Cl}$ (সঠিক উত্তর [ঘ])।\n||EN|| An aqueous mixture of a weak base ($\\text{NH}_3$) and its conjugate salt ($\\text{NH}_4\\text{Cl}$) forms an effective alkaline buffer system.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_61",
+    "number": 61,
+    "question_number": 61,
+    "subject": "English",
+    "question": "If someone is pessimistic, she/he is not _______.",
+    "question_text": "If someone is pessimistic, she/he is not _______.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "fantastic",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "optimistic",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "sarcastic",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "tragic",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "optimistic"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The word 'Pessimistic' means tending to see the worst aspect of things or believe that the worst will happen (হতাশাবাদী). Its exact opposite is 'Optimistic' (আশাবাদী / hopeful and confident about the future). Therefore, if someone is pessimistic, she/he is not optimistic. Correct answer is [খ] optimistic.\n||EN|| Pessimistic is the antonym of optimistic.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_62",
+    "number": 62,
+    "question_number": 62,
+    "subject": "English",
+    "question": "Would you like to go _______ a walk?",
+    "question_text": "Would you like to go _______ a walk?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "to",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "in",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "for",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "out",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "for"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The idiomatic English expression for taking a recreational stroll is \"go for a walk\". Example: \"Let's go for a walk in the evening.\" The preposition 'for' is fixed in this collocation. Correct answer is [গ] for.\n||EN|| The fixed prepositional phrase is \"go for a walk\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_63",
+    "number": 63,
+    "question_number": 63,
+    "subject": "English",
+    "question": "They could not help___ leave the car on the road, where it had broken down.",
+    "question_text": "They could not help___ leave the car on the road, where it had broken down.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "unless",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "but",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "than",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "instead of",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "but"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Grammar rule for modal expression:\n1. 'cannot help / could not help' + Verb-ing (e.g., could not help leaving).\n2. 'cannot help but / could not help but' + Base form of verb (bare infinitive).\nSince the sentence provides the base verb 'leave', the correct construction is 'could not help but'. Correct answer is [খ] could not help but.\n||EN|| 'Could not help but' is followed by a bare infinitive ('leave').",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_64",
+    "number": 64,
+    "question_number": 64,
+    "subject": "English",
+    "question": "There is nothing ______ a glass of cold water on a hot sunny day.",
+    "question_text": "There is nothing ______ a glass of cold water on a hot sunny day.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "as refreshed as",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "more refreshing than",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "so refreshing that",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "refreshing enough",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "more refreshing than"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "In comparative sentences expressing absolute preference, the negative comparative structure \"Nothing is + comparative adjective + than\" is standard English: \"Nothing is more refreshing than a glass of cold water on a hot day.\" Correct answer is [খ] more refreshing than.\n||EN|| The correct comparative structure is \"Nothing is more refreshing than...\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_65",
+    "number": 65,
+    "question_number": 65,
+    "subject": "English",
+    "question": "\"Things really took off when Microsoft Windows was introduced in 1985.\"- In this sentence \"took off\" refers to ______.",
+    "question_text": "\"Things really took off when Microsoft Windows was introduced in 1985.\"- In this sentence \"took off\" refers to ______.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "replacement of older version",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "sudden rise in popularity",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "rise in competition",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "price increase",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "sudden rise in popularity"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The phrasal verb 'take off' has several contextual meanings: for an aircraft it means leaving the ground, but in business or cultural contexts it idiomatically means \"to become successful or popular very quickly\" (হঠাৎ দ্রুত জনপ্রিয়তা বা প্রসার লাভ করা). Correct answer is [খ] become popular.\n||EN|| 'Take off' idiomatically denotes sudden popularity or rapid success.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_66",
+    "number": 66,
+    "question_number": 66,
+    "subject": "English",
+    "question": "____ the rise in unemployment in cities, more and more people continue to move to urban centres.",
+    "question_text": "____ the rise in unemployment in cities, more and more people continue to move to urban centres.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "In addition to",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Despite",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Due to",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "Even though",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "Despite"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The sentence introduces a contrast between a noun phrase (\"the rising unemployment rate in the city\") and people continuing to migrate there. 'Despite' is a preposition followed directly by a noun phrase without a clause/finite verb. ('Although' requires a full subject-verb clause). Correct answer is [খ] Despite.\n||EN|| 'Despite' correctly introduces a noun phrase expressing contrast without a finite clause.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_67",
+    "number": 67,
+    "question_number": 67,
+    "subject": "English",
+    "question": "The synonym of \"conspicuous\" is-",
+    "question_text": "The synonym of \"conspicuous\" is-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "noticeable",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "hidden",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "complex",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "together",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "noticeable"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'Conspicuous' means standing out so as to be clearly visible, striking, or attracting notice (সুস্পষ্ট বা সহজে দৃষ্টিগোচর). Its closest synonym is 'noticeable' (or prominent). Antonyms include hidden, obscure. Correct answer is [ক] noticeable.\n||EN|| 'Conspicuous' is synonymous with 'noticeable' or readily apparent.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_68",
+    "number": 68,
+    "question_number": 68,
+    "subject": "English",
+    "question": "When Rupak entered the class, the lecture ____, so he found it hard to follow.",
+    "question_text": "When Rupak entered the class, the lecture ____, so he found it hard to follow.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "just began",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "had already begun",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "had already ended",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "was about to begin",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "had already begun"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Past Perfect rule: When two actions occurred in the past, the earlier completed action takes the Past Perfect tense (had + past participle), while the later action takes the Simple Past tense. Here, arriving at the auditorium happened after the lecture had started: \"...we arrived, but the lecture had already begun.\" Correct answer is [খ] had already begun.\n||EN|| The earlier past action takes the past perfect: \"had already begun\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_69",
+    "number": 69,
+    "question_number": 69,
+    "subject": "English",
+    "question": "Our college principal is an academic ____.",
+    "question_text": "Our college principal is an academic ____.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "through and through",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "out and about",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "ins and outs",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "on and off",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "through and through"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The idiom 'through and through' means completely, thoroughly, or in every aspect (আপাদমস্তক বা পুরোপুরি). Example: \"He is a gentleman through and through.\" Correct answer is [ক] thoroughly.\n||EN|| The idiom 'through and through' means thoroughly or completely.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_70",
+    "number": 70,
+    "question_number": 70,
+    "subject": "English",
+    "question": "Choose the correct word or phrase to complete the sentence.During the COVID-19 pandemic, many families had to deal with ____ in order to reduce expenditure.",
+    "question_text": "Choose the correct word or phrase to complete the sentence.During the COVID-19 pandemic, many families had to deal with ____ in order to reduce expenditure.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "lucidity",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "austerity",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "benignity",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "garrulity",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "austerity"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "'Austerity' refers to difficult economic conditions created by government policies aimed at reducing public spending, or personal sternness/frugality (কৃচ্ছ্রসাধন বা ব্যয়সংকোচন). During an economic downturn or crisis, companies and families must practice austerity to stay solvent. Correct answer is [খ] austerity.\n||EN|| 'Austerity' denotes frugality, rigorous economy, or reduction of expenditure.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_71",
+    "number": 71,
+    "question_number": 71,
+    "subject": "English",
+    "question": "_______ a taxi, we wouldn’t have missed the train.",
+    "question_text": "_______ a taxi, we wouldn’t have missed the train.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "If we took",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "If we had taken",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "If we take",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "If we will take",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "If we had taken"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Third Conditional structure (talking about impossible past conditions and hypothetical results):\n\"If + subject + had + V3 (Past Perfect), subject + would/could/might + have + V3.\"\nHere the result clause is: \"...we would have caught the train.\" Thus the conditional clause must be: \"If we had taken a taxi\". Correct answer is [খ] If we had taken.\n||EN|| The third conditional requires the past perfect: \"If we had taken a taxi, we would have caught...\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_72",
+    "number": 72,
+    "question_number": 72,
+    "subject": "English",
+    "question": "They ______ this much fun since they came to study at this school.",
+    "question_text": "They ______ this much fun since they came to study at this school.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "do not have",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "had not had",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "have not had",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "had not have",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "have not had"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Tense rule with 'since': When 'since' connects a point of time in the past or a simple past clause (\"since I left college\"), the main clause denotes an action continuing up to the present and requires the Present Perfect tense: \"We have not had any contact since...\". Correct answer is [গ] have not had.\n||EN|| Present perfect is required in the main clause when followed by 'since' denoting a starting past event.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_73",
+    "number": 73,
+    "question_number": 73,
+    "subject": "English",
+    "question": "She will be studying science, ——— ?",
+    "question_text": "She will be studying science, ——— ?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "isn't she",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "will she not",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "wouldn't she",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "won't she",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "won't she"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Tag Question rules:\n1. An affirmative main statement takes a negative question tag.\n2. In \"She will be arriving soon\", the auxiliary verb is 'will'. The contracted negative form is 'won't'.\n3. Subject pronoun is 'she'.\nThus the correct tag is \"won't she?\". Correct answer is [ঘ] won't she?.\n||EN|| The auxiliary 'will' in an affirmative statement forms the negative tag \"won't she?\".",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_74",
+    "number": 74,
+    "question_number": 74,
+    "subject": "English",
+    "question": "Choose the correctly spelled word:",
+    "question_text": "Choose the correctly spelled word:",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "Argument",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Misspell",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "Repeatition",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "A & B",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "A & B"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "Spelling analysis:\n• Option A: 'Argument' is spelled correctly (A-R-G-U-M-E-N-T, no 'e' after 'u').\n• Option B: 'Misspell' is spelled correctly (M-I-S-S-P-E-L-L, double 's').\n• Option C: 'Repeatition' is incorrect; standard spelling is 'Repetition'.\nSince both A and B are correctly spelled, Option [ঘ] \"A & B\" is the correct answer.\n||EN|| Both 'Argument' and 'Misspell' are spelled correctly.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_75",
+    "number": 75,
+    "question_number": 75,
+    "subject": "English",
+    "question": "She is too tired to put _____ this noise anymore.",
+    "question_text": "She is too tired to put _____ this noise anymore.",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "up with",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "up at",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "on with",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "on to",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "up with"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "The phrasal verb 'put up with' means to tolerate or endure someone or something unpleasant without complaining (সহ্য করা). Example: \"I cannot put up with this rude behavior any longer.\" Correct answer is [ক] tolerate.\n||EN|| 'Put up with' is an established phrasal verb meaning to tolerate or endure.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_76",
+    "number": 76,
+    "question_number": 76,
+    "subject": "Physics",
+    "question": "একটি রান্নাঘরের দেয়াল সিলিং এবং মেঝে তাপীয় অন্তরক পদার্থ দিয়ে তৈরি। রান্নাঘরে একটি সাধারণ রেফ্রিজারেটরের দরজা খুলে তা চালু রাখা হলে রান্নাঘরের তাপমাত্রা-",
+    "question_text": "একটি রান্নাঘরের দেয়াল সিলিং এবং মেঝে তাপীয় অন্তরক পদার্থ দিয়ে তৈরি। রান্নাঘরে একটি সাধারণ রেফ্রিজারেটরের দরজা খুলে তা চালু রাখা হলে রান্নাঘরের তাপমাত্রা-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "কমবে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "স্থির থাকব",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "বাড়বে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "প্রথমে বাড়বে পরে কমবে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "বাড়বে"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রানুসারে রেফ্রিজারেটর একটি বিপরীতমুখী তাপ ইঞ্জিন:\nরেফ্রিজারেটর ভেতর থেকে যে পরিমাণ তাপ শোষণ করে ($Q_2$), বৈদ্যুতিক কম্প্রেসর কর্তৃক কৃত কাজ ($W$) যোগ হয়ে তার চেয়ে বেশি পরিমাণ তাপ পেছনে ঘরের বাতাসে নির্গত করে: $Q_1 = Q_2 + W$।\nযদি ঘরের দরজা ও জানালা সম্পূর্ণ বন্ধ থাকে (তাপীয়ভাবে আবদ্ধ ব্যবস্থা), তবে রেফ্রিজারেটরের দরজা খোলা রাখলে ঘরের সামগ্রিক মোট অভ্যন্তরীণ শক্তি প্রতি মুহূর্তে বৈদ্যুতিক শক্তি $W$ গ্রহণের মাধ্যমে বৃদ্ধি পাবে। ফলে ঘরের তাপমাত্রা ক্রমশ **বৃদ্ধি পাবে**।\nঅতএব সঠিক উত্তর হলো [গ] বৃদ্ধি পাবে।\n||EN|| By conservation of energy, total heat rejected into the closed room is $Q_1 = Q_2 + W$. Since electrical work $W > 0$ enters the room, the room temperature will **increase**.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_77",
+    "number": 77,
+    "question_number": 77,
+    "subject": "Physics",
+    "question": "একটি প্রত্যাবর্তী চক্রাকার প্রক্রিয়ার এক চক্রের পরে নিচের কোনটি শূন্য নাও হতে পারে? ( এখানে U= অন্তঃস্থ শক্তি, P=চাপ, W=সিস্টেম দ্বারা কৃতকাজ, S=এনট্রপি)",
+    "question_text": "একটি প্রত্যাবর্তী চক্রাকার প্রক্রিয়ার এক চক্রের পরে নিচের কোনটি শূন্য নাও হতে পারে? ( এখানে U= অন্তঃস্থ শক্তি, P=চাপ, W=সিস্টেম দ্বারা কৃতকাজ, S=এনট্রপি)",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$ΔU$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$W$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$ΔP$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$ΔS$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$W$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "চক্রাকার প্রক্রিয়ায় (Cyclic process) কোনো তাপগতীয় ব্যবস্থার প্রাথমিক অবস্থা ও চূড়ান্ত অবস্থা পুরোপুরি একই বিন্দুতে মিলিত হয়।\nযেহেতু অভ্যন্তরীণ শক্তি ($U$), চাপ ($P$), এবং এনট্রপি ($S$) হলো অবস্থা অপেক্ষক (State functions), তাই এদের চক্রাকার পরিবর্তন শূন্য হয়:\n$\\Delta U = \\oint dU = 0, \\quad \\Delta P = 0, \\quad \\Delta S = \\oint dS = 0$।\nকিন্তু কাজ ($W$) এবং তাপ ($Q$) অবস্থা অপেক্ষক নয়, এরা পথ অপেক্ষক (Path functions)। চক্রাকার প্রক্রিয়ায় $P-V$ লেখচিত্র দ্বারা আবদ্ধ ক্ষেত্রফল শূন্য হয় না:\n$W = \\oint P\\,dV \\ne 0$।\nঅতএব কৃতকাজ $W$ শূন্য নাও হতে পারে। সঠিক উত্তর হলো [খ] $W$।\n||EN|| In a cyclic thermodynamic process, net change in state functions is zero ($\\Delta U = 0, \\Delta S = 0$), but path-dependent work done $W = \\oint P\\,dV$ is non-zero.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_78",
+    "number": 78,
+    "question_number": 78,
+    "subject": "Physics",
+    "question": "একটি ব্যাটারির মধ্যে তড়িৎ প্রবাহ। দ্বারা প্রকাশ করা হয়। ঐ ব্যাটারির তড়িৎচালক বল, এর দুই প্রান্তের বিভব পার্থকের সমান কখন হবে?",
+    "question_text": "একটি ব্যাটারির মধ্যে তড়িৎ প্রবাহ। দ্বারা প্রকাশ করা হয়। ঐ ব্যাটারির তড়িৎচালক বল, এর দুই প্রান্তের বিভব পার্থকের সমান কখন হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "সবসময়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "কখনোই না",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "শুধুমাত্র যখন i=0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "শুধুমাত্র যখন i= ধ্রুবক",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "শুধুমাত্র যখন i=0"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "তড়িৎ কোষের প্রান্তীয় বিভব পার্থক্য ($V$) এবং তড়িৎচালক বল ($E$) এর মধ্যকার সম্পর্ক হলো:\n$V = E - I r$\nযেখানে $I$ হলো কোষের ভেতর দিয়ে প্রবাহিত তড়িৎপ্রবাহ এবং $r$ হলো কোষের অভ্যন্তরীণ রোধ।\nযখন বর্তনী মুক্ত থাকে (Open Circuit), অর্থাৎ বর্তনীতে কোনো তড়িৎপ্রবাহ চলে না ($I = 0$):\n$V = E - (0)r \\implies V = E$।\nসুতরাং কেবলমাত্র শূন্য তড়িৎপ্রবাহের ক্ষেত্রে কোষের প্রান্তীয় বিভব পার্থক্য তার তড়িৎচালক বলের সমান হয়। সঠিক উত্তর হলো [গ] $i = 0$।\n||EN|| The terminal potential difference $V = E - Ir$. It equals the electromotive force ($E$) strictly when current $I = 0$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_79",
+    "number": 79,
+    "question_number": 79,
+    "subject": "Physics",
+    "question": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড়-দ্বয়ের মধ্যবর্তী দূরত্ব দ্বিগুণ করা হলো। পর্দার প্রতি একক দৈর্ঘ্যে উজ্জ্বল ডোরার সংখ্যা স্থির রাখতে হলে চিড় থেকে পর্দার দূরত্ব D কে কীভাবে পরিবর্তন করতে হবে?",
+    "question_text": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড়-দ্বয়ের মধ্যবর্তী দূরত্ব দ্বিগুণ করা হলো। পর্দার প্রতি একক দৈর্ঘ্যে উজ্জ্বল ডোরার সংখ্যা স্থির রাখতে হলে চিড় থেকে পর্দার দূরত্ব D কে কীভাবে পরিবর্তন করতে হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$D/2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\sqrt{2}D$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$2D$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\frac{D}{\\sqrt{2}}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "$2D$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "ইয়ং-এর দ্বি-চির ব্যতিচার পরীক্ষায় পরপর দুটি উজ্জ্বল বা অন্ধকার ডোরার মধ্যকার দূরত্ব (ডোরা ব্যবধান):\n$\\beta = \\dfrac{\\lambda D}{d}$\nযেখানে $\\lambda$ তরঙ্গদৈর্ঘ্য, $D$ পর্দা থেকে চিরের দূরত্ব, এবং $d$ চিরদ্বয়ের মধ্যবর্তী দূরত্ব।\nপর্দার প্রতি একক দৈর্ঘ্যে ডোরার সংখ্যা ($N$) হলো ডোরা ব্যবধানের বিপরীত রাশি:\n$N = \\dfrac{1}{\\beta} = \\dfrac{d}{\\lambda D}$।\nপ্রশ্নানুসারে, ডোরার সংখ্যা $N$ অপরিবর্তিত রাখতে হবে। সুতরাং $\\dfrac{d}{D}$ অনুপাতটি ধ্রুবক থাকতে হবে।\nচিরদ্বয়ের দূরত্ব $d$ দ্বিগুণ ($2d$) করা হলে, অনুপাত স্থির রাখতে পর্দার দূরত্ব $D$-কেও অবশ্যই দ্বিগুণ (**$2D$**) করতে হবে।\nঅতএব সঠিক উত্তর হলো [গ] $2D$।\n||EN|| Fringes per unit length $N = \\dfrac{d}{\\lambda D}$. To hold $N$ constant when slit separation $d$ is doubled to $2d$, screen distance $D$ must also be doubled to **$2D$**.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_80",
+    "number": 80,
+    "question_number": 80,
+    "subject": "Physics",
+    "question": "একটি ব্রিজ রেক্টিফায়ার বর্তনীর ইনপুট সংকেতের কম্পাঙ্ক 50 Hz হলে এর আউটপুট সংকেতের কম্পাঙ্ক কত হবে?",
+    "question_text": "একটি ব্রিজ রেক্টিফায়ার বর্তনীর ইনপুট সংকেতের কম্পাঙ্ক 50 Hz হলে এর আউটপুট সংকেতের কম্পাঙ্ক কত হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "220 Hz",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "50 Hz",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "25 Hz",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "100 Hz",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "100 Hz"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "রেক্টিফায়ারের আউটপুট রিপল কম্পাঙ্ক:\n১. অর্ধ-তরঙ্গ (Half-wave) রেক্টিফায়ারে: $f_{\\text{out}} = f_{\\text{in}}$।\n২. পূর্ণ-তরঙ্গ (Full-wave) বা ব্রিজ রেক্টিফায়ারে: ইনপুট এসি সিগন্যালের ধনাত্মক ও ঋণাত্মক উভয় অর্ধ-চক্রই একই অভিমুখে ডিসি পালস হিসেবে রূপান্তরিত হওয়ায় প্রতি সেকেন্ডে তরঙ্গের শীর্ষ দ্বিগুণ হয়ে যায়:\n$f_{\\text{out}} = 2 f_{\\text{in}}$।\nমান বসিয়ে পাই:\n$f_{\\text{out}} = 2 \\times 50\\text{ Hz} = 100\\text{ Hz}$।\nঅতএব সঠিক উত্তর হলো [ঘ] $100\\text{ Hz}$।\n||EN|| For a full-wave bridge rectifier, output ripple frequency is twice the AC line frequency: $f_{\\text{ripple}} = 2 \\times 50\\text{ Hz} = 100\\text{ Hz}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_81",
+    "number": 81,
+    "question_number": 81,
+    "subject": "Physics",
+    "question": "বৃষ্টির একটি বড় ফোঁটা ভেঙে অনেকগুলো ছোট ফোঁটায় পরিণত হলে, বড় ফোঁটাটির তুলনায় ছোট ফোঁটাগুলির সমষ্টিগত ক্ষেত্রফল-",
+    "question_text": "বৃষ্টির একটি বড় ফোঁটা ভেঙে অনেকগুলো ছোট ফোঁটায় পরিণত হলে, বড় ফোঁটাটির তুলনায় ছোট ফোঁটাগুলির সমষ্টিগত ক্ষেত্রফল-",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "হ্রাস পাবে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "বৃদ্ধি পাবে",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "অপরিবর্তিত থাকব",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "কোনটিই নয়",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "বৃদ্ধি পাবে"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "একটি বড় তরল ফোঁটা ভেঙে অসংখ্য ক্ষুদ্র ফোঁটায় পরিণত হওয়ার ঘটনা বিশ্লেষণ:\nধরি বড় ফোঁটার ব্যাসার্ধ $R$ এবং $n$ সংখ্যক ছোট ফোঁটার ব্যাসার্ধ $r$।\nতরলের মোট আয়তন সংরক্ষিত থাকে: $\\dfrac{4}{3}\\pi R^3 = n \\left(\\dfrac{4}{3}\\pi r^3\\right) \\implies R^3 = n r^3 \\implies r = \\dfrac{R}{n^{1/3}}$।\nছোট ফোঁটাগুলোর মোট পৃষ্ঠক্ষেত্রফল:\n$A_{\\text{total}} = n (4\\pi r^2) = n \\cdot 4\\pi \\left(\\dfrac{R}{n^{1/3}}\\right)^2 = n^{1/3} (4\\pi R^2) = n^{1/3} A_{\\text{initial}}$।\nযেহেতু $n > 1$, তাই $n^{1/3} > 1$, অর্থাৎ মোট পৃষ্ঠক্ষেত্রফল উল্লেখযোগ্যভাবে **বৃদ্ধি পাবে**।\nঅতএব সঠিক উত্তর হলো [খ] বৃদ্ধি পাবে।\n||EN|| Splitting a drop of radius $R$ into $n$ smaller droplets conserves total volume while increasing total surface area by a factor of $n^{1/3}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_82",
+    "number": 82,
+    "question_number": 82,
+    "subject": "Physics",
+    "question": "একটি বস্তুকণার মোট শক্তি এর স্থির ভর শক্তির দ্বিগুণ। আলোর দ্রুতি c হলে, কণাটির দ্রুতি কত?",
+    "question_text": "একটি বস্তুকণার মোট শক্তি এর স্থির ভর শক্তির দ্বিগুণ। আলোর দ্রুতি c হলে, কণাটির দ্রুতি কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$\\frac{2 c}{\\sqrt{ } 3}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\frac{\\sqrt{ } 3}{2} c$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$c$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$2c$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$\\frac{\\sqrt{ } 3}{2} c$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "আপেক্ষিকতার বিশেষ তত্ত্বানুসারে কোনো গতিশীল কণার মোট শক্তি:\n$E = \\gamma E_0 = \\dfrac{m_0 c^2}{\\sqrt{1 - v^2/c^2}}$\nযেখানে $E_0 = m_0 c^2$ হলো নিশ্চল শক্তি।\nপ্রশ্নমতে, মোট শক্তি নিশ্চল শক্তির দ্বিগুণ: $E = 2E_0$।\n$\\implies \\dfrac{E_0}{\\sqrt{1 - v^2/c^2}} = 2 E_0$\n$\\implies \\sqrt{1 - \\dfrac{v^2}{c^2}} = \\dfrac{1}{2}$।\nউভয়পক্ষকে বর্গ করে পাই:\n$1 - \\dfrac{v^2}{c^2} = \\dfrac{1}{4} \\implies \\dfrac{v^2}{c^2} = 1 - \\dfrac{1}{4} = \\dfrac{3}{4}$\n$\\implies \\dfrac{v}{c} = \\dfrac{\\sqrt{3}}{2} \\implies v = \\dfrac{\\sqrt{3}}{2}c$।\nঅতএব সঠিক উত্তর হলো [খ] $\\dfrac{\\sqrt{3}}{2}c$।\n||EN|| Total relativistic energy $E = \\gamma m_0 c^2 = 2 m_0 c^2 \\implies \\gamma = 2$. Solving $\\sqrt{1 - v^2/c^2} = 1/2$ yields $v = \\dfrac{\\sqrt{3}}{2}c$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_83",
+    "number": 83,
+    "question_number": 83,
+    "subject": "Physics",
+    "question": "m ভরের একটি বস্তু একটি অনুভূমিক স্প্রিং-এর সাথে সংযুক্ত আছে। স্প্রিংটি A পরিমাণ প্রসারিত করে ছেড়ে দেওয়া হলে এটি T পর্যায়কাল নিয়ে ঘর্ষণবিহীন তলে স্পন্দিত হতে থাকল। যদি বস্তুর ভর 4m করা হয় তবে নতুন পর্যায়কাল কত হবে?",
+    "question_text": "m ভরের একটি বস্তু একটি অনুভূমিক স্প্রিং-এর সাথে সংযুক্ত আছে। স্প্রিংটি A পরিমাণ প্রসারিত করে ছেড়ে দেওয়া হলে এটি T পর্যায়কাল নিয়ে ঘর্ষণবিহীন তলে স্পন্দিত হতে থাকল। যদি বস্তুর ভর 4m করা হয় তবে নতুন পর্যায়কাল কত হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "2T",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "T",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "4T",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "T/4",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "2T"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "স্প্রিং-ভর সিস্টেমের সরল ছন্দিত স্পন্দনের পর্যায়কালের সূত্র:\n$T = 2\\pi \\sqrt{\\dfrac{m}{k}}$\nযেখানে $m$ হলো স্প্রিং-এ ঝুলানো ভর এবং $k$ হলো স্প্রিং ধ্রুবক।\nসুতরাং পর্যায়কাল ভরের বর্গমূলের সমানুপাতিক: $T \\propto \\sqrt{m}$।\nযদি ভর চারগুণ ($4m$) করা হয়, তবে নতুন পর্যায়কাল $T'$ হবে:\n$T' = 2\\pi \\sqrt{\\dfrac{4m}{k}} = 2 \\times \\left(2\\pi \\sqrt{\\dfrac{m}{k}}\\right) = 2T$।\nঅতএব পর্যায়কাল পূর্বের দ্বিগুণ ($2T$) হবে। সঠিক উত্তর হলো [ক] $2T$।\n||EN|| The time period of a mass-spring oscillator is $T = 2\\pi\\sqrt{m/k}$. Quadrupling the suspended mass gives $T' = \\sqrt{4}T = 2T$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_84",
+    "number": 84,
+    "question_number": 84,
+    "subject": "Physics",
+    "question": "একটি সুতার একপ্রান্তে একটি বস্তুকে বেঁধে উলম্বভাবে বৃত্তাকার পথে ঘুরানো হচ্ছে। বৃত্তের সর্বোচ্চ বিন্দুতে বস্তুটির বেগ $\\sqrt{(3gr)}$ (r = বৃত্তের ব্যাসার্ধ এবং g অভিকর্ষজ ত্বরণ) হলে, বৃত্তের সর্বোচ্চ এবং সর্বনিম্ন বিন্দুতে সুতার টানের অনুপাত কত হবে?",
+    "question_text": "একটি সুতার একপ্রান্তে একটি বস্তুকে বেঁধে উলম্বভাবে বৃত্তাকার পথে ঘুরানো হচ্ছে। বৃত্তের সর্বোচ্চ বিন্দুতে বস্তুটির বেগ $\\sqrt{(3gr)}$ (r = বৃত্তের ব্যাসার্ধ এবং g অভিকর্ষজ ত্বরণ) হলে, বৃত্তের সর্বোচ্চ এবং সর্বনিম্ন বিন্দুতে সুতার টানের অনুপাত কত হবে?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$1:2$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$1:8$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$1:4$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$1:7$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "$1:4$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "উল্লম্ব বৃত্তাকার পথে ঘূর্ণায়মান বস্তুর ক্ষেত্রে:\nশীর্ষবিন্দুতে (Top) কেন্দ্রমুখী বলের যোগান দেয় সুতার টান $T_1$ এবং অভিকর্ষ বল $mg$:\n$T_1 + mg = \\dfrac{m v_{\\text{top}}^2}{r}$\nপ্রশ্নমতে, $v_{\\text{top}} = \\sqrt{3gr}$, সুতরাং $v_{\\text{top}}^2 = 3gr$:\n$T_1 = \\dfrac{m(3gr)}{r} - mg = 3mg - mg = 2mg$।\nযান্ত্রিক শক্তি সংরক্ষণ নীতিতে সর্বনিম্ন বিন্দুতে (Bottom) বেগ $v_{\\text{bottom}}$:\n$\\dfrac{1}{2}m v_{\\text{bottom}}^2 = \\dfrac{1}{2}m v_{\\text{top}}^2 + mg(2r)$\n$\\implies v_{\\text{bottom}}^2 = v_{\\text{top}}^2 + 4gr = 3gr + 4gr = 7gr$।\nসর্বনিম্ন বিন্দুতে সুতার টান $T_2$:\n$T_2 - mg = \\dfrac{m v_{\\text{bottom}}^2}{r} \\implies T_2 = \\dfrac{m(7gr)}{r} + mg = 7mg + mg = 8mg$।\nটানের অনুপাত:\n$\\dfrac{T_1}{T_2} = \\dfrac{2mg}{8mg} = \\dfrac{1}{4}$ অর্থাৎ $1 : 4$।\nঅতএব সঠিক উত্তর হলো [গ] $1 : 4$।\n||EN|| At the top, $T_{\\text{top}} = \\dfrac{m(3gr)}{r} - mg = 2mg$. By energy conservation, $v_{\\text{bottom}}^2 = 3gr + 4gr = 7gr$, giving $T_{\\text{bottom}} = \\dfrac{m(7gr)}{r} + mg = 8mg$. Ratio $T_{\\text{top}} : T_{\\text{bottom}} = 2:8 = 1:4$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_85",
+    "number": 85,
+    "question_number": 85,
+    "subject": "Physics",
+    "question": "$6 \\Omega$ এবং $12 \\Omega$ মানের দুইটি রোধ সমান্তরালে সংযুক্ত আছে। এই সমান্তরাল সংযোগকে $4 \\Omega$ মানের রোধ এবং $24 \\mathrm{~V}$ ব্যাটারির সাথে সিরিজে সংযুক্ত করা হলো। উক্ত সংযোগে $6 \\Omega$ রোধের ভিতরে প্রবাহিত তড়িৎ-এর পরিমাণ কত?",
+    "question_text": "$6 \\Omega$ এবং $12 \\Omega$ মানের দুইটি রোধ সমান্তরালে সংযুক্ত আছে। এই সমান্তরাল সংযোগকে $4 \\Omega$ মানের রোধ এবং $24 \\mathrm{~V}$ ব্যাটারির সাথে সিরিজে সংযুক্ত করা হলো। উক্ত সংযোগে $6 \\Omega$ রোধের ভিতরে প্রবাহিত তড়িৎ-এর পরিমাণ কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "2A",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "3A",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "6A",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "12A",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "2A"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "বর্তনী বিশ্লেষণ:\n১. $6\\,\\Omega$ ও $12\\,\\Omega$ রোধ দুটি সমান্তরাল সমবায়ে যুক্ত। এদের তুল্য রোধ:\n$R_p = \\dfrac{6 \\times 12}{6 + 12} = \\dfrac{72}{18} = 4\\,\\Omega$।\n২. এই সমান্তরাল অংশের সাথে শ্রেণিতে আরেকটি $4\\,\\Omega$ রোধ যুক্ত। মোট রোধ:\n$R_{\\text{total}} = R_p + 4 = 4 + 4 = 8\\,\\Omega$।\n৩. বর্তনীর মোট মূল প্রবাহ:\n$I = \\dfrac{V}{R_{\\text{total}}} = \\dfrac{24\\text{ V}}{8\\,\\Omega} = 3\\text{ A}$।\n৪. সমান্তরাল শাখার কারেন্ট ডিভাইডার সূত্রানুসারে $6\\,\\Omega$ রোধের মধ্য দিয়ে প্রবাহ:\n$I_6 = I \\times \\dfrac{12}{6 + 12} = 3\\text{ A} \\times \\dfrac{12}{18} = 3 \\times \\dfrac{2}{3} = 2\\text{ A}$।\nঅতএব সঠিক উত্তর হলো [ক] $2\\text{ A}$।\n||EN|| Parallel branch equivalent resistance $R_p = \\dfrac{6 \\times 12}{18} = 4\\,\\Omega$, total resistance $= 8\\,\\Omega$, total current $I = 24/8 = 3\\text{ A}$. Current through $6\\,\\Omega$ resistor is $3 \\times \\dfrac{12}{18} = 2\\text{ A}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_86",
+    "number": 86,
+    "question_number": 86,
+    "subject": "Physics",
+    "question": "একটি 3 মানের ভেক্টরকে একটি 4 মানের ভেক্টরের সাথে যোগ করলে লব্ধি ভেক্টরের মান নিচের কোনটি হবে না?",
+    "question_text": "একটি 3 মানের ভেক্টরকে একটি 4 মানের ভেক্টরের সাথে যোগ করলে লব্ধি ভেক্টরের মান নিচের কোনটি হবে না?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "0",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "1",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "3",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "5",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ক",
+      "text": "0"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "দুটি ভেক্টর $\\vec{A}$ ও $\\vec{B}$ এর লব্ধির মান তাদের মধ্যবর্তী কোণের ওপর নির্ভর করে একটি নির্দিষ্ট সীমার মধ্যে অবস্থান করে:\n$|A - B| \\le R \\le |A + B|$\nএখানে মানদ্বয় $3\\text{ N}$ এবং $4\\text{ N}$:\n• সর্বনিম্ন সম্ভাব্য লব্ধি (পরস্পর বিপরীতমুখী হলে): $R_{\\min} = 4 - 3 = 1\\text{ N}$।\n• সর্বোচ্চ সম্ভাব্য লব্ধি (একইমুখী হলে): $R_{\\max} = 4 + 3 = 7\\text{ N}$।\nসুতরাং লব্ধির মান অবশ্যই $1\\text{ N}$ থেকে $7\\text{ N}$ এর মধ্যে হতে হবে। লব্ধির মান কখনোই $1\\text{ N}$ এর চেয়ে ছোট অর্থাৎ **$0$ হতে পারে না**।\nঅতএব সঠিক উত্তর হলো [ক] $0$।\n||EN|| The resultant magnitude of two vectors $3$ and $4$ must lie between $|4-3|=1$ and $4+3=7$. Hence it can never be $0$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_87",
+    "number": 87,
+    "question_number": 87,
+    "subject": "Physics",
+    "question": "একটি রাবার ব্যাণ্ডকে টেনে $x$ পরিমাণ বৃদ্ধি করলে রাবার ব্যান্ডে সৃষ্ট প্রত্যাবর্তী বল হলো $F=a x+b x^{2}$ (এখানে a এবং b ধ্রুবক) Iরবার ব্যান্ডকে $x=0$ থেকে $x=L$ পর্যন্ত প্রসারিত করতে সম্পন্ন কৃতকাজের মাণ কত?",
+    "question_text": "একটি রাবার ব্যাণ্ডকে টেনে $x$ পরিমাণ বৃদ্ধি করলে রাবার ব্যান্ডে সৃষ্ট প্রত্যাবর্তী বল হলো $F=a x+b x^{2}$ (এখানে a এবং b ধ্রুবক) Iরবার ব্যান্ডকে $x=0$ থেকে $x=L$ পর্যন্ত প্রসারিত করতে সম্পন্ন কৃতকাজের মাণ কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$a L^{2}+b L x^{3}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$\\frac{a L^{2}}{2}+2 b L^{2}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$a+2 b L$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\frac{a L^{2}}{2}+\\frac{b L^{3}}{3}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "ঘ",
+      "text": "$\\frac{a L^{2}}{2}+\\frac{b L^{3}}{3}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "পরিবর্তনশীল বল $F(x) = ax + bx^2$ দ্বারা বস্তুকে $x = 0$ হতে $x = L$ দূরত্বে সরাতে কৃতকাজ সমাকলনের মাধ্যমে নির্ণীত হয়:\n$W = \\int_0^L F(x)\\,dx = \\int_0^L (ax + bx^2)\\,dx$\n$\\implies W = \\left[ \\dfrac{a x^2}{2} + \\dfrac{b x^3}{3} \\right]_0^L$\n$\\implies W = \\left( \\dfrac{a L^2}{2} + \\dfrac{b L^3}{3} \\right) - 0 = \\dfrac{a L^2}{2} + \\dfrac{b L^3}{3}$।\nঅতএব সঠিক উত্তর হলো [ঘ] $\\dfrac{a L^2}{2} + \\dfrac{b L^3}{3}$।\n||EN|| Work done by variable force $F = ax + bx^2$ over distance $L$ is $W = \\int_0^L (ax+bx^2)\\,dx = \\dfrac{aL^2}{2} + \\dfrac{bL^3}{3}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_88",
+    "number": 88,
+    "question_number": 88,
+    "subject": "Physics",
+    "question": "$6 \\frac{\\mathrm{d}^2 \\mathrm{x}}{\\mathrm{dt}^2} + 150\\mathrm{x} = 0$ তরঙ্গের কৌণিক কম্পাংক কত?",
+    "question_text": "$6 \\frac{\\mathrm{d}^2 \\mathrm{x}}{\\mathrm{dt}^2} + 150\\mathrm{x} = 0$ তরঙ্গের কৌণিক কম্পাংক কত?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "6",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "5",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "25",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "150",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "5"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "প্রদত্ত গতি সমীকরণ: $6\\dfrac{d^2x}{dt^2} + 150x = 0$।\nসরল ছন্দিত গতির আদর্শ ব্যবকলনীয় সমীকরণ হলো:\n$\\dfrac{d^2x}{dt^2} + \\omega^2 x = 0$।\nসমীকরণটিকে আদর্শ আকারে আনতে উভয়পক্ষকে $6$ দ্বারা ভাগ করি:\n$\\dfrac{d^2x}{dt^2} + \\dfrac{150}{6}x = 0 \\implies \\dfrac{d^2x}{dt^2} + 25x = 0$।\nতুলনা করে পাই:\n$\\omega^2 = 25 \\implies \\omega = \\sqrt{25} = 5\\text{ rad/s}$।\nঅতএব কণাটির কৌণিক কম্পাঙ্ক হলো $5\\text{ rad/s}$। সঠিক উত্তর হলো [খ] $5\\text{ rad/s}$।\n||EN|| Dividing $6\\frac{d^2x}{dt^2} + 150x = 0$ by 6 gives $\\frac{d^2x}{dt^2} + 25x = 0$. Comparing with $\\frac{d^2x}{dt^2} + \\omega^2 x = 0$ yields $\\omega = 5\\text{ rad/s}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_89",
+    "number": 89,
+    "question_number": 89,
+    "subject": "Physics",
+    "question": "একটি ইলেকট্রনকে v বিভব পার্থক্যের মধ্যে রাখলে, ইলেকট্রনের বেগ v ও প্রযুক্ত বিভব পার্থক্যের মধ্যে সম্পর্ক কোনটি?",
+    "question_text": "একটি ইলেকট্রনকে v বিভব পার্থক্যের মধ্যে রাখলে, ইলেকট্রনের বেগ v ও প্রযুক্ত বিভব পার্থক্যের মধ্যে সম্পর্ক কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "$v=\\sqrt{\\left(\\frac{e V}{m}\\right)}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "$v=\\sqrt{\\left(\\frac{2 e V}{m}\\right)}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$v=\\frac{e V^{2}}{m}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$v=\\frac{1}{2} m V^{2}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "খ",
+      "text": "$v=\\sqrt{\\left(\\frac{2 e V}{m}\\right)}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "$V$ বিভব পার্থক্যে ত্বরান্বিত $m$ ভর এবং $e$ আধানবিশিষ্ট ইলেকট্রন যে পরিমাণ তড়িৎ বিভব শক্তি লাভ করে, তা সম্পূর্ণরূপে এর গতিশক্তিতে রূপান্তরিত হয়:\n$K = \\dfrac{1}{2}m v^2 = e V$\nউভয়পক্ষ থেকে বেগ $v$ এর মান বের করি:\n$m v^2 = 2 e V \\implies v^2 = \\dfrac{2 e V}{m}$\n$\\implies v = \\sqrt{\\dfrac{2 e V}{m}}$।\nঅতএব ইলেকট্রনের বেগ হবে $\\sqrt{\\dfrac{2eV}{m}}$। সঠিক উত্তর হলো [খ]।\n||EN|| By conservation of energy, kinetic energy $\\frac{1}{2}mv^2 = eV \\implies v = \\sqrt{\\dfrac{2eV}{m}}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  },
+  {
+    "id": "du_21_22_mcq_90",
+    "number": 90,
+    "question_number": 90,
+    "subject": "Physics",
+    "question": "শূণ্য ভর এবং E শক্তিবিশিষ্ট একটি কণার ভরবেগ কোনটি?",
+    "question_text": "শূণ্য ভর এবং E শক্তিবিশিষ্ট একটি কণার ভরবেগ কোনটি?",
+    "question_image_urls": [],
+    "options": [
+      {
+        "label": "ক",
+        "text": "শুন্য(0)",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "খ",
+        "text": "Ec",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      },
+      {
+        "label": "গ",
+        "text": "$\\frac{E}{c}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": true,
+        "is_incorrect": false
+      },
+      {
+        "label": "ঘ",
+        "text": "$\\sqrt{Ec}$",
+        "image_urls": [],
+        "math_tex": [],
+        "is_correct": false,
+        "is_incorrect": false
+      }
+    ],
+    "correct_answer": {
+      "label": "গ",
+      "text": "$\\frac{E}{c}$"
+    },
+    "answer_detection": "verified_official_key",
+    "explanation": "আইনস্টাইনের আপেক্ষিক তত্ত্বানুসারে যেকোনো কণার মোট শক্তি $E$ এবং ভরবেগ $p$ এর সম্পর্ক:\n$E^2 = p^2 c^2 + m_0^2 c^4$\nযেহেতু ফোটন একটি নিশ্চল ভরহীন কণা ($m_0 = 0$):\n$E^2 = p^2 c^2 \\implies E = p c$\nঅতএব ভরবেগ $p$ হবে:\n$p = \\dfrac{E}{c}$।\nসঠিক উত্তর হলো [গ] $\\dfrac{E}{c}$।\n||EN|| For a photon with rest mass $m_0 = 0$, $E = pc \\implies p = \\dfrac{E}{c}$.",
+    "source_label": "DU A 21-22",
+    "all_image_urls": []
+  }
+]

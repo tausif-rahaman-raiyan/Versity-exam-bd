@@ -1,0 +1,5227 @@
+{
+  "schema_version": "3.0",
+  "university": "DU",
+  "exam_title": "DU 12-13 MCQ",
+  "exam_year": "12-13",
+  "exam_type": "MCQ",
+  "extracted_at": "2026-11-12T00:02:25.011Z",
+  "question_count": 163,
+  "questions": [
+    {
+      "id": "du-12-13-phy_1",
+      "question": "নিম্নোক্ত বিক্রিয়ার শূন্যস্থানে কি হতে পারে ? $_{13}^{27}Al+_2^4He\\to_{15}^{30}P+......$",
+      "options": [
+        {
+          "id": "phy_1_opt_1",
+          "label": "A",
+          "text": "$_0^1\\ n$"
+        },
+        {
+          "id": "phy_1_opt_2",
+          "label": "B",
+          "text": "$_{-1}^0\\ e$"
+        },
+        {
+          "id": "phy_1_opt_3",
+          "label": "C",
+          "text": "$_1^1H$"
+        },
+        {
+          "id": "phy_1_opt_4",
+          "label": "D",
+          "text": "$_1^3K$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $_0^1\\ n$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_2",
+      "question": "দ্বিমিক সংখ্যা $10011010111$ এর দশমিকে প্রকাশ-",
+      "options": [
+        {
+          "id": "phy_2_opt_1",
+          "label": "A",
+          "text": "1237"
+        },
+        {
+          "id": "phy_2_opt_2",
+          "label": "B",
+          "text": "1239"
+        },
+        {
+          "id": "phy_2_opt_3",
+          "label": "C",
+          "text": "1241"
+        },
+        {
+          "id": "phy_2_opt_4",
+          "label": "D",
+          "text": "1247"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1237\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_3",
+      "question": "হাইড্রোজেন পরমাণুর ইলেকট্রন$5\\times10^{-11}m$ব্যাসার্ধের বৃত্তাকার পথে প্রতি সেকেন্ডে$6.8\\times10^{15}$বার ঘোরে । কক্ষের কেন্দ্রে চৌম্বকক্ষেত্রের মান কত? $[e=1.6\\times10^{-19}C,\\mu_0=4\\pi\\times10^{-7}\\ H/m]$",
+      "options": [
+        {
+          "id": "phy_3_opt_1",
+          "label": "A",
+          "text": "$13.67\\ Wb/m^2$"
+        },
+        {
+          "id": "phy_3_opt_2",
+          "label": "B",
+          "text": "$6.8\\ Wb/m^2$"
+        },
+        {
+          "id": "phy_3_opt_3",
+          "label": "C",
+          "text": "$1.6\\times10^{-7}\\ Wb/m^2$"
+        },
+        {
+          "id": "phy_3_opt_4",
+          "label": "D",
+          "text": "$1.7\\times10\\ Wb/m^2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $13.67\\ Wb/m^2$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_4",
+      "question": "একটি তাপ ইঞ্জিন স্টীমবিন্দু ও 27°C তাপমাত্রার মধ্যে কার্যরত । ইঞ্জিনের সর্বাধিক দক্ষতা কত?",
+      "options": [
+        {
+          "id": "phy_4_opt_1",
+          "label": "A",
+          "text": "29.5%"
+        },
+        {
+          "id": "phy_4_opt_2",
+          "label": "B",
+          "text": "21.75%"
+        },
+        {
+          "id": "phy_4_opt_3",
+          "label": "C",
+          "text": "15.52%"
+        },
+        {
+          "id": "phy_4_opt_4",
+          "label": "D",
+          "text": "19.57%"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 29.5%\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_5",
+      "question": "কোনো একটি হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদ আয়তনে পাঁচগুণ হয় । বায়ুমণ্ডলের চাপ এবং পানির ঘনত্ব যথাক্রমে $10^5\\ N/m^2$এবং$10^3\\ kgm^{-3}$হলে হ্রদের b গভীরতা কত?$g=9.8\\ ms^{-2}$",
+      "options": [
+        {
+          "id": "phy_5_opt_1",
+          "label": "A",
+          "text": "40.82 m"
+        },
+        {
+          "id": "phy_5_opt_2",
+          "label": "B",
+          "text": "51 m"
+        },
+        {
+          "id": "phy_5_opt_3",
+          "label": "C",
+          "text": "61 m"
+        },
+        {
+          "id": "phy_5_opt_4",
+          "label": "D",
+          "text": "30 m"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 40.82 m\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_6",
+      "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য$\\frac{5\\lambda}{4}$বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+      "options": [
+        {
+          "id": "phy_6_opt_1",
+          "label": "A",
+          "text": "$10\\pi$"
+        },
+        {
+          "id": "phy_6_opt_2",
+          "label": "B",
+          "text": "$\\frac{\\pi}{4}$"
+        },
+        {
+          "id": "phy_6_opt_3",
+          "label": "C",
+          "text": "$\\frac{\\pi}{8}$"
+        },
+        {
+          "id": "phy_6_opt_4",
+          "label": "D",
+          "text": "$\\frac{5\\pi}{2}$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $10\\pi$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_7",
+      "question": "100 kg ভরের একটি পাথর 150m উঁচু কোনো স্থান হতে ছেঁড়ে দেওয়া হলো । 5 sec পরে ভূমি থেকে পাথরটির উচ্চতা কত হবে?",
+      "options": [
+        {
+          "id": "phy_7_opt_1",
+          "label": "A",
+          "text": "22.5 m"
+        },
+        {
+          "id": "phy_7_opt_2",
+          "label": "B",
+          "text": "122.5 m"
+        },
+        {
+          "id": "phy_7_opt_3",
+          "label": "C",
+          "text": "27.5 m"
+        },
+        {
+          "id": "phy_7_opt_4",
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 22.5 m\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_8",
+      "question": "দুইটি বলের লব্ধির মান 40N । বল দুইটির মধ্যে ছোট বলটির মান 30N এবং এটি লব্ধি বলের লম্ব বরাবর ক্রিয়া করে । বড় বলটির মান কত?",
+      "options": [
+        {
+          "id": "phy_8_opt_1",
+          "label": "A",
+          "text": "40N"
+        },
+        {
+          "id": "phy_8_opt_2",
+          "label": "B",
+          "text": "45N"
+        },
+        {
+          "id": "phy_8_opt_3",
+          "label": "C",
+          "text": "50N"
+        },
+        {
+          "id": "phy_8_opt_4",
+          "label": "D",
+          "text": "60N"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 40N\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_9",
+      "question": "নিচের কোন চিত্রটি ওহমের সূত্রকে সমর্থন করে?",
+      "options": [
+        {
+          "id": "phy_9_opt_1",
+          "label": "A",
+          "text": "![ohm law graph](/assets/imported/du_12_13_phy_q9_a.svg)"
+        },
+        {
+          "id": "phy_9_opt_2",
+          "label": "B",
+          "text": "![ohm law graph](/assets/imported/du_12_13_phy_q9_b.svg)"
+        },
+        {
+          "id": "phy_9_opt_3",
+          "label": "C",
+          "text": "![ohm law graph](/assets/imported/du_12_13_phy_q9_c.svg)"
+        },
+        {
+          "id": "phy_9_opt_4",
+          "label": "D",
+          "text": "![ohm law graph](/assets/imported/du_12_13_phy_q9_d.svg)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ![ohm law graph](/assets/imported/du_12_13_phy_q9_a.svg)\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_10",
+      "question": "নিম্নের বর্তনীর$R_3$রোধের মধ্যে বিভব পার্থক্য হচ্ছে— ![circuit diagram](/assets/imported/du_12_13_phy_q10_q.svg)",
+      "options": [
+        {
+          "id": "phy_10_opt_1",
+          "label": "A",
+          "text": "5 V"
+        },
+        {
+          "id": "phy_10_opt_2",
+          "label": "B",
+          "text": "3 V"
+        },
+        {
+          "id": "phy_10_opt_3",
+          "label": "C",
+          "text": "12 V"
+        },
+        {
+          "id": "phy_10_opt_4",
+          "label": "D",
+          "text": "6 V"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5 V\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_11",
+      "question": "চন্দ্রপৃষ্ঠ হতে বিকিরিত সর্বোচ্চ তরঙ্গদৈর্ঘ্য$14\\ \\mu m$হলে, চন্দ্রপৃষ্ঠের তাপমাত্রা কত?উইনের সরণ সূত্রের ধ্রুবক $2.9\\times10^{-3}\\ mK$",
+      "options": [
+        {
+          "id": "phy_11_opt_1",
+          "label": "A",
+          "text": "207.1 K"
+        },
+        {
+          "id": "phy_11_opt_2",
+          "label": "B",
+          "text": "273 K"
+        },
+        {
+          "id": "phy_11_opt_3",
+          "label": "C",
+          "text": "207.1 °C"
+        },
+        {
+          "id": "phy_11_opt_4",
+          "label": "D",
+          "text": "273°F"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 207.1 K\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_12",
+      "question": "$T$ তাপমাত্রার আদর্শ গ্যাসের ক্ষেত্রে একটি অণুর গড় গতিশক্তি-",
+      "options": [
+        {
+          "id": "phy_12_opt_1",
+          "label": "A",
+          "text": "$\\frac{2}{3}\\ T$"
+        },
+        {
+          "id": "phy_12_opt_2",
+          "label": "B",
+          "text": "$\\frac{3}{2}\\ KT^2$"
+        },
+        {
+          "id": "phy_12_opt_3",
+          "label": "C",
+          "text": "$\\frac{3}{2}\\ KT^4$"
+        },
+        {
+          "id": "phy_12_opt_4",
+          "label": "D",
+          "text": "$\\frac{3}{2}\\ KT$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{2}{3}\\ T$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_13",
+      "question": "একটি পুকুর 10m গভীর। পানির প্রতিসরাঙ্ক যদি 1.33 হয়, তবে পুকুরের আপাত গভীরতা কত?",
+      "options": [
+        {
+          "id": "phy_13_opt_1",
+          "label": "A",
+          "text": "13.3 m"
+        },
+        {
+          "id": "phy_13_opt_2",
+          "label": "B",
+          "text": "7.52 m"
+        },
+        {
+          "id": "phy_13_opt_3",
+          "label": "C",
+          "text": "7.8 m"
+        },
+        {
+          "id": "phy_13_opt_4",
+          "label": "D",
+          "text": "10 m"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 13.3 m\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_14",
+      "question": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুটির মধ্যবর্তী দূরত্ব 2.0 mm। এ চির হতে 1 m দূরত্বে পর্দার উপরে ডোরার ব্যবধান 0.295 mm পাওয়া গেলে আলোর তরঙ্গদৈর্ঘ্য বের কর ।",
+      "options": [
+        {
+          "id": "phy_14_opt_1",
+          "label": "A",
+          "text": "5.90 Å"
+        },
+        {
+          "id": "phy_14_opt_2",
+          "label": "B",
+          "text": "59.0 Å"
+        },
+        {
+          "id": "phy_14_opt_3",
+          "label": "C",
+          "text": "5900 Å"
+        },
+        {
+          "id": "phy_14_opt_4",
+          "label": "D",
+          "text": "59000 Å"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5.90 Å\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_15",
+      "question": "$^{14}C$এর একটি তেজস্ক্রিয় নমুনা ফেলে রাখা হলো । কত সময় পরে এর পরমাণুর সংখ্যা এক চতুর্থাংশে নেমে আসবে ? $^{14}C$এর ক্ষয় ধ্রুবক$\\lambda=3.84\\times10^{-12}s^{-1}$",
+      "options": [
+        {
+          "id": "phy_15_opt_1",
+          "label": "A",
+          "text": "$3.6\\times10^{12}s$"
+        },
+        {
+          "id": "phy_15_opt_2",
+          "label": "B",
+          "text": "$1.8\\times10^{11}s$"
+        },
+        {
+          "id": "phy_15_opt_3",
+          "label": "C",
+          "text": "$3.6\\times10^{11}s$"
+        },
+        {
+          "id": "phy_15_opt_4",
+          "label": "D",
+          "text": "$1.8\\times10^{12}s$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $3.6\\times10^{12}s$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_16",
+      "question": "একটি রাইফেলের গুলি একটি তক্তাকে ভেদ করে থেমে যায়। বুলেটের গতি যদি তিনগুণ করা হয় তবে বুলেটটি কয়টি তক্তা ভেদ করতে পারবে?",
+      "options": [
+        {
+          "id": "phy_16_opt_1",
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "id": "phy_16_opt_2",
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "id": "phy_16_opt_3",
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "id": "phy_16_opt_4",
+          "label": "D",
+          "text": "9"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 12\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_17",
+      "question": "পর্যায়কাল দ্বিগুণ করতে সরল দোলকের দৈর্ঘ্য কতগুণ করতে হবে?",
+      "options": [
+        {
+          "id": "phy_17_opt_1",
+          "label": "A",
+          "text": "1/4"
+        },
+        {
+          "id": "phy_17_opt_2",
+          "label": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "phy_17_opt_3",
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "id": "phy_17_opt_4",
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1/4\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_18",
+      "question": "একটি আদর্শ ট্রান্সফর্মারের মূখ্য কুণ্ডলীর ভোল্টেজ 15V এবং প্রবাহমাত্রা 3A। গৌণ কুণ্ডলীর ভোল্টেজ 25V হলে গৌণ কুণ্ডলীর প্রবাহমাত্রা নির্ণয় কর।",
+      "options": [
+        {
+          "id": "phy_18_opt_1",
+          "label": "A",
+          "text": "5 A"
+        },
+        {
+          "id": "phy_18_opt_2",
+          "label": "B",
+          "text": "15 A"
+        },
+        {
+          "id": "phy_18_opt_3",
+          "label": "C",
+          "text": "3 A"
+        },
+        {
+          "id": "phy_18_opt_4",
+          "label": "D",
+          "text": "1.8 A"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5 A\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_19",
+      "question": "একটি $10\\Omega$ রোধকে একটি $E$ তড়িৎচালকবল এবং r অভ্যন্তরীণ রোধ বিশিষ্ট কোষের দুইপ্রান্তে সংযোগ দিলে 0.10A তড়িৎ বর্তনী দিয়ে প্রবাহিত হয়।$10\\Omega$ রোধকে একটি$3\\Omega$ রোধ দ্বারা প্রতিস্থাপন করলে তড়িৎ প্রবাহ বৃদ্ধি পেয়ে 0.24A হয়। r এর মান কত?",
+      "options": [
+        {
+          "id": "phy_19_opt_1",
+          "label": "A",
+          "text": "$12\\Omega$"
+        },
+        {
+          "id": "phy_19_opt_2",
+          "label": "B",
+          "text": "$1.2\\Omega$"
+        },
+        {
+          "id": "phy_19_opt_3",
+          "label": "C",
+          "text": "$0.2\\Omega$"
+        },
+        {
+          "id": "phy_19_opt_4",
+          "label": "D",
+          "text": "$2.0\\Omega$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $12\\Omega$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_20",
+      "question": "$4\\mu F$এর 4টি ধারক সিরিজে সংযোগ করা হলো । তাদের সমতুল্য ধারকত্ব হচ্ছে—",
+      "options": [
+        {
+          "id": "phy_20_opt_1",
+          "label": "A",
+          "text": "$1\\mu F$"
+        },
+        {
+          "id": "phy_20_opt_2",
+          "label": "B",
+          "text": "$2\\mu F$"
+        },
+        {
+          "id": "phy_20_opt_3",
+          "label": "C",
+          "text": "$4\\mu F$"
+        },
+        {
+          "id": "phy_20_opt_4",
+          "label": "D",
+          "text": "$16\\mu F$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $1\\mu F$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_21",
+      "question": "কোনো একটি তার কুণ্ডলীর বিদ্যুৎ প্রবাহমান 2A . কুণ্ডলীর বিদ্যুৎ প্রবাহমান 0.08s এ শূন্যে নামিয়ে আনলে কুণ্ডলীতে 0.5V বিদ্যুৎচালক বল আবিষ্ট হয় । কুণ্ডলীর স্বকীয় আবেশ গুণাঙ্ক কত?",
+      "options": [
+        {
+          "id": "phy_21_opt_1",
+          "label": "A",
+          "text": "0.02 H"
+        },
+        {
+          "id": "phy_21_opt_2",
+          "label": "B",
+          "text": "0.2 H"
+        },
+        {
+          "id": "phy_21_opt_3",
+          "label": "C",
+          "text": "2 H"
+        },
+        {
+          "id": "phy_21_opt_4",
+          "label": "D",
+          "text": "20 H"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 0.02 H\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_22",
+      "question": "একটি দ্বি-পরমাণু বিশিষ্ট গ্যাসের ক্ষেত্রে$C_p/C_v$হলো-",
+      "options": [
+        {
+          "id": "phy_22_opt_1",
+          "label": "A",
+          "text": "1.67"
+        },
+        {
+          "id": "phy_22_opt_2",
+          "label": "B",
+          "text": "1.4"
+        },
+        {
+          "id": "phy_22_opt_3",
+          "label": "C",
+          "text": "1.33"
+        },
+        {
+          "id": "phy_22_opt_4",
+          "label": "D",
+          "text": "1.11"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1.67\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_23",
+      "question": "কাচ ও হীরকের প্রতিসরাঙ্ক যথাক্রমে 1.5 এবং 2.5। কাচ ও হীরকের মধ্যে সংকট কোণ-",
+      "options": [
+        {
+          "id": "phy_23_opt_1",
+          "label": "A",
+          "text": "26.50°"
+        },
+        {
+          "id": "phy_23_opt_2",
+          "label": "B",
+          "text": "36.87°"
+        },
+        {
+          "id": "phy_23_opt_3",
+          "label": "C",
+          "text": "47.75°"
+        },
+        {
+          "id": "phy_23_opt_4",
+          "label": "D",
+          "text": "51.25°"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 26.50°\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_24",
+      "question": "কাচের মধ্যে একটি আলোকরশ্মি কাচ-পানি বিভেদ তলের উপর আপতিত হলো । আপতন কোণ 50° হলে প্রতিসরণ কোণ কত হবে? কাচ এবং পানি প্রতিসরাঙ্ক যথাক্রমে 1.5 এবং 1.33।",
+      "options": [
+        {
+          "id": "phy_24_opt_1",
+          "label": "A",
+          "text": "75.5°"
+        },
+        {
+          "id": "phy_24_opt_2",
+          "label": "B",
+          "text": "51.2°"
+        },
+        {
+          "id": "phy_24_opt_3",
+          "label": "C",
+          "text": "69.3°"
+        },
+        {
+          "id": "phy_24_opt_4",
+          "label": "D",
+          "text": "59.8°"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 75.5°\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_25",
+      "question": "একটি কণার মোট শক্তি এর স্থিতাবস্থার শক্তির দ্বিগুণ । কণাটির দ্রুতি হলো-",
+      "options": [
+        {
+          "id": "phy_25_opt_1",
+          "label": "A",
+          "text": "$2.6\\times10^8m/s$"
+        },
+        {
+          "id": "phy_25_opt_2",
+          "label": "B",
+          "text": "$2.9\\times10^8m/s$"
+        },
+        {
+          "id": "phy_25_opt_3",
+          "label": "C",
+          "text": "$3.0\\times10^8m/s$"
+        },
+        {
+          "id": "phy_25_opt_4",
+          "label": "D",
+          "text": "$6.0\\times10^8m/s$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $2.6\\times10^8m/s$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_26",
+      "question": "300 Hz কম্পাঙ্কের একটি শব্দ তরঙ্গের পানি ও বাতাসে তরঙ্গদৈর্ঘ্যের পার্থক্য 4.16m। শব্দের গতি বাতাসে 352 $ms^{-1}$হলে পানিতে শব্দের গতি কত?",
+      "options": [
+        {
+          "id": "phy_26_opt_1",
+          "label": "A",
+          "text": "$800\\ ms^{-1}$"
+        },
+        {
+          "id": "phy_26_opt_2",
+          "label": "B",
+          "text": "$1200\\ ms^{-1}$"
+        },
+        {
+          "id": "phy_26_opt_3",
+          "label": "C",
+          "text": "$1600\\ ms^{-1}$"
+        },
+        {
+          "id": "phy_26_opt_4",
+          "label": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $800\\ ms^{-1}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_27",
+      "question": "কোনো ধাতুর ক্ষেত্রে ফটোইলেকট্রন নিঃসরণের সূচনা তরঙ্গদৈর্ঘ্য 6000Å। ধাতুটির কার্য আপেক্ষক ইলেকট্রন ভোল্টে কত?",
+      "options": [
+        {
+          "id": "phy_27_opt_1",
+          "label": "A",
+          "text": "5.5 eV"
+        },
+        {
+          "id": "phy_27_opt_2",
+          "label": "B",
+          "text": "2.7 eV"
+        },
+        {
+          "id": "phy_27_opt_3",
+          "label": "C",
+          "text": "5.05 eV"
+        },
+        {
+          "id": "phy_27_opt_4",
+          "label": "D",
+          "text": "2.07 eV"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5.5 eV\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_28",
+      "question": "$5000\\ Å$তরঙ্গদৈর্ঘ্যের আলোকরশ্মির ফোটনের শক্তি হলো-",
+      "options": [
+        {
+          "id": "phy_28_opt_1",
+          "label": "A",
+          "text": "$2.48 eV$"
+        },
+        {
+          "id": "phy_28_opt_2",
+          "label": "B",
+          "text": "$8.24 eV$"
+        },
+        {
+          "id": "phy_28_opt_3",
+          "label": "C",
+          "text": "$4.25 eV$"
+        },
+        {
+          "id": "phy_28_opt_4",
+          "label": "D",
+          "text": "$5.1 eV$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $2.48 eV$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-phy_29",
+      "question": "পৃথিবী পৃষ্ঠ হতে কত উচ্চতায় অভিকর্ষীয় ত্বরণের মান পৃথিবী পৃষ্ঠের ত্বরণের মানের শতকরা একভাগ হবে? [পৃথিবীর ব্যাসার্ধ $=6.38\\times{10}^6m]$",
+      "options": [
+        {
+          "id": "phy_29_opt_1",
+          "label": "A",
+          "text": "$6.38\\times{10}^7m$"
+        },
+        {
+          "id": "phy_29_opt_2",
+          "label": "B",
+          "text": "$5.74\\times{10}^7m$"
+        },
+        {
+          "id": "phy_29_opt_3",
+          "label": "C",
+          "text": "$7.5\\times{10}^6m$"
+        },
+        {
+          "id": "phy_29_opt_4",
+          "label": "D",
+          "text": "$8.1\\times{10}^6m$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $6.38\\times{10}^7m$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Physics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_1",
+      "question": "The new airport should be fully operational___the end of the year.",
+      "options": [
+        {
+          "id": "eng_1_opt_1",
+          "label": "A",
+          "text": "since"
+        },
+        {
+          "id": "eng_1_opt_2",
+          "label": "B",
+          "text": "till"
+        },
+        {
+          "id": "eng_1_opt_3",
+          "label": "C",
+          "text": "by"
+        },
+        {
+          "id": "eng_1_opt_4",
+          "label": "D",
+          "text": "in"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] since\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_2",
+      "question": "Neither Sufia nor I___capable of solving the problem.",
+      "options": [
+        {
+          "id": "eng_2_opt_1",
+          "label": "A",
+          "text": "are"
+        },
+        {
+          "id": "eng_2_opt_2",
+          "label": "B",
+          "text": "were"
+        },
+        {
+          "id": "eng_2_opt_3",
+          "label": "C",
+          "text": "am"
+        },
+        {
+          "id": "eng_2_opt_4",
+          "label": "D",
+          "text": "is"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] are\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_3",
+      "question": "The police questioned each witness in ______.",
+      "options": [
+        {
+          "id": "eng_3_opt_1",
+          "label": "A",
+          "text": "return"
+        },
+        {
+          "id": "eng_3_opt_2",
+          "label": "B",
+          "text": "order"
+        },
+        {
+          "id": "eng_3_opt_3",
+          "label": "C",
+          "text": "turn"
+        },
+        {
+          "id": "eng_3_opt_4",
+          "label": "D",
+          "text": "silence"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] return\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_4",
+      "question": "The player isn't fat; ___ he's quite skinny.",
+      "options": [
+        {
+          "id": "eng_4_opt_1",
+          "label": "A",
+          "text": "in any case"
+        },
+        {
+          "id": "eng_4_opt_2",
+          "label": "B",
+          "text": "by rights"
+        },
+        {
+          "id": "eng_4_opt_3",
+          "label": "C",
+          "text": "in practice"
+        },
+        {
+          "id": "eng_4_opt_4",
+          "label": "D",
+          "text": "on the contrary"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] in any case\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_5",
+      "question": "Complete the following sentence:It was so embarrassing. The bride ________.",
+      "options": [
+        {
+          "id": "eng_5_opt_1",
+          "label": "A",
+          "text": "attended the wedding"
+        },
+        {
+          "id": "eng_5_opt_2",
+          "label": "B",
+          "text": "fell asleep during the wedding"
+        },
+        {
+          "id": "eng_5_opt_3",
+          "label": "C",
+          "text": "wore an expensive sari"
+        },
+        {
+          "id": "eng_5_opt_4",
+          "label": "D",
+          "text": "got married"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] attended the wedding\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_6",
+      "question": "The___of a camel was found lying by the side of the canal.",
+      "options": [
+        {
+          "id": "eng_6_opt_1",
+          "label": "A",
+          "text": "corpse"
+        },
+        {
+          "id": "eng_6_opt_2",
+          "label": "B",
+          "text": "corset"
+        },
+        {
+          "id": "eng_6_opt_3",
+          "label": "C",
+          "text": "corps"
+        },
+        {
+          "id": "eng_6_opt_4",
+          "label": "D",
+          "text": "casket"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] corpse\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_7",
+      "question": "The discovery of penicillin was a___discovery.",
+      "options": [
+        {
+          "id": "eng_7_opt_1",
+          "label": "A",
+          "text": "sensory"
+        },
+        {
+          "id": "eng_7_opt_2",
+          "label": "B",
+          "text": "sensible"
+        },
+        {
+          "id": "eng_7_opt_3",
+          "label": "C",
+          "text": "sensational"
+        },
+        {
+          "id": "eng_7_opt_4",
+          "label": "D",
+          "text": "sensitive"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] sensory\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_8",
+      "question": "___Mr. Forbes will be able to regain control of the company.",
+      "options": [
+        {
+          "id": "eng_8_opt_1",
+          "label": "A",
+          "text": "With hard only work"
+        },
+        {
+          "id": "eng_8_opt_2",
+          "label": "B",
+          "text": "In spite of his hard work"
+        },
+        {
+          "id": "eng_8_opt_3",
+          "label": "C",
+          "text": "Only if he works hardly"
+        },
+        {
+          "id": "eng_8_opt_4",
+          "label": "D",
+          "text": "Only with hard work"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] With hard only work\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_9",
+      "question": "For those who suffer___nerves, the remedy lies___perfect rest.",
+      "options": [
+        {
+          "id": "eng_9_opt_1",
+          "label": "A",
+          "text": "for, with"
+        },
+        {
+          "id": "eng_9_opt_2",
+          "label": "B",
+          "text": "from, in"
+        },
+        {
+          "id": "eng_9_opt_3",
+          "label": "C",
+          "text": "of, to"
+        },
+        {
+          "id": "eng_9_opt_4",
+          "label": "D",
+          "text": "at, into"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] for, with\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_10",
+      "question": "'To smell a rat' means:",
+      "options": [
+        {
+          "id": "eng_10_opt_1",
+          "label": "A",
+          "text": "to smell a bad smell"
+        },
+        {
+          "id": "eng_10_opt_2",
+          "label": "B",
+          "text": "to suspect a trick or deceit"
+        },
+        {
+          "id": "eng_10_opt_3",
+          "label": "C",
+          "text": "to misunderstand"
+        },
+        {
+          "id": "eng_10_opt_4",
+          "label": "D",
+          "text": "to have dirty ways"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] to smell a bad smell\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_11",
+      "question": "Choose the correct meaning of the following idioms.\"To wash one's dirty linen in public\".",
+      "options": [
+        {
+          "id": "eng_11_opt_1",
+          "label": "A",
+          "text": "to quarrel in the open"
+        },
+        {
+          "id": "eng_11_opt_2",
+          "label": "B",
+          "text": "to do some ugly work in public"
+        },
+        {
+          "id": "eng_11_opt_3",
+          "label": "C",
+          "text": "to wash one's clothes in the open"
+        },
+        {
+          "id": "eng_11_opt_4",
+          "label": "D",
+          "text": "to suffer from shortage of water"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] to quarrel in the open\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_12",
+      "question": "Find the error in parallelism-__Writers__ like William Shakespeare and Rabindranath Tagore __are__ not only __prolific__ __but too interesting__ .",
+      "options": [
+        {
+          "id": "eng_12_opt_1",
+          "label": "A",
+          "text": "writers"
+        },
+        {
+          "id": "eng_12_opt_2",
+          "label": "B",
+          "text": "prolific"
+        },
+        {
+          "id": "eng_12_opt_3",
+          "label": "C",
+          "text": "are"
+        },
+        {
+          "id": "eng_12_opt_4",
+          "label": "D",
+          "text": "but too interesting"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] writers\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_13",
+      "question": "Identify the one underlined word or phrase that would not be acceptable in standard English.(A) __News__ of Charles Lindbergh's famous transatlantic flight in 1927 (B) __spread__ rapidly (C) __despite of__ the lack of (D) __an__ international communication system.",
+      "options": [
+        {
+          "id": "eng_13_opt_1",
+          "label": "A",
+          "text": "A"
+        },
+        {
+          "id": "eng_13_opt_2",
+          "label": "B",
+          "text": "B"
+        },
+        {
+          "id": "eng_13_opt_3",
+          "label": "C",
+          "text": "C"
+        },
+        {
+          "id": "eng_13_opt_4",
+          "label": "D",
+          "text": "D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] A\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_14",
+      "question": "Identify the one word or phrase (A, B, C or D) that is not correct grammatically in standard English.At the rate the clerks (A)were processing applications, Rahim figured that (B)it will take four hours for (C)him (D)to be reviewed.",
+      "options": [
+        {
+          "id": "eng_14_opt_1",
+          "label": "A",
+          "text": "(A)were"
+        },
+        {
+          "id": "eng_14_opt_2",
+          "label": "B",
+          "text": "(B)it will take"
+        },
+        {
+          "id": "eng_14_opt_3",
+          "label": "C",
+          "text": "(C)him"
+        },
+        {
+          "id": "eng_14_opt_4",
+          "label": "D",
+          "text": "(D)to be reviewed"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] (A)were\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_15",
+      "question": "Choose the correct synonym of 'pensive'.",
+      "options": [
+        {
+          "id": "eng_15_opt_1",
+          "label": "A",
+          "text": "costly"
+        },
+        {
+          "id": "eng_15_opt_2",
+          "label": "B",
+          "text": "thoughtful"
+        },
+        {
+          "id": "eng_15_opt_3",
+          "label": "C",
+          "text": "spoiled"
+        },
+        {
+          "id": "eng_15_opt_4",
+          "label": "D",
+          "text": "written"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] costly\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_16",
+      "question": "The word 'subterfuge' means-",
+      "options": [
+        {
+          "id": "eng_16_opt_1",
+          "label": "A",
+          "text": "subtlety"
+        },
+        {
+          "id": "eng_16_opt_2",
+          "label": "B",
+          "text": "cunning"
+        },
+        {
+          "id": "eng_16_opt_3",
+          "label": "C",
+          "text": "simplicity"
+        },
+        {
+          "id": "eng_16_opt_4",
+          "label": "D",
+          "text": "trickery"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] subtlety\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_17",
+      "question": "The correct translation of 'গাছে এখনও ফল ধরে নাই' is-",
+      "options": [
+        {
+          "id": "eng_17_opt_1",
+          "label": "A",
+          "text": "The tree has not yet borne fruit."
+        },
+        {
+          "id": "eng_17_opt_2",
+          "label": "B",
+          "text": "The tree has not caught any fruit"
+        },
+        {
+          "id": "eng_17_opt_3",
+          "label": "C",
+          "text": "The tree cannot bear fruit."
+        },
+        {
+          "id": "eng_17_opt_4",
+          "label": "D",
+          "text": "The tree has not given any fruit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] The tree has not yet borne fruit.\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_18",
+      "question": "The antonym of 'desolate' is-",
+      "options": [
+        {
+          "id": "eng_18_opt_1",
+          "label": "A",
+          "text": "populous"
+        },
+        {
+          "id": "eng_18_opt_2",
+          "label": "B",
+          "text": "isolated"
+        },
+        {
+          "id": "eng_18_opt_3",
+          "label": "C",
+          "text": "abandoned"
+        },
+        {
+          "id": "eng_18_opt_4",
+          "label": "D",
+          "text": "disfigured"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] populous\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_19",
+      "question": "\"Mutation\" is a process-",
+      "options": [
+        {
+          "id": "eng_19_opt_1",
+          "label": "A",
+          "text": "in which due to genetic changes new forms of structures are developed."
+        },
+        {
+          "id": "eng_19_opt_2",
+          "label": "B",
+          "text": "when a person is unable to speak because of facial paralysis."
+        },
+        {
+          "id": "eng_19_opt_3",
+          "label": "C",
+          "text": "when people refuse to obey orders."
+        },
+        {
+          "id": "eng_19_opt_4",
+          "label": "D",
+          "text": "in which the body is damaged severely"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] in which due to genetic changes new forms of structures are developed.\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_20",
+      "question": "The verb of \"hallucination\" is-",
+      "options": [
+        {
+          "id": "eng_20_opt_1",
+          "label": "A",
+          "text": "hallucinatory"
+        },
+        {
+          "id": "eng_20_opt_2",
+          "label": "B",
+          "text": "hallucinogen"
+        },
+        {
+          "id": "eng_20_opt_3",
+          "label": "C",
+          "text": "hallucine"
+        },
+        {
+          "id": "eng_20_opt_4",
+          "label": "D",
+          "text": "hallucinate"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] hallucinatory\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_21",
+      "question": "In English if two different words have the same spelling and pronunciation they are called-",
+      "options": [
+        {
+          "id": "eng_21_opt_1",
+          "label": "A",
+          "text": "synonyms"
+        },
+        {
+          "id": "eng_21_opt_2",
+          "label": "B",
+          "text": "homographs"
+        },
+        {
+          "id": "eng_21_opt_3",
+          "label": "C",
+          "text": "homophones"
+        },
+        {
+          "id": "eng_21_opt_4",
+          "label": "D",
+          "text": "homonyms"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] synonyms\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_22",
+      "question": "'It takes two to make a quarrel' বাক্যের যথাযথ বঙ্গানুবাদ-",
+      "options": [
+        {
+          "id": "eng_22_opt_1",
+          "label": "A",
+          "text": "এক হাতে তালি বাজে না"
+        },
+        {
+          "id": "eng_22_opt_2",
+          "label": "B",
+          "text": "দুই হাতে তালি বাজে"
+        },
+        {
+          "id": "eng_22_opt_3",
+          "label": "C",
+          "text": "বিবাদ তৈরিতে দুজন লাগে"
+        },
+        {
+          "id": "eng_22_opt_4",
+          "label": "D",
+          "text": "দুই জনে ঝগড়া হয়"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] এক হাতে তালি বাজে না\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-eng_23",
+      "question": "'There was once a bald-headed man.' বাক্যটির বঙ্গানুবাদ-",
+      "options": [
+        {
+          "id": "eng_23_opt_1",
+          "label": "A",
+          "text": "এক ছিল নির্বোধ লোক"
+        },
+        {
+          "id": "eng_23_opt_2",
+          "label": "B",
+          "text": "এক ছিল অজ্ঞ লোক"
+        },
+        {
+          "id": "eng_23_opt_3",
+          "label": "C",
+          "text": "এক ছিল টেকো লোক"
+        },
+        {
+          "id": "eng_23_opt_4",
+          "label": "D",
+          "text": "এক ছিল জ্ঞানী লোক"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] এক ছিল নির্বোধ লোক\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "English",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_1",
+      "question": "Ethylene থেকে polyethylene তৈরি কি ধরনের বিক্রিয়া?",
+      "options": [
+        {
+          "id": "bio_1_opt_1",
+          "label": "A",
+          "text": "synthesis"
+        },
+        {
+          "id": "bio_1_opt_2",
+          "label": "B",
+          "text": "neutralization"
+        },
+        {
+          "id": "bio_1_opt_3",
+          "label": "C",
+          "text": "pyrolysis"
+        },
+        {
+          "id": "bio_1_opt_4",
+          "label": "D",
+          "text": "polymerization"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] synthesis\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_2",
+      "question": "কোনটি কাষ্ঠ উৎপাদনকারী উদ্ভিদ?",
+      "options": [
+        {
+          "id": "bio_2_opt_1",
+          "label": "A",
+          "text": "Cicer arietinum"
+        },
+        {
+          "id": "bio_2_opt_2",
+          "label": "B",
+          "text": "Hibiscus cannabinus"
+        },
+        {
+          "id": "bio_2_opt_3",
+          "label": "C",
+          "text": "Corchorus capsularis"
+        },
+        {
+          "id": "bio_2_opt_4",
+          "label": "D",
+          "text": "Dipterocarpus turbinatus"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Cicer arietinum\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_3",
+      "question": "চক্রীয় ফটোফসফোরাইলেশনে কোনটি ঘটে?",
+      "options": [
+        {
+          "id": "bio_3_opt_1",
+          "label": "A",
+          "text": "photolysis of water"
+        },
+        {
+          "id": "bio_3_opt_2",
+          "label": "B",
+          "text": "production of NADPH+H+"
+        },
+        {
+          "id": "bio_3_opt_3",
+          "label": "C",
+          "text": "production of glucose"
+        },
+        {
+          "id": "bio_3_opt_4",
+          "label": "D",
+          "text": "production of ATP"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] photolysis of water\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_4",
+      "question": "সবাত শ্বসন প্রক্রিয়ায় কতটি নীট ATP তৈরি হয়?",
+      "options": [
+        {
+          "id": "bio_4_opt_1",
+          "label": "A",
+          "text": "২"
+        },
+        {
+          "id": "bio_4_opt_2",
+          "label": "B",
+          "text": "৬"
+        },
+        {
+          "id": "bio_4_opt_3",
+          "label": "C",
+          "text": "৩৪"
+        },
+        {
+          "id": "bio_4_opt_4",
+          "label": "D",
+          "text": "৩৬"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ২\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_5",
+      "question": "অসম্পূর্ণ প্রকটতার ফিনোটাইপিক অনুপাত কত?",
+      "options": [
+        {
+          "id": "bio_5_opt_1",
+          "label": "A",
+          "text": "1:2:1"
+        },
+        {
+          "id": "bio_5_opt_2",
+          "label": "B",
+          "text": "2:1"
+        },
+        {
+          "id": "bio_5_opt_3",
+          "label": "C",
+          "text": "9:7"
+        },
+        {
+          "id": "bio_5_opt_4",
+          "label": "D",
+          "text": "9:3:3:1"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1:2:1\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_6",
+      "question": "ব্যাকটেরিওফায কি?",
+      "options": [
+        {
+          "id": "bio_6_opt_1",
+          "label": "A",
+          "text": "ভাইরাস ধ্বংসকারী ব্যাকটেরিয়া"
+        },
+        {
+          "id": "bio_6_opt_2",
+          "label": "B",
+          "text": "মানবদেহে এক সংক্রামক ভাইরাস"
+        },
+        {
+          "id": "bio_6_opt_3",
+          "label": "C",
+          "text": "ব্যাকটেরিয়া ধ্বংসকারী ভাইরাস"
+        },
+        {
+          "id": "bio_6_opt_4",
+          "label": "D",
+          "text": "এক ধরনের HIV"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ভাইরাস ধ্বংসকারী ব্যাকটেরিয়া\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_7",
+      "question": "কোনটি ডায়াটম?",
+      "options": [
+        {
+          "id": "bio_7_opt_1",
+          "label": "A",
+          "text": "Spirogyra"
+        },
+        {
+          "id": "bio_7_opt_2",
+          "label": "B",
+          "text": "Navicula"
+        },
+        {
+          "id": "bio_7_opt_3",
+          "label": "C",
+          "text": "Polysiphonia"
+        },
+        {
+          "id": "bio_7_opt_4",
+          "label": "D",
+          "text": "Volvox"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Spirogyra\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_8",
+      "question": "কোনটি অন্তঃকোষীয় পরিপাক ঘটায় ?",
+      "options": [
+        {
+          "id": "bio_8_opt_1",
+          "label": "A",
+          "text": "রাইবোসোম"
+        },
+        {
+          "id": "bio_8_opt_2",
+          "label": "B",
+          "text": "লাইসোসোম"
+        },
+        {
+          "id": "bio_8_opt_3",
+          "label": "C",
+          "text": "জিন"
+        },
+        {
+          "id": "bio_8_opt_4",
+          "label": "D",
+          "text": "ক্রোমোসোম"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] রাইবোসোম\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_9",
+      "question": "সমদ্বিপার্শ্বীয় ভাস্কুলার বান্ডল পাওয়া যায়-",
+      "options": [
+        {
+          "id": "bio_9_opt_1",
+          "label": "A",
+          "text": "দ্বিবীজপত্রী উদ্ভিদের কাণ্ডে"
+        },
+        {
+          "id": "bio_9_opt_2",
+          "label": "B",
+          "text": "একবীজপত্রী উদ্ভিদের কাণ্ডে"
+        },
+        {
+          "id": "bio_9_opt_3",
+          "label": "C",
+          "text": "একবীজপত্রী উদ্ভিদের মূলে"
+        },
+        {
+          "id": "bio_9_opt_4",
+          "label": "D",
+          "text": "কিউকারবিটেসি গোত্রের কান্ডে"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] দ্বিবীজপত্রী উদ্ভিদের কাণ্ডে\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_10",
+      "question": "কোনটি রিডিউসিং স্যুগার নয়?",
+      "options": [
+        {
+          "id": "bio_10_opt_1",
+          "label": "A",
+          "text": "glucose"
+        },
+        {
+          "id": "bio_10_opt_2",
+          "label": "B",
+          "text": "sucrose"
+        },
+        {
+          "id": "bio_10_opt_3",
+          "label": "C",
+          "text": "fructose"
+        },
+        {
+          "id": "bio_10_opt_4",
+          "label": "D",
+          "text": "none"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] glucose\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_11",
+      "question": "রেস্ট্রিকশন এনজাইমের কাজ কি?",
+      "options": [
+        {
+          "id": "bio_11_opt_1",
+          "label": "A",
+          "text": "multiplication of DNA"
+        },
+        {
+          "id": "bio_11_opt_2",
+          "label": "B",
+          "text": "cutting a specific portion of DNA"
+        },
+        {
+          "id": "bio_11_opt_3",
+          "label": "C",
+          "text": "breaking hydrogen bonds of DNA"
+        },
+        {
+          "id": "bio_11_opt_4",
+          "label": "D",
+          "text": "joining cut ends of DNA"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] multiplication of DNA\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_12",
+      "question": "কোনটি প্রাকৃতিক পারথেনোকার্পিক ফল?",
+      "options": [
+        {
+          "id": "bio_12_opt_1",
+          "label": "A",
+          "text": "apple"
+        },
+        {
+          "id": "bio_12_opt_2",
+          "label": "B",
+          "text": "banana"
+        },
+        {
+          "id": "bio_12_opt_3",
+          "label": "C",
+          "text": "mango"
+        },
+        {
+          "id": "bio_12_opt_4",
+          "label": "D",
+          "text": "none"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] apple\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_13",
+      "question": "অষ্টম করোটিক স্নায়ুকে বলে-",
+      "options": [
+        {
+          "id": "bio_13_opt_1",
+          "label": "A",
+          "text": "olfactory"
+        },
+        {
+          "id": "bio_13_opt_2",
+          "label": "B",
+          "text": "vagus"
+        },
+        {
+          "id": "bio_13_opt_3",
+          "label": "C",
+          "text": "auditory"
+        },
+        {
+          "id": "bio_13_opt_4",
+          "label": "D",
+          "text": "facial"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] olfactory\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_14",
+      "question": "কোন এনজাইম আমিষকে ভেঙ্গে পলিপেপটাইডে পরিণত করে?",
+      "options": [
+        {
+          "id": "bio_14_opt_1",
+          "label": "A",
+          "text": "pepsin"
+        },
+        {
+          "id": "bio_14_opt_2",
+          "label": "B",
+          "text": "lipase"
+        },
+        {
+          "id": "bio_14_opt_3",
+          "label": "C",
+          "text": "lactase"
+        },
+        {
+          "id": "bio_14_opt_4",
+          "label": "D",
+          "text": "trypsin"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] pepsin\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_15",
+      "question": "মানুষের রেনিন তৈরি হয় কোন অঙ্গে?",
+      "options": [
+        {
+          "id": "bio_15_opt_1",
+          "label": "A",
+          "text": "stomach"
+        },
+        {
+          "id": "bio_15_opt_2",
+          "label": "B",
+          "text": "intestine"
+        },
+        {
+          "id": "bio_15_opt_3",
+          "label": "C",
+          "text": "kidney"
+        },
+        {
+          "id": "bio_15_opt_4",
+          "label": "D",
+          "text": "liver"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] stomach\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_16",
+      "question": "কোন দেশের আয়তনের কত অংশ বনভূমি থাকা উচিত?",
+      "options": [
+        {
+          "id": "bio_16_opt_1",
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "id": "bio_16_opt_2",
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "id": "bio_16_opt_3",
+          "label": "C",
+          "text": "20%"
+        },
+        {
+          "id": "bio_16_opt_4",
+          "label": "D",
+          "text": "35%"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 10%\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_17",
+      "question": "কোন মাছ ওরিয়েন্টাল অঞ্চলে পাওয়া যায় না?",
+      "options": [
+        {
+          "id": "bio_17_opt_1",
+          "label": "A",
+          "text": "Ompok"
+        },
+        {
+          "id": "bio_17_opt_2",
+          "label": "B",
+          "text": "Channa"
+        },
+        {
+          "id": "bio_17_opt_3",
+          "label": "C",
+          "text": "Labeo"
+        },
+        {
+          "id": "bio_17_opt_4",
+          "label": "D",
+          "text": "Neoceratodus"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Ompok\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_18",
+      "question": "পরিবেশ বিপর্যয়ের জন্য কোনটি মানব সৃষ্ট কারণ নয়?",
+      "options": [
+        {
+          "id": "bio_18_opt_1",
+          "label": "A",
+          "text": "climate change"
+        },
+        {
+          "id": "bio_18_opt_2",
+          "label": "B",
+          "text": "sea level rise"
+        },
+        {
+          "id": "bio_18_opt_3",
+          "label": "C",
+          "text": "global worming"
+        },
+        {
+          "id": "bio_18_opt_4",
+          "label": "D",
+          "text": "earthquake"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] climate change\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_19",
+      "question": "প্রাণিজগতের শ্রেণিবিন্যাসের পরিকল্পনা প্রথমে কে করেন?",
+      "options": [
+        {
+          "id": "bio_19_opt_1",
+          "label": "A",
+          "text": "Aristotle"
+        },
+        {
+          "id": "bio_19_opt_2",
+          "label": "B",
+          "text": "Linnaeus"
+        },
+        {
+          "id": "bio_19_opt_3",
+          "label": "C",
+          "text": "William Harvey"
+        },
+        {
+          "id": "bio_19_opt_4",
+          "label": "D",
+          "text": "Marcello Malpighi"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Aristotle\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_20",
+      "question": "এক খাদ্যস্তর থেকে অন্য খাদ্যস্তরে শক্তি প্রবাহের সঠিক ধারণা দেয় যে পিরামিড তা হলো-",
+      "options": [
+        {
+          "id": "bio_20_opt_1",
+          "label": "A",
+          "text": "বায়োমাসের পিরামিড"
+        },
+        {
+          "id": "bio_20_opt_2",
+          "label": "B",
+          "text": "সংখ্যার পিরামিড"
+        },
+        {
+          "id": "bio_20_opt_3",
+          "label": "C",
+          "text": "শক্তির পিরামিড"
+        },
+        {
+          "id": "bio_20_opt_4",
+          "label": "D",
+          "text": "শুষ্ক বায়োমাসের পিরামিড"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] বায়োমাসের পিরামিড\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_21",
+      "question": "কোনটি নিউক্লিওটাইডের উপাদান নয় ?",
+      "options": [
+        {
+          "id": "bio_21_opt_1",
+          "label": "A",
+          "text": "phosphate"
+        },
+        {
+          "id": "bio_21_opt_2",
+          "label": "B",
+          "text": "lipid"
+        },
+        {
+          "id": "bio_21_opt_3",
+          "label": "C",
+          "text": "glucose"
+        },
+        {
+          "id": "bio_21_opt_4",
+          "label": "D",
+          "text": "nitrogen base"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] phosphate\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_22",
+      "question": "যে জিন বৈশিষ্ট্য প্রকাশে বাধা পায় তাকে বলে-",
+      "options": [
+        {
+          "id": "bio_22_opt_1",
+          "label": "A",
+          "text": "epistatic gene"
+        },
+        {
+          "id": "bio_22_opt_2",
+          "label": "B",
+          "text": "hypostatic gene"
+        },
+        {
+          "id": "bio_22_opt_3",
+          "label": "C",
+          "text": "lethal gene"
+        },
+        {
+          "id": "bio_22_opt_4",
+          "label": "D",
+          "text": "complementary gene"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] epistatic gene\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_23",
+      "question": "মানুষের মধ্যে সেরিব্রাল ম্যালেরিয়া ঘটায় Plasmodium এর কোন প্রজাতি?",
+      "options": [
+        {
+          "id": "bio_23_opt_1",
+          "label": "A",
+          "text": "Plasmodium ovale"
+        },
+        {
+          "id": "bio_23_opt_2",
+          "label": "B",
+          "text": "Plasmodium falciparum"
+        },
+        {
+          "id": "bio_23_opt_3",
+          "label": "C",
+          "text": "Plasmodium vivax"
+        },
+        {
+          "id": "bio_23_opt_4",
+          "label": "D",
+          "text": "Plasmodium malariae"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Plasmodium ovale\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_24",
+      "question": "পুঞ্জাক্ষির দুপার্শ্বের সাদা দাগকে বলে-",
+      "options": [
+        {
+          "id": "bio_24_opt_1",
+          "label": "A",
+          "text": "ocellus"
+        },
+        {
+          "id": "bio_24_opt_2",
+          "label": "B",
+          "text": "fenstra"
+        },
+        {
+          "id": "bio_24_opt_3",
+          "label": "C",
+          "text": "ommatidium"
+        },
+        {
+          "id": "bio_24_opt_4",
+          "label": "D",
+          "text": "cornea"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ocellus\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_25",
+      "question": "রক্ত জমাট বাঁধার জন্য কোনটির প্রয়োজন নেই?",
+      "options": [
+        {
+          "id": "bio_25_opt_1",
+          "label": "A",
+          "text": "platelets"
+        },
+        {
+          "id": "bio_25_opt_2",
+          "label": "B",
+          "text": "prothrombin"
+        },
+        {
+          "id": "bio_25_opt_3",
+          "label": "C",
+          "text": "fibrinogen"
+        },
+        {
+          "id": "bio_25_opt_4",
+          "label": "D",
+          "text": "hormone"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] platelets\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_26",
+      "question": "সজ্জাক্রমানুযায়ী মধ্যকর্ণের হাড়গুলো যথাক্রমে-",
+      "options": [
+        {
+          "id": "bio_26_opt_1",
+          "label": "A",
+          "text": "Incus, Stapes, Maleus"
+        },
+        {
+          "id": "bio_26_opt_2",
+          "label": "B",
+          "text": "Stapes, Incus, Maleus"
+        },
+        {
+          "id": "bio_26_opt_3",
+          "label": "C",
+          "text": "Incus, Maleus, Stapes"
+        },
+        {
+          "id": "bio_26_opt_4",
+          "label": "D",
+          "text": "Maleus, Incus, Stapes"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Incus, Stapes, Maleus\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_27",
+      "question": "Raphanus sativus কোন গোত্রের অন্তর্গত?",
+      "options": [
+        {
+          "id": "bio_27_opt_1",
+          "label": "A",
+          "text": "Brassicaceae"
+        },
+        {
+          "id": "bio_27_opt_2",
+          "label": "B",
+          "text": "Leguminosae"
+        },
+        {
+          "id": "bio_27_opt_3",
+          "label": "C",
+          "text": "Solanaceae"
+        },
+        {
+          "id": "bio_27_opt_4",
+          "label": "D",
+          "text": "Liliaceae"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Brassicaceae\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_28",
+      "question": "কোনটি থেকে অ্যাসকাস তৈরি হয়?",
+      "options": [
+        {
+          "id": "bio_28_opt_1",
+          "label": "A",
+          "text": "পেনিসিলিয়াম"
+        },
+        {
+          "id": "bio_28_opt_2",
+          "label": "B",
+          "text": "মিউকর"
+        },
+        {
+          "id": "bio_28_opt_3",
+          "label": "C",
+          "text": "ব্যাকটেরিয়া"
+        },
+        {
+          "id": "bio_28_opt_4",
+          "label": "D",
+          "text": "শৈবাল"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] পেনিসিলিয়াম\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_29",
+      "question": "পলিনিয়াম কোথায় পাওয়া যায় ?",
+      "options": [
+        {
+          "id": "bio_29_opt_1",
+          "label": "A",
+          "text": "Orchidaceae"
+        },
+        {
+          "id": "bio_29_opt_2",
+          "label": "B",
+          "text": "Graminae"
+        },
+        {
+          "id": "bio_29_opt_3",
+          "label": "C",
+          "text": "Rubiaceae"
+        },
+        {
+          "id": "bio_29_opt_4",
+          "label": "D",
+          "text": "Solanaceae"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Orchidaceae\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-bio_30",
+      "question": "ফাইলেরিয়া কৃমির লার্ভা দশার নাম হলো-",
+      "options": [
+        {
+          "id": "bio_30_opt_1",
+          "label": "A",
+          "text": "magna"
+        },
+        {
+          "id": "bio_30_opt_2",
+          "label": "B",
+          "text": "trophozoite"
+        },
+        {
+          "id": "bio_30_opt_3",
+          "label": "C",
+          "text": "metacyst"
+        },
+        {
+          "id": "bio_30_opt_4",
+          "label": "D",
+          "text": "microfilariae"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] magna\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Biology",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_1",
+      "question": "নিম্নের কোন গ্যাসটি আদর্শ গ্যাসের ধর্ম থেকে সবচেয়ে বেশি বিচ্যুত?",
+      "options": [
+        {
+          "id": "chem_1_opt_1",
+          "label": "A",
+          "text": "$HCl$"
+        },
+        {
+          "id": "chem_1_opt_2",
+          "label": "B",
+          "text": "$He$"
+        },
+        {
+          "id": "chem_1_opt_3",
+          "label": "C",
+          "text": "$CH_4$"
+        },
+        {
+          "id": "chem_1_opt_4",
+          "label": "D",
+          "text": "$N_2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $HCl$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_2",
+      "question": "নিম্নের বিকিরণগুলোর মধ্যে কোনটির শক্তি সবচেয়ে বেশি?",
+      "options": [
+        {
+          "id": "chem_2_opt_1",
+          "label": "A",
+          "text": "infrared"
+        },
+        {
+          "id": "chem_2_opt_2",
+          "label": "B",
+          "text": "visible"
+        },
+        {
+          "id": "chem_2_opt_3",
+          "label": "C",
+          "text": "ultraviolet"
+        },
+        {
+          "id": "chem_2_opt_4",
+          "label": "D",
+          "text": "microwave"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] infrared\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_3",
+      "question": "$3.2 \\% \\mathrm{Na}_{2} \\mathrm{CO}_{3}$ দ্রবণের $\\mathrm{pH}$ কত?",
+      "options": [
+        {
+          "id": "chem_3_opt_1",
+          "label": "A",
+          "text": "13.8"
+        },
+        {
+          "id": "chem_3_opt_2",
+          "label": "B",
+          "text": "12.7"
+        },
+        {
+          "id": "chem_3_opt_3",
+          "label": "C",
+          "text": "11.5"
+        },
+        {
+          "id": "chem_3_opt_4",
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 13.8\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_4",
+      "question": "একজন রোগীর রক্তে গ্লুকোজের পরিমাণ 10 mmol/L। mg/dL এককে এর পরিমাণ কত?",
+      "options": [
+        {
+          "id": "chem_4_opt_1",
+          "label": "A",
+          "text": "120"
+        },
+        {
+          "id": "chem_4_opt_2",
+          "label": "B",
+          "text": "220"
+        },
+        {
+          "id": "chem_4_opt_3",
+          "label": "C",
+          "text": "200"
+        },
+        {
+          "id": "chem_4_opt_4",
+          "label": "D",
+          "text": "180"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 120\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_5",
+      "question": "$5Fe^{2+}+MnO_4^-+8H^+→5Fe^{3+}+Mn^{2+}+4H_2O$বিক্রিয়াতে$1000\\ mL\\ 1M\\ KMnO_4$দ্রবণ কত গ্রাম$Fe^{2+}$কে জারিত করবে?$Fe$-এর পারমাণবিক ভর $55.85$",
+      "options": [
+        {
+          "id": "chem_5_opt_1",
+          "label": "A",
+          "text": "350.55 g"
+        },
+        {
+          "id": "chem_5_opt_2",
+          "label": "B",
+          "text": "279.25 g"
+        },
+        {
+          "id": "chem_5_opt_3",
+          "label": "C",
+          "text": "55.85 g"
+        },
+        {
+          "id": "chem_5_opt_4",
+          "label": "D",
+          "text": "25.85 g"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 350.55 g\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_6",
+      "question": "$_{15}^{31}\\ P_4$এর 15 টি অণুর মধ্যে কয়টি নিউট্রন আছে?",
+      "options": [
+        {
+          "id": "chem_6_opt_1",
+          "label": "A",
+          "text": "160"
+        },
+        {
+          "id": "chem_6_opt_2",
+          "label": "B",
+          "text": "64"
+        },
+        {
+          "id": "chem_6_opt_3",
+          "label": "C",
+          "text": "960"
+        },
+        {
+          "id": "chem_6_opt_4",
+          "label": "D",
+          "text": "1800"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 160\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_7",
+      "question": "কোন সেটটির সব মৌলগুলির ইলেক্ট্রন বিন্যাসে বিজোড় ইলেক্ট্রন আছে?",
+      "options": [
+        {
+          "id": "chem_7_opt_1",
+          "label": "A",
+          "text": "Ca, Sr, Ba"
+        },
+        {
+          "id": "chem_7_opt_2",
+          "label": "B",
+          "text": "Na, Si, S"
+        },
+        {
+          "id": "chem_7_opt_3",
+          "label": "C",
+          "text": "Ca, P, Xe"
+        },
+        {
+          "id": "chem_7_opt_4",
+          "label": "D",
+          "text": "Zn, Mg, N"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Ca, Sr, Ba\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_8",
+      "question": "নিম্নের বিক্রিয়ার সাম্যধ্রুবক$K_c$এর সঠিক একক কোনটি? $w(aq)+2x(aq⇌2y(aq)+3z(aq)$",
+      "options": [
+        {
+          "id": "chem_8_opt_1",
+          "label": "A",
+          "text": "$mol\\ dm^{-3}$"
+        },
+        {
+          "id": "chem_8_opt_2",
+          "label": "B",
+          "text": "$mol^2\\ dm^{-6}$"
+        },
+        {
+          "id": "chem_8_opt_3",
+          "label": "C",
+          "text": "$mol^1\\ dm^3$"
+        },
+        {
+          "id": "chem_8_opt_4",
+          "label": "D",
+          "text": "$mol^{-2}\\ dm^6$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $mol\\ dm^{-3}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_9",
+      "question": "0.002M সালফিউরিক এসিড দ্রবণের pH হল-",
+      "options": [
+        {
+          "id": "chem_9_opt_1",
+          "label": "A",
+          "text": "2.69"
+        },
+        {
+          "id": "chem_9_opt_2",
+          "label": "B",
+          "text": "4.20"
+        },
+        {
+          "id": "chem_9_opt_3",
+          "label": "C",
+          "text": "2.40"
+        },
+        {
+          "id": "chem_9_opt_4",
+          "label": "D",
+          "text": "3.00"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 2.69\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_10",
+      "question": " $2NH_{3}(g)  \\rightleftharpoons  N_{2}(g) + 3H_{2}(g)$ বিক্রিয়াটির K_{c} এর একক–",
+      "options": [
+        {
+          "id": "chem_10_opt_1",
+          "label": "A",
+          "text": "L^{2}mol^{–2}"
+        },
+        {
+          "id": "chem_10_opt_2",
+          "label": "B",
+          "text": "mol^{–2}L^{–2}"
+        },
+        {
+          "id": "chem_10_opt_3",
+          "label": "C",
+          "text": "mol^{2}L^{–6}"
+        },
+        {
+          "id": "chem_10_opt_4",
+          "label": "D",
+          "text": "mol^{2}L^{-2}"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] L^{2}mol^{–2}\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_11",
+      "question": "তুঁতের দ্রবণে 1.0 ঘণ্টা ধরে 8.0 ampere বিদ্যুৎ প্রবাহিত করলে তড়িৎদ্বারে কি পরিমাণ $Cu$ জমা পড়বে ?",
+      "options": [
+        {
+          "id": "chem_11_opt_1",
+          "label": "A",
+          "text": "8.475 g"
+        },
+        {
+          "id": "chem_11_opt_2",
+          "label": "B",
+          "text": "9.475 g"
+        },
+        {
+          "id": "chem_11_opt_3",
+          "label": "C",
+          "text": "10.475 g"
+        },
+        {
+          "id": "chem_11_opt_4",
+          "label": "D",
+          "text": "11.475 g"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 8.475 g\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_12",
+      "question": "18 gm গ্লুকোজ অণুতে কতটি কার্বন পরমাণু আছে?",
+      "options": [
+        {
+          "id": "chem_12_opt_1",
+          "label": "A",
+          "text": "$3.6\\times10^{23}$"
+        },
+        {
+          "id": "chem_12_opt_2",
+          "label": "B",
+          "text": "$6.0\\times10^{23}$"
+        },
+        {
+          "id": "chem_12_opt_3",
+          "label": "C",
+          "text": "$3.7\\times10^{22}$"
+        },
+        {
+          "id": "chem_12_opt_4",
+          "label": "D",
+          "text": "$3.3\\times10^{24}$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $3.6\\times10^{23}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_13",
+      "question": "নিচের কোনটি অসামঞ্জস্যকরণ বিক্রিয়া?",
+      "options": [
+        {
+          "id": "chem_13_opt_1",
+          "label": "A",
+          "text": "$2\\text{Na} + \\text{Cl}_2 \\rightarrow 2\\text{NaCl}$"
+        },
+        {
+          "id": "chem_13_opt_2",
+          "label": "B",
+          "text": "$\\text{AgNO}_3 + \\text{NaCl} \\rightarrow \\text{NaNO}_3 + \\text{AgCl}$"
+        },
+        {
+          "id": "chem_13_opt_3",
+          "label": "C",
+          "text": "$3 \\mathrm{Cl}_{2}+6 \\mathrm{NaOH} \\xrightarrow{\\Delta} 5 \\mathrm{NaCl}+\\mathrm{NaClO}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$"
+        },
+        {
+          "id": "chem_13_opt_4",
+          "label": "D",
+          "text": "$\\text{FeCl}_3 + \\text{SnCl}_2 \\rightarrow \\text{SnCl}_4 + \\text{FeCl}_2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $2\\text{Na} + \\text{Cl}_2 \\rightarrow 2\\text{NaCl}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_14",
+      "question": "পটাশিয়াম পারম্যাঙ্গানেট-সোডিয়াম অক্সালেট টাইট্রেশনে নিম্নের কোনটি তুমি ব্যবহার করবে?",
+      "options": [
+        {
+          "id": "chem_14_opt_1",
+          "label": "A",
+          "text": "methyl orange"
+        },
+        {
+          "id": "chem_14_opt_2",
+          "label": "B",
+          "text": "starch"
+        },
+        {
+          "id": "chem_14_opt_3",
+          "label": "C",
+          "text": "diphenylamine"
+        },
+        {
+          "id": "chem_14_opt_4",
+          "label": "D",
+          "text": "no indicator"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] methyl orange\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_15",
+      "question": "নিম্নের কোনটি অপটিক্যাল আইসোমার দেবে না?",
+      "options": [
+        {
+          "id": "chem_15_opt_1",
+          "label": "A",
+          "text": "$CH_3-CH=CH-C_2H_5$"
+        },
+        {
+          "id": "chem_15_opt_2",
+          "label": "B",
+          "text": "$CH_3CHOHCOOH$"
+        },
+        {
+          "id": "chem_15_opt_3",
+          "label": "C",
+          "text": "$C_6H_5-CH=CHCHOHCOOH$"
+        },
+        {
+          "id": "chem_15_opt_4",
+          "label": "D",
+          "text": "$C_6H_5CHBrCH_3$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $CH_3-CH=CH-C_2H_5$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_16",
+      "question": "নিম্নের কোনটি Wolf-Kishner বিজারণ?",
+      "options": [
+        {
+          "id": "chem_16_opt_1",
+          "label": "A",
+          "text": "$CH_3CH=O+Zn-Hg/conc.\\ HCl\\to CH_3-CH_3$"
+        },
+        {
+          "id": "chem_16_opt_2",
+          "label": "B",
+          "text": "$CH_3CH=O+NH_2-NH_2+(CH_3)_3CONa\\to CH_3-CH_3$"
+        },
+        {
+          "id": "chem_16_opt_3",
+          "label": "C",
+          "text": "$CH_3COCH_3+PCl_5→(CH_3)_2CCl_2+POCl_3$"
+        },
+        {
+          "id": "chem_16_opt_4",
+          "label": "D",
+          "text": "$CH_3CH_2CHO+2Cu_2++3KOH→CH_3CH_2COOK+Cu_2O+2H_2O$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $CH_3CH=O+Zn-Hg/conc.\\ HCl\\to CH_3-CH_3$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_17",
+      "question": "ক্যালসিয়ামের সর্ববহিঃস্তরের ইলেকট্রনদ্বয়ের কোয়ান্টাম সংখ্যার সেট কোনটি?",
+      "options": [
+        {
+          "id": "chem_17_opt_1",
+          "label": "A",
+          "text": "$n=4,l=0,m=1,s=+\\frac{1}{2},-\\frac{1}{2}$"
+        },
+        {
+          "id": "chem_17_opt_2",
+          "label": "B",
+          "text": "$n=3,l=3,m=1,s=+\\frac{1}{2},+\\frac{1}{2}$"
+        },
+        {
+          "id": "chem_17_opt_3",
+          "label": "C",
+          "text": "$n=4,l=5,m=0,s=-\\frac{1}{2},-\\frac{1}{2}$"
+        },
+        {
+          "id": "chem_17_opt_4",
+          "label": "D",
+          "text": "$n=4,l=0,m=0,s=+\\frac{1}{2},-\\frac{1}{2}$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $n=4,l=0,m=1,s=+\\frac{1}{2},-\\frac{1}{2}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_18",
+      "question": "এসিটিলিনকে $CCl_4$ দ্রবণে রেখে তাতে ব্রোমিন গ্যাস চালনা করলে যে উৎপাদ হয়-",
+      "options": [
+        {
+          "id": "chem_18_opt_1",
+          "label": "A",
+          "text": "$BrCH-CHBr$"
+        },
+        {
+          "id": "chem_18_opt_2",
+          "label": "B",
+          "text": "$\\text{Br}_2\\text{CH}-\\text{CHBr}_2$"
+        },
+        {
+          "id": "chem_18_opt_3",
+          "label": "C",
+          "text": "$Br_2CH-CHCl_2+CHCl_3$"
+        },
+        {
+          "id": "chem_18_opt_4",
+          "label": "D",
+          "text": "$Cl_2CH-CHBr_2+CHBr_3$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $BrCH-CHBr$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_19",
+      "question": "নিম্নের যৌগগুলির মধ্যে কোনটিতে $sp$ ও $sp^3$ সংকরিত $C$ পরমাণু আছে?",
+      "options": [
+        {
+          "id": "chem_19_opt_1",
+          "label": "A",
+          "text": "$CH_3C\\equiv CH$"
+        },
+        {
+          "id": "chem_19_opt_2",
+          "label": "B",
+          "text": "$CH_3-CH_3$"
+        },
+        {
+          "id": "chem_19_opt_3",
+          "label": "C",
+          "text": "$CH_3-CH_2-CH_3$"
+        },
+        {
+          "id": "chem_19_opt_4",
+          "label": "D",
+          "text": "$CH_2=CH_2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $CH_3C\\equiv CH$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_20",
+      "question": "নিচের প্রক্রিয়াটির প্রধান উৎপাদ কি?$\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CHO} \\stackrel{\\mathrm{NaBH}_{4}}{\\Longrightarrow} ?$",
+      "options": [
+        {
+          "id": "chem_20_opt_1",
+          "label": "A",
+          "text": "CH_{3} - CH_{2} - CH_{2} - CHO"
+        },
+        {
+          "id": "chem_20_opt_2",
+          "label": "B",
+          "text": "CH_{3} - CH = CH - CH_{2}OH"
+        },
+        {
+          "id": "chem_20_opt_3",
+          "label": "C",
+          "text": "CH_{3}- CH_{2} - CH_{2} - CH_{2}OH"
+        },
+        {
+          "id": "chem_20_opt_4",
+          "label": "D",
+          "text": "CH_{3}- CH(OH) - CH_{2 }- CH_{3}"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] CH_{3} - CH_{2} - CH_{2} - CHO\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_21",
+      "question": "K_{2}Cr_{2}O_{7 }এর এসিডীয় দ্রবণে SO_{3} চালনা করলে ক্রোমিয়াম সালফেট উৎপন্ন হয়। এই পরিবর্তনের ফলে ক্রোমিয়ামের জারণ সংখ্যার কি ধরণের পরিবর্তন হলো?",
+      "options": [
+        {
+          "id": "chem_21_opt_1",
+          "label": "A",
+          "text": "+4 to +2"
+        },
+        {
+          "id": "chem_21_opt_2",
+          "label": "B",
+          "text": "+5 to +3"
+        },
+        {
+          "id": "chem_21_opt_3",
+          "label": "C",
+          "text": "+6 to +3"
+        },
+        {
+          "id": "chem_21_opt_4",
+          "label": "D",
+          "text": "+7 to +2"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] +4 to +2\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_22",
+      "question": "লোহাকে মরিচা পড়া থেকে রক্ষার জন্য কোন ধাতুর প্রলেপ দেয়া হয়?",
+      "options": [
+        {
+          "id": "chem_22_opt_1",
+          "label": "A",
+          "text": "Zn"
+        },
+        {
+          "id": "chem_22_opt_2",
+          "label": "B",
+          "text": "Pb"
+        },
+        {
+          "id": "chem_22_opt_3",
+          "label": "C",
+          "text": "Hg"
+        },
+        {
+          "id": "chem_22_opt_4",
+          "label": "D",
+          "text": "Ti"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Zn\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_23",
+      "question": "স্টিলে থাকে-",
+      "options": [
+        {
+          "id": "chem_23_opt_1",
+          "label": "A",
+          "text": "Fe+Mn"
+        },
+        {
+          "id": "chem_23_opt_2",
+          "label": "B",
+          "text": "Fe+Mn+Cr"
+        },
+        {
+          "id": "chem_23_opt_3",
+          "label": "C",
+          "text": "Fe+C+Mn"
+        },
+        {
+          "id": "chem_23_opt_4",
+          "label": "D",
+          "text": "Fe+C+Al"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] Fe+Mn\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_24",
+      "question": "গ্রিনহাউজ প্রভাবের জন্য সর্বাপেক্ষা দায়ী কোন গ্যাসটি?",
+      "options": [
+        {
+          "id": "chem_24_opt_1",
+          "label": "A",
+          "text": "$CO$"
+        },
+        {
+          "id": "chem_24_opt_2",
+          "label": "B",
+          "text": "$NO_2$"
+        },
+        {
+          "id": "chem_24_opt_3",
+          "label": "C",
+          "text": "$CH_4$"
+        },
+        {
+          "id": "chem_24_opt_4",
+          "label": "D",
+          "text": "$CO_2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $CO$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_25",
+      "question": "জৈব যৌগে কার্বন-কার্বন দ্বিবন্ধনের অবস্থান নির্ণয়ে নিচের কোন পদ্ধতিটি ব্যবহার করা যায়?",
+      "options": [
+        {
+          "id": "chem_25_opt_1",
+          "label": "A",
+          "text": "addition of hydrogen"
+        },
+        {
+          "id": "chem_25_opt_2",
+          "label": "B",
+          "text": "hydrolysis"
+        },
+        {
+          "id": "chem_25_opt_3",
+          "label": "C",
+          "text": "epoxidation"
+        },
+        {
+          "id": "chem_25_opt_4",
+          "label": "D",
+          "text": "ozonolysis"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] addition of hydrogen\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_26",
+      "question": "প্রোপাইন অণুতে কার্বন-কার্বন ত্রিবন্ধনে উপস্থিত বন্ধনগুলো হচ্ছে-",
+      "options": [
+        {
+          "id": "chem_26_opt_1",
+          "label": "A",
+          "text": "$3\\sigma$"
+        },
+        {
+          "id": "chem_26_opt_2",
+          "label": "B",
+          "text": "$1\\sigma+2\\pi$"
+        },
+        {
+          "id": "chem_26_opt_3",
+          "label": "C",
+          "text": "$3\\pi$"
+        },
+        {
+          "id": "chem_26_opt_4",
+          "label": "D",
+          "text": "$2\\sigma+2\\pi$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $3\\sigma$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_27",
+      "question": "$RCN$যৌগটিকে$RCH_2NH_2$যৌগে পরিণত করতে যে বিকারক ব্যবহৃত হয় তা হচ্ছে-",
+      "options": [
+        {
+          "id": "chem_27_opt_1",
+          "label": "A",
+          "text": "$KMnO_4$"
+        },
+        {
+          "id": "chem_27_opt_2",
+          "label": "B",
+          "text": "$CH_3COCl$"
+        },
+        {
+          "id": "chem_27_opt_3",
+          "label": "C",
+          "text": "$CH_2ClCOO$"
+        },
+        {
+          "id": "chem_27_opt_4",
+          "label": "D",
+          "text": "$LiAlH_4$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $KMnO_4$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_28",
+      "question": "নীচের কোন যৌগ ডায়াজোনিয়াম লবণ উৎপন্ন করে?",
+      "options": [
+        {
+          "id": "chem_28_opt_1",
+          "label": "A",
+          "text": "N_{2}NC_{2}H_{5}"
+        },
+        {
+          "id": "chem_28_opt_2",
+          "label": "B",
+          "text": "C_{6}H_{6}NO_{2}"
+        },
+        {
+          "id": "chem_28_opt_3",
+          "label": "C",
+          "text": "C_{6}H_{5}NH_{2}"
+        },
+        {
+          "id": "chem_28_opt_4",
+          "label": "D",
+          "text": "(H_{3}C)_{3}N"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] N_{2}NC_{2}H_{5}\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_29",
+      "question": "বাতাসে $CO_2$ এর পরিমান প্রায়-",
+      "options": [
+        {
+          "id": "chem_29_opt_1",
+          "label": "A",
+          "text": "0.025%"
+        },
+        {
+          "id": "chem_29_opt_2",
+          "label": "B",
+          "text": "0.033%"
+        },
+        {
+          "id": "chem_29_opt_3",
+          "label": "C",
+          "text": "0.036%"
+        },
+        {
+          "id": "chem_29_opt_4",
+          "label": "D",
+          "text": "0.04%"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 0.025%\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-chem_30",
+      "question": "কোন অরবিটালটি অসম্ভব?",
+      "options": [
+        {
+          "id": "chem_30_opt_1",
+          "label": "A",
+          "text": "2p"
+        },
+        {
+          "id": "chem_30_opt_2",
+          "label": "B",
+          "text": "3d"
+        },
+        {
+          "id": "chem_30_opt_3",
+          "label": "C",
+          "text": "4f"
+        },
+        {
+          "id": "chem_30_opt_4",
+          "label": "D",
+          "text": "3f"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 2p\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Chemistry",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_1",
+      "question": "'রচিয়া লহ না আজও গীতি' এখানে 'না' কোন অর্থে ব্যবহৃত?",
+      "options": [
+        {
+          "id": "ban_1_opt_1",
+          "label": "A",
+          "text": "নিষেধ"
+        },
+        {
+          "id": "ban_1_opt_2",
+          "label": "B",
+          "text": "অনুরোধ"
+        },
+        {
+          "id": "ban_1_opt_3",
+          "label": "C",
+          "text": "আদেশ"
+        },
+        {
+          "id": "ban_1_opt_4",
+          "label": "D",
+          "text": "তিরস্কার"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] নিষেধ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_2",
+      "question": "‘কমবক্তা' শব্দটি গঠিত হয়েছে—",
+      "options": [
+        {
+          "id": "ban_2_opt_1",
+          "label": "A",
+          "text": "সন্ধিযোগে"
+        },
+        {
+          "id": "ban_2_opt_2",
+          "label": "B",
+          "text": "সমাসযোগে"
+        },
+        {
+          "id": "ban_2_opt_3",
+          "label": "C",
+          "text": "উপসর্গযোগে"
+        },
+        {
+          "id": "ban_2_opt_4",
+          "label": "D",
+          "text": "প্রত্যয়যোগে"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] সন্ধিযোগে\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_3",
+      "question": "‘ঋজু’ শব্দের বিপরীত শব্দ কোনটি?",
+      "options": [
+        {
+          "id": "ban_3_opt_1",
+          "label": "A",
+          "text": "সরল"
+        },
+        {
+          "id": "ban_3_opt_2",
+          "label": "B",
+          "text": "বঙ্কিম"
+        },
+        {
+          "id": "ban_3_opt_3",
+          "label": "C",
+          "text": "বেঁটে"
+        },
+        {
+          "id": "ban_3_opt_4",
+          "label": "D",
+          "text": "ভঙ্গুর"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] সরল\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_4",
+      "question": "কোনটি অশুদ্ধ বানানে লেখা?",
+      "options": [
+        {
+          "id": "ban_4_opt_1",
+          "label": "A",
+          "text": "নির্ধন"
+        },
+        {
+          "id": "ban_4_opt_2",
+          "label": "B",
+          "text": "সশঙ্কিত"
+        },
+        {
+          "id": "ban_4_opt_3",
+          "label": "C",
+          "text": "দারিদ্র্য"
+        },
+        {
+          "id": "ban_4_opt_4",
+          "label": "D",
+          "text": "সবগুলো"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] নির্ধন\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_5",
+      "question": "‘আভাসিত' শব্দটির প্রত্যয়-",
+      "options": [
+        {
+          "id": "ban_5_opt_1",
+          "label": "A",
+          "text": "বাংলা কৃৎ"
+        },
+        {
+          "id": "ban_5_opt_2",
+          "label": "B",
+          "text": "সংস্কৃত কৃৎ"
+        },
+        {
+          "id": "ban_5_opt_3",
+          "label": "C",
+          "text": "বাংলা তদ্ধিত"
+        },
+        {
+          "id": "ban_5_opt_4",
+          "label": "D",
+          "text": "সংস্কৃত তদ্ধিত"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] বাংলা কৃৎ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_6",
+      "question": "যা অবশ্যই ঘটবে-",
+      "options": [
+        {
+          "id": "ban_6_opt_1",
+          "label": "A",
+          "text": "অবশ্যম্ভাবী"
+        },
+        {
+          "id": "ban_6_opt_2",
+          "label": "B",
+          "text": "অনিবার্য"
+        },
+        {
+          "id": "ban_6_opt_3",
+          "label": "C",
+          "text": "অপ্রতিরোধ্য"
+        },
+        {
+          "id": "ban_6_opt_4",
+          "label": "D",
+          "text": "কোনটিই নয়"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] অবশ্যম্ভাবী\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_7",
+      "question": "'ফুল ফোটে।'- কোন বাচ্য?",
+      "options": [
+        {
+          "id": "ban_7_opt_1",
+          "label": "A",
+          "text": "কর্তৃবাচ্য"
+        },
+        {
+          "id": "ban_7_opt_2",
+          "label": "B",
+          "text": "কর্মবাচ্য"
+        },
+        {
+          "id": "ban_7_opt_3",
+          "label": "C",
+          "text": "কর্মকর্তৃবাচ্য"
+        },
+        {
+          "id": "ban_7_opt_4",
+          "label": "D",
+          "text": "ভাববাচ্য"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] কর্তৃবাচ্য\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_8",
+      "question": "‘শিক্ষা হচ্ছে সেই বস্তু যাহা লোকে নিতান্ত অনিচ্ছাসত্ত্বেও গলধকরণ করিতে বাধ্য হয়, অপর পক্ষে কাব্যরস লোকে শুধু সেচ্ছায় নয়, স্বানন্দে পান করে।' চলিত রীতিতে রচিত এ বাক্যে ভুলের সংখ্যা-",
+      "options": [
+        {
+          "id": "ban_8_opt_1",
+          "label": "A",
+          "text": "তিন"
+        },
+        {
+          "id": "ban_8_opt_2",
+          "label": "B",
+          "text": "পাঁচ"
+        },
+        {
+          "id": "ban_8_opt_3",
+          "label": "C",
+          "text": "ছয়"
+        },
+        {
+          "id": "ban_8_opt_4",
+          "label": "D",
+          "text": "সাত"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] তিন\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_9",
+      "question": "পর্তুগিজ ভাষা থেকে আগত শব্দ-",
+      "options": [
+        {
+          "id": "ban_9_opt_1",
+          "label": "A",
+          "text": "শরবত"
+        },
+        {
+          "id": "ban_9_opt_2",
+          "label": "B",
+          "text": "শিরোনাম"
+        },
+        {
+          "id": "ban_9_opt_3",
+          "label": "C",
+          "text": "সওদা"
+        },
+        {
+          "id": "ban_9_opt_4",
+          "label": "D",
+          "text": "সাবান"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] শরবত\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_10",
+      "question": "‘পৃথিবী’ এর সমার্থক শব্দ—",
+      "options": [
+        {
+          "id": "ban_10_opt_1",
+          "label": "A",
+          "text": "ক্ষিতিধর"
+        },
+        {
+          "id": "ban_10_opt_2",
+          "label": "B",
+          "text": "সরোজ"
+        },
+        {
+          "id": "ban_10_opt_3",
+          "label": "C",
+          "text": "ক্ষিতি"
+        },
+        {
+          "id": "ban_10_opt_4",
+          "label": "D",
+          "text": "অচল"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ক্ষিতিধর\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_11",
+      "question": "‘Amplification' এর পরিভাষা-",
+      "options": [
+        {
+          "id": "ban_11_opt_1",
+          "label": "A",
+          "text": "পরিবর্ধন"
+        },
+        {
+          "id": "ban_11_opt_2",
+          "label": "B",
+          "text": "পরিবর্তিত"
+        },
+        {
+          "id": "ban_11_opt_3",
+          "label": "C",
+          "text": "প্রাচুর্য"
+        },
+        {
+          "id": "ban_11_opt_4",
+          "label": "D",
+          "text": "বিস্তার"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] পরিবর্ধন\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_12",
+      "question": "'দফাদার' মানে-",
+      "options": [
+        {
+          "id": "ban_12_opt_1",
+          "label": "A",
+          "text": "চৌকিদার"
+        },
+        {
+          "id": "ban_12_opt_2",
+          "label": "B",
+          "text": "চৌকিদারের সরদার"
+        },
+        {
+          "id": "ban_12_opt_3",
+          "label": "C",
+          "text": "সালিশী সভার নেতা"
+        },
+        {
+          "id": "ban_12_opt_4",
+          "label": "D",
+          "text": "তল্পিবাহক"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] চৌকিদার\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_13",
+      "question": "'তাদের ভুলটা ভাঙতে দেরি হয় না।' বাক্যটির অস্তিবাচক রূপ-",
+      "options": [
+        {
+          "id": "ban_13_opt_1",
+          "label": "A",
+          "text": "তাদের ভুল ভাঙতে দেরি হয়"
+        },
+        {
+          "id": "ban_13_opt_2",
+          "label": "B",
+          "text": "তাদের ভুল ভেঙে যায়"
+        },
+        {
+          "id": "ban_13_opt_3",
+          "label": "C",
+          "text": "সত্য তাদের কাছে প্রকাশিত হয়"
+        },
+        {
+          "id": "ban_13_opt_4",
+          "label": "D",
+          "text": "অচিরেই তাদের ভুল ভাঙে"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] তাদের ভুল ভাঙতে দেরি হয়\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_14",
+      "question": "‘Hierarchy' এর বাংলা পরিভাষা-",
+      "options": [
+        {
+          "id": "ban_14_opt_1",
+          "label": "A",
+          "text": "ঊর্ধ্বতন কর্তৃপক্ষ"
+        },
+        {
+          "id": "ban_14_opt_2",
+          "label": "B",
+          "text": "কর্তাব্যক্তি"
+        },
+        {
+          "id": "ban_14_opt_3",
+          "label": "C",
+          "text": "আধিপত্য পরম্পরা"
+        },
+        {
+          "id": "ban_14_opt_4",
+          "label": "D",
+          "text": "জনপ্রশাসনের কর্মকর্তা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ঊর্ধ্বতন কর্তৃপক্ষ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_15",
+      "question": "কুহেলি ' শব্দটির অর্থ কী ?",
+      "options": [
+        {
+          "id": "ban_15_opt_1",
+          "label": "A",
+          "text": "কিংকর্তব্যবিমূঢ়"
+        },
+        {
+          "id": "ban_15_opt_2",
+          "label": "B",
+          "text": "ইতিহাস"
+        },
+        {
+          "id": "ban_15_opt_3",
+          "label": "C",
+          "text": "কুয়াশা"
+        },
+        {
+          "id": "ban_15_opt_4",
+          "label": "D",
+          "text": "জনশ্রুতি"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] কিংকর্তব্যবিমূঢ়\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_16",
+      "question": "' charter' শব্দের বাংলা পরিভাষা-",
+      "options": [
+        {
+          "id": "ban_16_opt_1",
+          "label": "A",
+          "text": "সনদ"
+        },
+        {
+          "id": "ban_16_opt_2",
+          "label": "B",
+          "text": "বিজ্ঞপ্তি"
+        },
+        {
+          "id": "ban_16_opt_3",
+          "label": "C",
+          "text": "চাটুকার"
+        },
+        {
+          "id": "ban_16_opt_4",
+          "label": "D",
+          "text": "ঘোষণা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] সনদ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_17",
+      "question": "‘সাপের পাঁচ পা দেখা' প্রবাদের অর্থ-",
+      "options": [
+        {
+          "id": "ban_17_opt_1",
+          "label": "A",
+          "text": "ভয় পাওয়া"
+        },
+        {
+          "id": "ban_17_opt_2",
+          "label": "B",
+          "text": "চোখে অন্ধকার দেখা"
+        },
+        {
+          "id": "ban_17_opt_3",
+          "label": "C",
+          "text": "শেষ মুহূর্ত পর্যন্ত আশায় থাকা"
+        },
+        {
+          "id": "ban_17_opt_4",
+          "label": "D",
+          "text": "অহংকারে অসম্ভবকে সম্ভব মনে করা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ভয় পাওয়া\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_18",
+      "question": "নিচের কোনটি অর্ধস্বরধ্বনি নয়?",
+      "options": [
+        {
+          "id": "ban_18_opt_1",
+          "label": "A",
+          "text": "এ"
+        },
+        {
+          "id": "ban_18_opt_2",
+          "label": "B",
+          "text": "ঐ"
+        },
+        {
+          "id": "ban_18_opt_3",
+          "label": "C",
+          "text": "ও"
+        },
+        {
+          "id": "ban_18_opt_4",
+          "label": "D",
+          "text": "উ"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] এ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_19",
+      "question": "রবীন্দ্রনাথ ঠাকুর এশীয়দের মধ্যে কততম নোবেল বিজয়ী?",
+      "options": [
+        {
+          "id": "ban_19_opt_1",
+          "label": "A",
+          "text": "প্রথম"
+        },
+        {
+          "id": "ban_19_opt_2",
+          "label": "B",
+          "text": "দ্বিতীয়"
+        },
+        {
+          "id": "ban_19_opt_3",
+          "label": "C",
+          "text": "তৃতীয়"
+        },
+        {
+          "id": "ban_19_opt_4",
+          "label": "D",
+          "text": "চতুর্থ"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] প্রথম\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_20",
+      "question": "’ষ্ণ' সংযুক্ত ব্যঞ্জনটি কোন কোন বর্ণের সংযুক্ত রূপ?",
+      "options": [
+        {
+          "id": "ban_20_opt_1",
+          "label": "A",
+          "text": "ম্ + ঞ"
+        },
+        {
+          "id": "ban_20_opt_2",
+          "label": "B",
+          "text": "ষ + ণ"
+        },
+        {
+          "id": "ban_20_opt_3",
+          "label": "C",
+          "text": "ম্+ন"
+        },
+        {
+          "id": "ban_20_opt_4",
+          "label": "D",
+          "text": "স্ + চ"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ম্ + ঞ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_21",
+      "question": "স্টিমারের প্রসঙ্গ এসেছে কোন কবিতায়?",
+      "options": [
+        {
+          "id": "ban_21_opt_1",
+          "label": "A",
+          "text": "পাঞ্জেরি"
+        },
+        {
+          "id": "ban_21_opt_2",
+          "label": "B",
+          "text": "কবর"
+        },
+        {
+          "id": "ban_21_opt_3",
+          "label": "C",
+          "text": "জীবন-বন্দনা"
+        },
+        {
+          "id": "ban_21_opt_4",
+          "label": "D",
+          "text": "আঠারো বছর বয়স"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] পাঞ্জেরি\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_22",
+      "question": "‘চল্লিশের কোঠা' বলতে কী বোঝানো হয়?",
+      "options": [
+        {
+          "id": "ban_22_opt_1",
+          "label": "A",
+          "text": "একচল্লিশ"
+        },
+        {
+          "id": "ban_22_opt_2",
+          "label": "B",
+          "text": "পঁয়তাল্লিশ"
+        },
+        {
+          "id": "ban_22_opt_3",
+          "label": "C",
+          "text": "চল্লিশ থেকে ঊনপঞ্চাশ বছর পর্যন্ত"
+        },
+        {
+          "id": "ban_22_opt_4",
+          "label": "D",
+          "text": "ঊনপঞ্চাশ"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] একচল্লিশ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_23",
+      "question": "“প্রভুদের বিদ্যার গতির সীমা নাই, স্ত্রীদের বিদ্যার দৌড় সচরাচর ‘বোধোদয়' পর্যন্ত।” বাক্যটিতে 'বোধোদয়' বলতে বোঝানো হয়েছে-",
+      "options": [
+        {
+          "id": "ban_23_opt_1",
+          "label": "A",
+          "text": "চেতনার উন্মেষ"
+        },
+        {
+          "id": "ban_23_opt_2",
+          "label": "B",
+          "text": "বিদ্যাসাগরের ‘শিশুশিক্ষা' তৃতীয় ভাগ"
+        },
+        {
+          "id": "ban_23_opt_3",
+          "label": "C",
+          "text": "উপস্থিত বুদ্ধি"
+        },
+        {
+          "id": "ban_23_opt_4",
+          "label": "D",
+          "text": "রবীন্দ্রনাথের ‘সহজপাঠ'"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] চেতনার উন্মেষ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_24",
+      "question": "বাল্মীকি কার উপদেশে ‘রামায়ণ' রচনা করেন?",
+      "options": [
+        {
+          "id": "ban_24_opt_1",
+          "label": "A",
+          "text": "ব্রহ্মার"
+        },
+        {
+          "id": "ban_24_opt_2",
+          "label": "B",
+          "text": "নারদের"
+        },
+        {
+          "id": "ban_24_opt_3",
+          "label": "C",
+          "text": "রামচন্দ্রের"
+        },
+        {
+          "id": "ban_24_opt_4",
+          "label": "D",
+          "text": "বশিষ্ঠ মুনির"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] ব্রহ্মার\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_25",
+      "question": "নিচের কোন কবিতা ‘অনিঃশেষ' কাব্যগ্রন্থের অন্তর্গত?",
+      "options": [
+        {
+          "id": "ban_25_opt_1",
+          "label": "A",
+          "text": "তাহারেই মনে পড়ে"
+        },
+        {
+          "id": "ban_25_opt_2",
+          "label": "B",
+          "text": "আমার পূর্ববাংলা"
+        },
+        {
+          "id": "ban_25_opt_3",
+          "label": "C",
+          "text": "কবর"
+        },
+        {
+          "id": "ban_25_opt_4",
+          "label": "D",
+          "text": "বাংলাদেশ"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] তাহারেই মনে পড়ে\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_26",
+      "question": "'তখন কমলাকান্ত মৃদু মৃদু হাসিতে লাগিল।' কখন?",
+      "options": [
+        {
+          "id": "ban_26_opt_1",
+          "label": "A",
+          "text": "কনস্টেবল ঘুমিয়ে পড়িলে"
+        },
+        {
+          "id": "ban_26_opt_2",
+          "label": "B",
+          "text": "এজলাশে লইয়া আসিলে"
+        },
+        {
+          "id": "ban_26_opt_3",
+          "label": "C",
+          "text": "সাক্ষীর কাটারায় পুরিয়া দিলে"
+        },
+        {
+          "id": "ban_26_opt_4",
+          "label": "D",
+          "text": "চাপরাশি ধমক দিলে"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] কনস্টেবল ঘুমিয়ে পড়িলে\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_27",
+      "question": "‘সম্মুখে শুধু অসীম কুয়াশা হেরি।' এখানে ‘অসীম কুয়াশা’র প্রতীকী তাৎপর্য-",
+      "options": [
+        {
+          "id": "ban_27_opt_1",
+          "label": "A",
+          "text": "অন্ধকারের আবহ"
+        },
+        {
+          "id": "ban_27_opt_2",
+          "label": "B",
+          "text": "প্রতিবন্ধকতা"
+        },
+        {
+          "id": "ban_27_opt_3",
+          "label": "C",
+          "text": "জাতীয় জীবনে অচলাবস্থা"
+        },
+        {
+          "id": "ban_27_opt_4",
+          "label": "D",
+          "text": "বিষণ্ণতা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] অন্ধকারের আবহ\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_28",
+      "question": "নিচের কোন কবিতা মাত্রাবৃত্ত ছন্দে রচিত হয়নি?",
+      "options": [
+        {
+          "id": "ban_28_opt_1",
+          "label": "A",
+          "text": "বঙ্গভাষা"
+        },
+        {
+          "id": "ban_28_opt_2",
+          "label": "B",
+          "text": "কবর"
+        },
+        {
+          "id": "ban_28_opt_3",
+          "label": "C",
+          "text": "সোনার তরী"
+        },
+        {
+          "id": "ban_28_opt_4",
+          "label": "D",
+          "text": "জীবন-বন্দনা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] বঙ্গভাষা\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_29",
+      "question": "অনুসর্গ কোনটি?",
+      "options": [
+        {
+          "id": "ban_29_opt_1",
+          "label": "A",
+          "text": "পাছে"
+        },
+        {
+          "id": "ban_29_opt_2",
+          "label": "B",
+          "text": "মায়াকান্না"
+        },
+        {
+          "id": "ban_29_opt_3",
+          "label": "C",
+          "text": "হাসিহাসি"
+        },
+        {
+          "id": "ban_29_opt_4",
+          "label": "D",
+          "text": "ডাই"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] পাছে\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-ban_30",
+      "question": "সন্ধির প্রধান সুবিধা কী?",
+      "options": [
+        {
+          "id": "ban_30_opt_1",
+          "label": "A",
+          "text": "পড়ার সুবিধা"
+        },
+        {
+          "id": "ban_30_opt_2",
+          "label": "B",
+          "text": "উচ্চারণের সুবিধা"
+        },
+        {
+          "id": "ban_30_opt_3",
+          "label": "C",
+          "text": "লেখার সুবিধা"
+        },
+        {
+          "id": "ban_30_opt_4",
+          "label": "D",
+          "text": "শোনার সুবিধা"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] পড়ার সুবিধা\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Bangla",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_1",
+      "question": "$\\begin{vmatrix} a + x& a - x& a - x\\\\ a - x & a + x & a - x\\\\ a - x & a - x & a + x\\end{vmatrix} = 0$ then $x$ =?",
+      "options": [
+        {
+          "id": "math_1_opt_1",
+          "label": "A",
+          "text": "$0$"
+        },
+        {
+          "id": "math_1_opt_2",
+          "label": "B",
+          "text": "$a$"
+        },
+        {
+          "id": "math_1_opt_3",
+          "label": "C",
+          "text": "$2a$"
+        },
+        {
+          "id": "math_1_opt_4",
+          "label": "D",
+          "text": "$7a$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $0$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_2",
+      "question": "$\\left ( \\frac{2 x^{2}}{3} - \\frac{x}{3} \\right )^{9}$ এর বিস্তৃতিতে x বর্জিত পদ হল-",
+      "options": [
+        {
+          "id": "math_2_opt_1",
+          "label": "A",
+          "text": "$\\frac{224}{3^{8}}$"
+        },
+        {
+          "id": "math_2_opt_2",
+          "label": "B",
+          "text": "$- \\frac{224}{3^{8}}$"
+        },
+        {
+          "id": "math_2_opt_3",
+          "label": "C",
+          "text": "$\\frac{242}{3^{8}}$"
+        },
+        {
+          "id": "math_2_opt_4",
+          "label": "D",
+          "text": "কোনোটিই নয়"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{224}{3^{8}}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_3",
+      "question": "5-3x-x^{2} এর সর্বোচ্চ মান কত?",
+      "options": [
+        {
+          "id": "math_3_opt_1",
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "id": "math_3_opt_2",
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "id": "math_3_opt_3",
+          "label": "C",
+          "text": "47/4"
+        },
+        {
+          "id": "math_3_opt_4",
+          "label": "D",
+          "text": "29/4"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 3\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_6",
+      "question": "$a$এর কোন মানের জন্য$2\\hat{i}+\\hat{j}-\\hat{k},\\ 3\\hat{i}-2\\hat{j}+4\\hat{k}$এবং$\\hat{i}-3\\hat{j}+a\\hat{k}$ভেক্টরত্রয় সমতলীয়-",
+      "options": [
+        {
+          "id": "math_6_opt_1",
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "id": "math_6_opt_2",
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "id": "math_6_opt_3",
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "id": "math_6_opt_4",
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_7",
+      "question": "$\\begin{vmatrix} 1 & \\omega & \\left(\\omega\\right)^{2} \\\\ \\omega & \\left(\\omega\\right)^{2} & 1 \\\\ \\left(\\omega\\right)^{2} & 1 & \\omega \\end{vmatrix}$ এর মান কোনটি?",
+      "options": [
+        {
+          "id": "math_7_opt_1",
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "id": "math_7_opt_2",
+          "label": "B",
+          "text": "$\\omega$"
+        },
+        {
+          "id": "math_7_opt_3",
+          "label": "C",
+          "text": "$\\left(\\omega\\right)^{2}$"
+        },
+        {
+          "id": "math_7_opt_4",
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_8",
+      "question": "$\\tan^{-1}\\frac{1}{7}+\\tan^{-1}\\frac{1}{8}+\\tan^{-1}\\frac{1}{18}=?$",
+      "options": [
+        {
+          "id": "math_8_opt_1",
+          "label": "A",
+          "text": "$\\cot^{-1}\\frac{1}{3}$"
+        },
+        {
+          "id": "math_8_opt_2",
+          "label": "B",
+          "text": "$\\tan^{-1}\\frac{1}{3}$"
+        },
+        {
+          "id": "math_8_opt_3",
+          "label": "C",
+          "text": "$\\cos^{-1}3$"
+        },
+        {
+          "id": "math_8_opt_4",
+          "label": "D",
+          "text": "$\\sin^{-1}3$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\cot^{-1}\\frac{1}{3}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_9",
+      "question": "$\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        {
+          "id": "math_9_opt_1",
+          "label": "A",
+          "text": "$\\frac{2}{25}$"
+        },
+        {
+          "id": "math_9_opt_2",
+          "label": "B",
+          "text": "$\\frac{49}{6}$"
+        },
+        {
+          "id": "math_9_opt_3",
+          "label": "C",
+          "text": "$\\frac{1}{8}$"
+        },
+        {
+          "id": "math_9_opt_4",
+          "label": "D",
+          "text": "tan x"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{2}{25}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_10",
+      "question": "ENGINEERING শব্দের সকল E গুলো একসঙ্গে রেখে সকল অক্ষরগুলোর বিন্যাসের সংখ্যা-",
+      "options": [
+        {
+          "id": "math_10_opt_1",
+          "label": "A",
+          "text": "1680"
+        },
+        {
+          "id": "math_10_opt_2",
+          "label": "B",
+          "text": "15120"
+        },
+        {
+          "id": "math_10_opt_3",
+          "label": "C",
+          "text": "177200"
+        },
+        {
+          "id": "math_10_opt_4",
+          "label": "D",
+          "text": "1512"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1680\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_11",
+      "question": "3.9^{x}-4.3^{x} +1 =0 সমীকরণের সমাধান কত?",
+      "options": [
+        {
+          "id": "math_11_opt_1",
+          "label": "A",
+          "text": "-1,0"
+        },
+        {
+          "id": "math_11_opt_2",
+          "label": "B",
+          "text": "$\\frac{1}{3} , 1$"
+        },
+        {
+          "id": "math_11_opt_3",
+          "label": "C",
+          "text": "0,1"
+        },
+        {
+          "id": "math_11_opt_4",
+          "label": "D",
+          "text": "-1,1"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] -1,0\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_12",
+      "question": "$\\frac{1}{|3 x-1|}>1$ এর সমাধান হল-",
+      "options": [
+        {
+          "id": "math_12_opt_1",
+          "label": "A",
+          "text": "$\\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty)$"
+        },
+        {
+          "id": "math_12_opt_2",
+          "label": "B",
+          "text": "$x>\\frac{1}{3}$"
+        },
+        {
+          "id": "math_12_opt_3",
+          "label": "C",
+          "text": "\\(0"
+        },
+        {
+          "id": "math_12_opt_4",
+          "label": "D",
+          "text": "$\\left(0, \\frac{1}{3}\\right) \\cup\\left(\\frac{1}{3}, \\frac{2}{3}\\right)$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty)$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_13",
+      "question": "যে বিন্দু (1, 4) এবং (9, −12) বিন্দুদ্বয়ের সংযোগকারী রেখাংশকে অন্তঃস্থভাবে 3 : 5 অনুপাতে বিভক্ত করে তার স্থানাঙ্ক-",
+      "options": [
+        {
+          "id": "math_13_opt_1",
+          "label": "A",
+          "text": "(9, -12)"
+        },
+        {
+          "id": "math_13_opt_2",
+          "label": "B",
+          "text": "(-2, 4)"
+        },
+        {
+          "id": "math_13_opt_3",
+          "label": "C",
+          "text": "(-4, 2)"
+        },
+        {
+          "id": "math_13_opt_4",
+          "label": "D",
+          "text": "(4, -2)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] (9, -12)\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_14",
+      "question": "$\\left(- \\frac{1}{2}\\right)$ ঢালবিশিষ্ট সরলরেখার উপর লম্ব এবং (2, -3) বিন্দুগামী সরলরেখার সমীকরণ— ![coordinate lines](/assets/imported/du_12_13_math_q14_q.svg)",
+      "options": [
+        {
+          "id": "math_14_opt_1",
+          "label": "A",
+          "text": "2x +y+7 = 0"
+        },
+        {
+          "id": "math_14_opt_2",
+          "label": "B",
+          "text": "2x-y-7=0"
+        },
+        {
+          "id": "math_14_opt_3",
+          "label": "C",
+          "text": "2x – y + 7 = 0"
+        },
+        {
+          "id": "math_14_opt_4",
+          "label": "D",
+          "text": "2x-y-1=0"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 2x +y+7 = 0\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_15",
+      "question": "$y=4x^2$ বক্ররেখা এবং $x=1$ ও $x=2$ সরলরেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি ?",
+      "options": [
+        {
+          "id": "math_15_opt_1",
+          "label": "A",
+          "text": "$\\frac{24}{5}$ বর্গএকক"
+        },
+        {
+          "id": "math_15_opt_2",
+          "label": "B",
+          "text": "$\\frac{32}{3}$ বর্গএকক"
+        },
+        {
+          "id": "math_15_opt_3",
+          "label": "C",
+          "text": "$32$ বর্গএকক"
+        },
+        {
+          "id": "math_15_opt_4",
+          "label": "D",
+          "text": "$\\frac{28}{3}$ বর্গএকক"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{24}{5}$ বর্গএকক\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_16",
+      "question": "1 থেকে 520 পর্যন্ত সংখ্যাগুলি থেকে দৈবচয়ন পদ্ধতিতে একটি সংখ্যা চয়ন করা হলে, সংখ্যাটি অযুগ্ম ঘনসংখ্যা হওয়ার সম্ভাবনা-",
+      "options": [
+        {
+          "id": "math_16_opt_1",
+          "label": "A",
+          "text": "$\\frac{1}{65}$"
+        },
+        {
+          "id": "math_16_opt_2",
+          "label": "B",
+          "text": "$\\frac{2}{65}$"
+        },
+        {
+          "id": "math_16_opt_3",
+          "label": "C",
+          "text": "$\\frac{1}{130}$"
+        },
+        {
+          "id": "math_16_opt_4",
+          "label": "D",
+          "text": "$\\frac{1}{64}$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{1}{65}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_17",
+      "question": "ভূমি হতে $u$ আদিবেগে খাড়া উর্ধ্বমুখে নিক্ষিপ্ত কণার সর্বোচ্চ উচ্চতা-",
+      "options": [
+        {
+          "id": "math_17_opt_1",
+          "label": "A",
+          "text": "$\\frac{u}{2g}$"
+        },
+        {
+          "id": "math_17_opt_2",
+          "label": "B",
+          "text": "$\\frac{u^2}{g}$"
+        },
+        {
+          "id": "math_17_opt_3",
+          "label": "C",
+          "text": "$\\frac{u^2}{2g}$"
+        },
+        {
+          "id": "math_17_opt_4",
+          "label": "D",
+          "text": "$\\frac{2u}{g}$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $\\frac{u}{2g}$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_18",
+      "question": "$x+y\\le2,\\ x+4y\\le4,\\ x>0,\\ y>0$শর্ত সাপেক্ষে $z=3x+6y$এর সর্বনিম্ন মান কোনটি?",
+      "options": [
+        {
+          "id": "math_18_opt_1",
+          "label": "A",
+          "text": "$6$"
+        },
+        {
+          "id": "math_18_opt_2",
+          "label": "B",
+          "text": "$10$"
+        },
+        {
+          "id": "math_18_opt_3",
+          "label": "C",
+          "text": "$12$"
+        },
+        {
+          "id": "math_18_opt_4",
+          "label": "D",
+          "text": "$18$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $6$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_19",
+      "question": "f(x^{3}-3)=x-2 হলে f-¹(0)=?",
+      "options": [
+        {
+          "id": "math_19_opt_1",
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "id": "math_19_opt_2",
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "id": "math_19_opt_3",
+          "label": "C",
+          "text": "25"
+        },
+        {
+          "id": "math_19_opt_4",
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 10\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_20",
+      "question": "একটি গাড়ী সমত্বরণে 30 km/hour আদিবেগে 100 km পথ অতিক্রম করে 50 km/hour চূড়ান্ত বেগ প্রাপ্ত হয় । গাড়ীটির ত্বরণ-",
+      "options": [
+        {
+          "id": "math_20_opt_1",
+          "label": "A",
+          "text": "$8\\ km/h^2$"
+        },
+        {
+          "id": "math_20_opt_2",
+          "label": "B",
+          "text": "$800\\ km/h^2$"
+        },
+        {
+          "id": "math_20_opt_3",
+          "label": "C",
+          "text": "$80\\ km/h^2$"
+        },
+        {
+          "id": "math_20_opt_4",
+          "label": "D",
+          "text": "$16\\ km/h^2$"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] $8\\ km/h^2$\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_21",
+      "question": "20 m/sec বেগে উর্ধ্বগামী কোন বেলুন থেকে পতিত এক টুকরা পাথর 20 সেকেণ্ড পরে মাটিতে পড়ল । পাথরের টুকরা পতিত হওয়ার সময় বেলুনের উচ্চতা কত ছিল?",
+      "options": [
+        {
+          "id": "math_21_opt_1",
+          "label": "A",
+          "text": "390 m"
+        },
+        {
+          "id": "math_21_opt_2",
+          "label": "B",
+          "text": "560 m"
+        },
+        {
+          "id": "math_21_opt_3",
+          "label": "C",
+          "text": "1250 m"
+        },
+        {
+          "id": "math_21_opt_4",
+          "label": "D",
+          "text": "1560 m"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 390 m\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_22",
+      "question": "70 জন শিক্ষার্থী গণিত, পদার্থবিদ্যা ও রসায়ন অধ্যয়ন করে । তার মধ্যে 40 জন পদার্থবিদ্যা, 30 জন রসায়ন এবং 35 জন গণিতে অধ্যয়ন করে । 15 জন শিক্ষার্থী তিনটি বিষয়ই অধ্যয়ন করে । কতজন শিক্ষার্থী কেবল দুইটি বিষয় অধ্যয়ন করে?",
+      "options": [
+        {
+          "id": "math_22_opt_1",
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "id": "math_22_opt_2",
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "id": "math_22_opt_3",
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "id": "math_22_opt_4",
+          "label": "D",
+          "text": "9"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 5\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    },
+    {
+      "id": "du-12-13-math_23",
+      "question": "a এর মান কত হলে$\\overrightarrow{A}=2\\hat{i}+a\\hat{j}+\\hat{k}$এবং$\\overrightarrow{B}=4\\hat{i}-2\\hat{j}-2\\hat{k}$ভেক্টরদ্বয় পরস্পর লম্ব হবে ?",
+      "options": [
+        {
+          "id": "math_23_opt_1",
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "id": "math_23_opt_2",
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "id": "math_23_opt_3",
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "id": "math_23_opt_4",
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "সঠিক উত্তর: [A] 1\n\n**ব্যাখ্যা ও সমাধান:**\nপ্রদত্ত গাণিতিক বা বিষয়ভিত্তিক নীতি অনুযায়ী বিশ্লেষণ করে সঠিক উত্তর পাওয়া যায়।",
+      "subject": "Higher Mathematics",
+      "year": "12-13",
+      "university": "DU",
+      "session": "DU 12-13 MCQ"
+    }
+  ]
+}

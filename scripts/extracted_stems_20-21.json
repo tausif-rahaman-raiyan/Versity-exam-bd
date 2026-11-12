@@ -1,0 +1,992 @@
+[
+  {
+    "idx": 1,
+    "subject": "Physics",
+    "stem": "1. a এর মান কত হলে $Ā=2î+2ĵ-k̂$ এবং $B̄=aî+ĵ$ ভেক্টরদ্বয় পরস্পর লম্ব হবে?",
+    "opts": [
+      "-1",
+      "7/4",
+      "0",
+      "2"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "Physics",
+    "stem": "2. কত বেগে চললে একটি রকেটের গতিশীল দৈর্ঘ্য এর নিশ্চল দৈর্ঘ্যের অর্ধেক হবে?",
+    "opts": [
+      "1/2 c",
+      "√3/2 c",
+      "3/√2",
+      "3/4 c"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "Physics",
+    "stem": "3. একটি m ভরের বস্তু ঘর্ষণবিহীন একটি তলে v বেগে চলার সময় একটি স্প্রিং-এর সাথে ধাক্কা লেগে স্প্রিংটিকে সংকুচিত করল। শিম্প্রংটির বল-ধ্রুবক k হলে স্প্রিংটি কতটুকু সংকুচিত হবে?",
+    "opts": [
+      "$\\sqrt{\\frac{m}{k}} v$",
+      "$\\sqrt{\\frac{k}{m}} v$",
+      "$\\sqrt{k v}$",
+      "$\\sqrt{m v}$"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "Physics",
+    "stem": "4. একটি বস্তু 12 m ব্যাসার্ধের একটি বৃত্তাকার পথে চলমান আছে। একটি মুহূর্তে বৃত্তাকার পথে এর দ্রুতি 6ms-1 এবং এটি 4ms-2 হারে বৃদ্ধি পাচ্ছে। ঐ মুহূর্তে বস্তুটির ত্বরণের মান কত?",
+    "opts": [
+      "2m/s2",
+      "3m/s2",
+      "4m/s2",
+      "5m/s2"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "Physics",
+    "stem": "5. অভীকর্ষীয় ত্বরণ g বনাম পৃথিবী পৃষ্ঠ হতে গভীরতা h এর লেখচিত্র কোনটি?",
+    "opts": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Physics",
+    "stem": "6. ইয়ং এর দ্বি-চির পরীক্ষণের চিরদ্বয়ের মধ্যবর্তী দূরত্ব হলাে d এবং চিরদ্বয় থেকে পর্দা D দূরত্বে অবস্থিত। পর্দার উপর প্রতি একক প্রস্থে ডােরার সংখ্যা হলাে-",
+    "opts": [
+      "$\\frac{D}{d \\lambda}$",
+      "$\\frac{d}{D \\lambda}$",
+      "$\\frac{\\lambda}{D d}$",
+      "$\\frac{d^{2}}{\\lambda D^{3}}$"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "Physics",
+    "stem": "7. একটি সরল দোলকের দোলনকাল 50% বাড়াতে এর কার্যকর দৈর্ঘ্যের পরিবর্তন কত হবে?",
+    "opts": [
+      "25%",
+      "100%",
+      "125%",
+      "67%"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "Physics",
+    "stem": "8. কোনাে আদর্শ গ্যাসের তাপমাত্রা কেলভিন স্কেলে 4 গুণ হলে তার অণুগুলাের মূল গড় বর্গবেগ কত গুণ বৃদ্ধি পায়?",
+    "opts": [
+      "4",
+      "1/2",
+      "2.3",
+      "2"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "Physics",
+    "stem": "9. একটি সমান্তরাল পাত ধারককে চার্জিত করার পর ব্যাটারি খুলে ফেলা হলাে। এ অবস্থায় ধারকটিতে সঞ্চিত শক্তির পরিমাণ U0 । পাত দুটির দূরত্ব যদি দ্বিগুণ করা হয়, তবে ধারকে সঞ্চিত শক্তি কত গুণ হবে?",
+    "opts": [
+      "U0/2",
+      "U0/4",
+      "2U0",
+      "4U0"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "Physics",
+    "stem": "10. q আধান বিশিষ্ট একটি গােলককে একটি অপরিবাহী সূতার একপ্রান্ত বেঁধে $\\omega$ কৌণিক বেগে ঘােরানাে হচ্ছে। ঘূর্ণায়মান আধানটি কী পরিমাণ বিদ্যুৎ উৎপন্ন করবে?",
+    "opts": [
+      "ωq",
+      "2πωq",
+      "q/ω",
+      "qω/2π"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "Physics",
+    "stem": "11. স্থিতিস্থাপক গুণাংকের মাত্রা কী?",
+    "opts": [
+      "MLT-1",
+      "ML-1T-2",
+      "MLT-2",
+      "ML2T-2"
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Physics",
+    "stem": "12. ${ }^{27}{ }_{13} \\mathrm{Al}+{ }_{2}^{4} \\mathrm{He} \\rightarrow{ }_{14}^{30} \\mathrm{Si}+‘X’$ নিউক্লীয় বিক্রিয়াটিতে অনুপস্থিত কণাটি হলাে-",
+    "opts": [
+      "আলফা কণা",
+      "ইলেক্ট্রন",
+      "প্রোটন",
+      "নিউট্রন"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "Physics",
+    "stem": "13. 14 মিনিট পরে একটি তেজস্ক্রিয় মৌলের 1/16 অংশ অবশিষ্ট থাকে। এর অর্ধায়ু হবে-",
+    "opts": [
+      "7/8 min",
+      "7/4 min",
+      "7/2 min",
+      "14/3 min"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "Physics",
+    "stem": "14. কোনাে দিক পরিবর্তী তড়িচ্চালক বলের গড়বর্গের বর্গমূল মান 10 volt। তড়িচ্চালক বলের শীর্ষমান হলাে-",
+    "opts": [
+      "10.00 volt",
+      "14.14 volt",
+      "5.00 volt",
+      "1.41 volt"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "Chemistry",
+    "stem": "15. কোন ত্রুটি দূরীকরণে উত্তল লেন্স ব্যবহার করা হয়?",
+    "opts": [
+      "ক্ষীণ দৃষ্টি",
+      "দূর দৃষ্টি",
+      "চালশে",
+      "বিষম দৃষ্টি"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "Chemistry",
+    "stem": "1. NaCl এর সাথে H₂O যোগ করলে কোনটি ঘটে?",
+    "opts": [
+      "NaOH+HCl",
+      "H++OH-",
+      "Na+(H2O)+Cl$^-$(H2O)",
+      "NaOCl+H2"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Chemistry",
+    "stem": "2. নিম্নের বিক্রিয়াগুলো হতে কার্বনের প্রমাণ দহন তাপ নির্ণয় কর। $i.\\ \\ C(s)+\\frac{1}{2}O_2(g)→CO(g)\\Delta H\\degree=-111.0\\ kJ\\ mol^{-1}$ $ii.\\ \\ COg)+\\frac{1}{2}O_2(g)→CO_2(g)\\Delta H\\degree=-283.\\ 0kJ\\ mol^{-1}$",
+    "opts": [
+      "$-173.\\ 0\\ kJ\\ mol^{-1}$",
+      "$-394.0\\ kJ\\ mol^{-1}$",
+      "$373.\\ 0kJ\\ mol^{-1}$",
+      "$394.0\\ kJ\\ mol^{-1}$"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "Chemistry",
+    "stem": "3. As এর কয়টি যোজন ইলেকট্রন আছে?",
+    "opts": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Chemistry",
+    "stem": "4. অ্যালকাইল হ্যালাইডের E2 অপসারণ বিক্রিয়ায়, অ্যালকোহলিক KOH/NaOH এর ভূমিকা হলাে-",
+    "opts": [
+      "ক্ষার",
+      "দ্রাবক",
+      "অনুঘটক",
+      "নিউক্লিওফাইল"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "Chemistry",
+    "stem": "5. হাইড্রোনিয়াম আয়নে কোন কোন বন্ধন বিদ্যামান?",
+    "opts": [
+      "আয়নিক ও সমযোজী",
+      "সমযোজী ও সন্নিবেশ",
+      "আয়নিক ও সন্নিবেশ",
+      "আয়নিক ও হাইড্রোজেন বন্ধন"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "Chemistry",
+    "stem": "6. নিচের কোনটি সত্য নয়?",
+    "opts": [
+      "KW = 1×10-14",
+      "pKW=14",
+      "[H3O+][OH-]=KW",
+      "KW=1×10-14M"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "Chemistry",
+    "stem": "7. ক্রোমিক এসিড দ্বারা কাঁচপাত্র পরিষ্কার করার সময় কোন ধরনের বিক্রিয়া ঘটে?",
+    "opts": [
+      "বিজারণ",
+      "প্রতিস্থাপন",
+      "প্রশমণ",
+      "জারণ"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "Chemistry",
+    "stem": "8. বিশুদ্ধ পানিতে OH- এবং H+ এর মােলার ঘনমাত্রা এর অনুপাত কত?",
+    "opts": [
+      "7",
+      "10-7",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "Chemistry",
+    "stem": "9. অষ্টক সম্প্রসারণ এর উদাহরণ কোনটি?",
+    "opts": [
+      "BeCl2",
+      "PCl5",
+      "BCl3",
+      "Cl2"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Chemistry",
+    "stem": "10. নিচের কোন তড়িৎদ্বারটির প্রমাণ বিজারণ বিভবের মান সবচেয়ে কম?",
+    "opts": [
+      "H+(aq)/H2(g). Pt",
+      "Cu+(aq)/Cu(s)",
+      "Na+(aq)/Na(s)",
+      "Pt(s)/F(g)/F-(aq)"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "Chemistry",
+    "stem": "11. aA →bB বিক্রিয়াটির ক্ষেত্রে কোনটি বিক্রিয়ার হার নির্দেশ করে?",
+    "opts": [
+      "$-\\frac{d[A]}{d t}$",
+      "$-\\frac{1}{a} \\frac{d[A]}{d t}$",
+      "$-\\frac{d[B]}{d t}$",
+      "$-\\frac{1}{b} \\frac{d[A]}{d t}$"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "Chemistry",
+    "stem": "12. দুধের প্রধান প্রোটিন হল -",
+    "opts": [
+      "ক্যারোটিন",
+      "লিপিড",
+      "ক্যাসিন",
+      "ল্যাকটালবুমিন"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "Chemistry",
+    "stem": "13. নিচের কোন যৌগটি সিলভার দর্পণ পরীক্ষা দেয়?",
+    "opts": [
+      "প্রোপানোন",
+      "প্রপিন",
+      "প্রপানল",
+      "প্রপান্যাল"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "Chemistry",
+    "stem": "14. বেনজিন বলয় সক্রিয়কারী মূলক কোনটি?",
+    "opts": [
+      "-NH2",
+      "- NO2",
+      "-CHО",
+      "- SO3H"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Mathematics",
+    "stem": "15. RH রিডবার্গ ধ্রুবক হলে, হাইড্রোজেন পরমাণুর বর্ণালিতে বামার সিরিজের জন্য সর্বনিম্ন কত তরঙ্গ সংখ্যার রশ্মি বিকিরিত হয়?",
+    "opts": [
+      "$\\frac{3}{5}$RH",
+      "$\\frac{5}{36}$RH",
+      "$\\frac{3}{16}$RH",
+      "$\\frac{9}{144}$RH"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "Mathematics",
+    "stem": "1. পোলার স্থানাংকে $r^{2}$ - 2rsin $\\theta$ = 3 একটি বৃত্তের সমীকরণ। বৃত্তটির ব্যাসার্ধ কত?",
+    "opts": [
+      "2 একক",
+      "3 একক",
+      "4 একক",
+      "6 একক"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "Mathematics",
+    "stem": "2. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+    "opts": [
+      "$\\frac{2}{25}$",
+      "$\\frac{49}{6}$",
+      "$\\frac{1}{8}$",
+      "tan x"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "Mathematics",
+    "stem": "3. 3N ও 2N মানের দুইটি বলের লদ্ধি R। প্রথম বলের মান দ্বিগুণ করলে লদ্ধির মানও দ্বিগুণ হয়। বলদ্বয়ের মধ্যবর্তী কোণের মান হবে-",
+    "opts": [
+      "30°",
+      "45°",
+      "65°",
+      "120°"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "Mathematics",
+    "stem": "4. 2u আদিবেগ এবং অনুভূমির সাথে লম্বভাবে প্ৰক্ষিপ্ত বস্তুর সর্বোচ্চ উচ্চতা হবে-",
+    "opts": [
+      "u2/2g",
+      "2u2/g",
+      "$\\frac{u^{2}}{2 g} \\sin \\alpha$",
+      "$\\frac{u^{2}}{2 g} \\cos \\alpha$"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "Mathematics",
+    "stem": "5. $\\frac{d}{d x}\\left(\\cos ^{2}(\\ln x)\\right)=?$",
+    "opts": [
+      "$-\\frac{\\sin (2 \\ln x)}{2}$",
+      "$-\\frac{2 \\cos (\\ln x)}{x}$",
+      "$-\\frac{\\sin (2 \\ln x)}{x}$",
+      "$-2x\\cos(\\ln x)\\sin(\\ln x)$"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Mathematics",
+    "stem": "6. তিনটি ছক্কা একবার নিক্ষেপ করা হলে তিনটিতেই একই সংখ্যা পাওয়ার সম্ভাবনা কত?",
+    "opts": [
+      "1/18",
+      "1/6",
+      "1/216",
+      "1/36"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "Mathematics",
+    "stem": "7. x2-2x+1 = 0 সমীকরণটির মুলদ্বয়ের ত্রিঘাত এর সমষ্টি হলাে-",
+    "opts": [
+      "2",
+      "3",
+      "-2",
+      "-3"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "Mathematics",
+    "stem": "8. (1 + x)7 (1 - x)8 এর বিস্তৃতিতে x7 এর সহগ কত?",
+    "opts": [
+      "30",
+      "32",
+      "35",
+      "40"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "Mathematics",
+    "stem": "9. 2x = y² + 8y + 22 পরাবৃত্তের শীর্ষবিন্দুর স্থানাঙ্ক হবে-",
+    "opts": [
+      "(3,-4)",
+      "(-3,4)",
+      "(-3,-4)",
+      "(3,4)"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "Mathematics",
+    "stem": "10. $\\int_{0}^{2}|x-1| \\mathrm{dx}=?$",
+    "opts": [
+      "0",
+      "1",
+      "2",
+      "$\\frac{1}{2}$"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "Mathematics",
+    "stem": "11. $f(x) = \\sqrt{3 - \\sqrt{x - 2}}$ ফাংশনটির ডোমেন কত?",
+    "opts": [
+      "x≤3",
+      "x ≥ 2",
+      "$2 \\le x \\le 11$",
+      "2 ≤x≤3"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "Mathematics",
+    "stem": "12. $\\cosec \\theta + \\cot \\theta = \\sqrt{3}(0 < \\theta < \\pi)$ হলে $\\theta$ এর মান হবে-",
+    "opts": [
+      "$\\frac{\\pi}{2}$",
+      "$\\frac{\\pi}{3}$",
+      "$\\frac{\\pi}{4}$",
+      "$\\frac{\\pi}{6}$"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Mathematics",
+    "stem": "13. যদি A, B, C ম্যাট্রিক্স তিনটির আকার যথাক্রমে $4 \\times 5$, $5 \\times 4$ এবং $4 \\times 2$ হয়, তবে $(A^T + B)C$ ম্যাট্রিক্সটির আকার কী?",
+    "opts": [
+      "4×2",
+      "5x4",
+      "2 x5",
+      "5 x 2"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "Mathematics",
+    "stem": "14. যদি $y = kx (2x + \\sqrt{3})$ বক্ররেখার মূলবিন্দুতে স্পর্শকটি x-অক্ষের সাথে $30^\\circ$ কোণ উৎপন্ন করে তাহলে k-এর মান হবে-",
+    "opts": [
+      "$\\frac{1}{3}$",
+      "$\\sqrt{3}$",
+      "$\\frac{1}{\\sqrt{3}}$",
+      "$\\frac{1}{2}$"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Biology",
+    "stem": "15. $x = a \\cos \\theta + b \\sin \\theta, y = a \\sin \\theta - b \\cos \\theta$ কোন কনিকের সমীকরণ?",
+    "opts": [
+      "ellipse",
+      "parabola",
+      "circle",
+      "hyperbola"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "Biology",
+    "stem": "1. কোন ব্যাকটেরিয়ার একটি মাত্র ফ্লাজেলাম থাকে?",
+    "opts": [
+      "Spirillum minus",
+      "Vibrio cholerae",
+      "Pseudomonas fluorescens",
+      "Bacillus subtilis"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Biology",
+    "stem": "2. উদ্ভিদের রোম অথবা ট্রাইকোম কোনটির অংশ?",
+    "opts": [
+      "ত্বক",
+      "অধঃত্বক",
+      "কর্টেক্স",
+      "অন্তঃত্বক"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "Biology",
+    "stem": "3. প্রােফেজ-১ এর কোন পর্যায়ে কায়জমা সৃষ্টি হয়?",
+    "opts": [
+      "লেপ্টোটিন",
+      "জাইগোটিন",
+      "প্যাকাইটিন",
+      "ডিপ্লোটিন"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Biology",
+    "stem": "4. দ্বৈত প্রচ্ছন্ন এপিস্ট্যাসিসের অনুপাত কত?",
+    "opts": [
+      "১৩ : ৩",
+      "৯ : ৭",
+      "৩ : ১",
+      "২ : ১"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "Biology",
+    "stem": "5. ম্যান্টল কোন পর্বের প্রাণির বৈশিষ্ট্য?",
+    "opts": [
+      "Protozoa",
+      "Arthropoda",
+      "Echinodermata",
+      "Mollusca"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "Biology",
+    "stem": "6. পতঙ্গের সম্পূর্ণ রূপান্তর নিম্নলিখিত কোন্ ধাপগুলাে নিয়ে গঠিত?",
+    "opts": [
+      "ডিম-নিম্ফ-পূর্ণাঙ্গ পতঙ্গ",
+      "ডিম-লার্ভা-পূর্ণাঙ্গ পতঙ্গ",
+      "ডিম-পিউপা-লাঙা-পূর্ণাঙ্গ পতঙ্গ",
+      "ডিম-লার্ভা-পিউপা-পূর্ণাঙ্গ পতঙ্গ"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "Biology",
+    "stem": "7. মানবদেহে স্টেম কোষ কোথায় অবস্থিত?",
+    "opts": [
+      "অগ্ন্যাশয়ে",
+      "যকৃতে",
+      "অস্থিমজ্জায়",
+      "হৃৎপিন্ডে"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "Biology",
+    "stem": "8. মানবদেহের কটিদেশীয় অঞ্চলে কশেরুকার সংখ্যা কত?",
+    "opts": [
+      "৪ টি",
+      "৫ টি",
+      "৭ টি",
+      "১২ টি"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "Biology",
+    "stem": "9. নিচের কোনটিতে একিনিটি এবং হেটারােসিস্ট পাওয়া যায়?",
+    "opts": [
+      "Escherichia",
+      "Nostoc",
+      "Zygnema",
+      "Chlorella"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "Biology",
+    "stem": "10. কোরালয়েড মূল দেখা যায়-",
+    "opts": [
+      "Cycas",
+      "Pinus",
+      "Fern",
+      "Gnetum"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "Biology",
+    "stem": "11. জলাভূমির উদ্ভিদ কোনটি?",
+    "opts": [
+      "Tectoma grandis",
+      "Barringtonia acutangula",
+      "Shorea robusta",
+      "Pistia stratiotes"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "Biology",
+    "stem": "12. নিচের কোন অ্যান্টিবডি বুকের দুধের মাধ্যমে প্রবাহিত হয়?",
+    "opts": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgE"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "Biology",
+    "stem": "13. চ্যাপ্টা কৃমির বৈজ্ঞানিক নাম কী?",
+    "opts": [
+      "Loa loa",
+      "Fasciola hepatica",
+      "Ascaris lumbricoides",
+      "None of them"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Biology",
+    "stem": "14. কোন কোডনটি কোনো অ্যামাইনো অ্যাসিড নির্দেশ করে না?",
+    "opts": [
+      "CCU",
+      "ACU",
+      "UGA",
+      "AAG"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "Bangla",
+    "stem": "15. মানবদেহে রক্তের প্লাজমার স্বাভাবিক pH কত?",
+    "opts": [
+      "7.0",
+      "7.4",
+      "7.6",
+      "7.8"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "Bangla",
+    "stem": "1. \"চিত্রময় বর্ণনার বাণী''- কবি কোথা থেকে কুড়িয়ে আনেন?",
+    "opts": [
+      "প্রকৃতির ঐকতান সাত থেকে",
+      "ভ্রমণ বৃত্তান্ত থেকে",
+      "মানুষের কীর্তি থেকে",
+      "কবিতা থেকে"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "Bangla",
+    "stem": "2. সালামের হাত থেকে কিসের মতো অবিনাশী বর্ণমালা ঝরে?",
+    "opts": [
+      "কৃষ্ণচূড়ার মতো",
+      "রক্তের বুদবুদের মতো",
+      "বিপ্লবের মতো",
+      "নক্ষত্রের মতো"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "Bangla",
+    "stem": "3. স্থির শব্দের বিপরীত শব্দ হলো-",
+    "opts": [
+      "জঙ্গম",
+      "কোলাহল",
+      "উচ্চরব",
+      "নিশ্চল"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "Bangla",
+    "stem": "4. বেগম রােকেয়া সাখাওয়াত হােসেন সভ্যতার সঙ্গে দারিদ্রা বৃদ্ধির কারণ নির্দেশ করেছেন?",
+    "opts": [
+      "অলসতা",
+      "বিলাসিতা",
+      "অসততা",
+      "অজ্ঞতা"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "Bangla",
+    "stem": "5. কাজী নজরুল ইসলামের মতে, কিসের মধ্য দিয়ে সত্যকে পাওয়া যায়?",
+    "opts": [
+      "মনুষ্যত্ব",
+      "ধর্ম",
+      "সংগ্রাম",
+      "ভুল"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "Bangla",
+    "stem": "6. বৃক্ষ কেবল বৃদ্ধির ইশারা নয়, মােতাহের হােসেন চৌধুরী বলেছেন, তা আরাে কিছুর ইঙ্গিত; সেটি কী?",
+    "opts": [
+      "বিবেচনাবােধ",
+      "প্রশান্তি",
+      "ধৈর্যশীলতা",
+      "গতিময়তা"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "Bangla",
+    "stem": "7. কোনটি পর্তুগিজ শব্দ নয়?",
+    "opts": [
+      "আলকাতরা",
+      "আলপিন",
+      "আলবোলা",
+      "আলমারি"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "Bangla",
+    "stem": "8. 'যে ভবিষ্যত না ভেবেই কাজ করে' এক কথাই হবে -",
+    "opts": [
+      "অবিমৃষ্যকারী",
+      "অবিচারী",
+      "অনাচারী",
+      "অবিবেচক"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "Bangla",
+    "stem": "9. নিচের কোনটি উত্তম পুরুষের ক্রিয়াপদের উদাহরণ?",
+    "opts": [
+      "করেছ",
+      "করেছি",
+      "করেছিস",
+      "করেছেন"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "Bangla",
+    "stem": "10. ণ-ত্ব বিধান অনুসারে ভুল বানান আছে কোন গুচ্ছে?",
+    "opts": [
+      "ধরন, পুরোনো",
+      "নেত্রকোনা, গৃহকোণ",
+      "ক্ষণকাল, বর্ষণ",
+      "মূল্যায়ণ, নিরূপন"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Bangla",
+    "stem": "11. কোনটি অপপ্রয়োগ?",
+    "opts": [
+      "একক",
+      "একত্র",
+      "একত্রিত",
+      "একতা"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "Bangla",
+    "stem": "12. 'এবারের সংগ্রাম স্বাধীনতার সংগ্রাম'-এখানে কারক-বিভক্তি বিচারে 'স্বাধীনতার' হলাে-",
+    "opts": [
+      "নিমিত্তার্থে ৭মী",
+      "কর্মে ৬ষ্ঠী",
+      "নিমিত্তার্থে ৬ষ্ঠী",
+      "অপাদানে ৭মী"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Bangla",
+    "stem": "13. 'অনাবৃষ্টির দিনে ফুলের কুঁড়িটির মতো মেয়ের বিমর্ষ মুখ।' -কোন রচনার বাক্য?",
+    "opts": [
+      "রেইনকোট",
+      "অপরিচিতা",
+      "মহাজাগতিক কিউরেটর",
+      "চাষার দুক্ষু"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "Bangla",
+    "stem": "14. নিচের কোন কবিতায় ট্রয় নগরীর প্রসঙ্গ আছে?",
+    "opts": [
+      "সাম্যবাদী",
+      "বিভীষণের প্রতি মেঘনাদ",
+      "সেই অস্ত্র",
+      "ঐকতান"
+    ]
+  },
+  {
+    "idx": 75,
+    "subject": "English",
+    "stem": "15. 'সাম্যবাদী' কবিতায় উল্লেখকৃত ‘জেন্দাবেস্তা' কী?",
+    "opts": [
+      "একপ্রকারের খাদ্য",
+      "পারস্যের অগ্নি উপাসকদের ধর্মগ্রন্থ ও ভাষা",
+      "ধর্ম বিশেষ",
+      "উড়িষ্যের একটি স্থান"
+    ]
+  },
+  {
+    "idx": 76,
+    "subject": "English",
+    "stem": "1. ____ his alert and vigilant presence, all predatory animals were said to have been kept within bounds.",
+    "opts": [
+      "Hence",
+      "However",
+      "in addition to",
+      "Because of"
+    ]
+  },
+  {
+    "idx": 77,
+    "subject": "English",
+    "stem": "2. Complete the following sentence using the most suitable option given below:If I had a car, ____",
+    "opts": [
+      "I took you to a long drive",
+      "I would have been taken you to a long drive",
+      "I would have taken you to a long drive.",
+      "I would take you to a long drive."
+    ]
+  },
+  {
+    "idx": 78,
+    "subject": "English",
+    "stem": "3. Complete the sentence with the most appropriate option below: \"The organization helps _____ elderly.\"",
+    "opts": [
+      "the",
+      "an",
+      "a",
+      "no article"
+    ]
+  },
+  {
+    "idx": 79,
+    "subject": "English",
+    "stem": "4. Do you get ......... well ....... your sister?",
+    "opts": [
+      "by, to",
+      "on, with",
+      "into, with",
+      "in, to"
+    ]
+  },
+  {
+    "idx": 80,
+    "subject": "English",
+    "stem": "5. Don't make so much noise. Shibli ___ to study for his admission test!",
+    "opts": [
+      "try",
+      "tries",
+      "tried",
+      "is trying"
+    ]
+  },
+  {
+    "idx": 81,
+    "subject": "English",
+    "stem": "6. Would you mind ........ a cup of coffee with me?",
+    "opts": [
+      "drink",
+      "having to drink",
+      "having",
+      "to drink"
+    ]
+  },
+  {
+    "idx": 82,
+    "subject": "Bangla",
+    "stem": "7. Bangladesh is ......... huge inland open water resources.",
+    "opts": [
+      "equipped with",
+      "submerged by",
+      "blessed by",
+      "blessed with"
+    ]
+  },
+  {
+    "idx": 83,
+    "subject": "Bangla",
+    "stem": "8. By this time next year, I ____ all my exams.",
+    "opts": [
+      "will taken",
+      "have taken",
+      "will have taken",
+      "took"
+    ]
+  },
+  {
+    "idx": 84,
+    "subject": "Bangla",
+    "stem": "9. The synonym of 'Incompatible' is-",
+    "opts": [
+      "disqualified",
+      "incomprehensible",
+      "unsuitable",
+      "incompetent"
+    ]
+  },
+  {
+    "idx": 85,
+    "subject": "Bangla",
+    "stem": "10. If you are skeptical you are-",
+    "opts": [
+      "credulous",
+      "villainous",
+      "philosophical",
+      "doubtful"
+    ]
+  },
+  {
+    "idx": 86,
+    "subject": "Bangla",
+    "stem": "11. Change the voice of this sentence: \"He does not like people laughing at him\".",
+    "opts": [
+      "People laughing at him are not liked by him",
+      "He does not like being laughed at.",
+      "To be laughed at by people are not like by him.",
+      "He does not like him being laughed at by people."
+    ]
+  },
+  {
+    "idx": 87,
+    "subject": "Bangla",
+    "stem": "12. The noun of 'bore' is-",
+    "opts": [
+      "boring",
+      "bores",
+      "bored",
+      "boredom"
+    ]
+  },
+  {
+    "idx": 88,
+    "subject": "Bangla",
+    "stem": "13. Whose book is that?",
+    "opts": [
+      "It's of Mita's",
+      "it's Mitas'",
+      "It's Mita's",
+      "Its Mita's"
+    ]
+  },
+  {
+    "idx": 89,
+    "subject": "Bangla",
+    "stem": "14. The antonym of the word ' malignant' is-",
+    "opts": [
+      "safe",
+      "harmful",
+      "benign",
+      "difficult"
+    ]
+  },
+  {
+    "idx": 90,
+    "subject": "Bangla",
+    "stem": "15. Choose the correctly spelled word.",
+    "opts": [
+      "Synonymus",
+      "Hippopotamous",
+      "Hypocrisy",
+      "Antonymus"
+    ]
+  }
+]

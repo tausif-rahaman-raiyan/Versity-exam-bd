@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" width="280" height="180">
+  <rect width="280" height="180" fill="#f8fafc" rx="10"/>
+  <!-- Medium Boundaries -->
+  <line x1="20" y1="60" x2="260" y2="60" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <line x1="20" y1="120" x2="260" y2="120" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <!-- Labels for Media -->
+  <text x="35" y="35" font-size="12" font-weight="bold" fill="#1e293b">Medium 1 (v₁)</text>
+  <text x="35" y="95" font-size="12" font-weight="bold" fill="#1e293b">Medium 2 (v₂)</text>
+  <text x="35" y="155" font-size="12" font-weight="bold" fill="#1e293b">Medium 3 (v₃)</text>
+  <!-- Light Ray -->
+  <path d="M 80 15 L 120 60 L 140 120 L 220 165" stroke="#dc2626" stroke-width="3" fill="none"/>
+  <!-- Normals -->
+  <line x1="120" y1="40" x2="120" y2="80" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="140" y1="100" x2="140" y2="140" stroke="#94a3b8" stroke-width="1"/>
+</svg>

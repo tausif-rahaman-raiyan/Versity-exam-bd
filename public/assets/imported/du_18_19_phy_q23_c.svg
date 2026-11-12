@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 140" width="180" height="140">
+  <rect width="180" height="140" fill="#f8fafc" rx="8"/>
+  <line x1="30" y1="110" x2="160" y2="110" stroke="#334155" stroke-width="2"/>
+  <line x1="30" y1="110" x2="30" y2="20" stroke="#334155" stroke-width="2"/>
+  <text x="155" y="125" font-size="11" font-weight="bold" fill="#334155">t</text>
+  <text x="15" y="25" font-size="11" font-weight="bold" fill="#334155">v</text>
+  <line x1="30" y1="110" x2="140" y2="30" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="132" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">(গ)</text>
+</svg>
