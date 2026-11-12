@@ -40,7 +40,7 @@ A comprehensive, interactive Question Bank and Exam Practice Platform for Dhaka 
 - **Math & Chemical Reactions**: Formatted with KaTeX LaTeX (`$...$`). Chemical reaction equations (e.g. `TiO_{2(s)} + 2CO_{(g)} \rightarrow Ti_{(s)} + 2CO_{2(g)}`) automatically wrap into LaTeX and feature bold styling, clean subscript states, and explicit reaction arrow spacing (`\rightarrow`, `\rightleftharpoons`).
 - **Diagrams & Assets**: SVG & PNG diagrams embedded locally with runtime `SmartImage` error fallback (e.g. `/assets/imported/du_18_19_phy_q23_a.svg`).
 - **Explanation Headings**: Styled with **bold, enlarged typography** (`font-black text-base sm:text-lg text-indigo-800 dark:text-sky-300`) for clean readability across Question Bank and Exam modes.
-
+tausif Raiyan
 ---
 
 ### 3. Navigation & Scroll Restoration
